@@ -1,11 +1,11 @@
 <?php
 return [
-	'name' => "ConsultJeremy",
+	'name' => "Ncert Solutions",
 	'title' => "dev (b) log",
     'subtitle' => 'Confessions of a Programmer',
     'description' => 'Confessions of a Programmer',
 	'author' => 'Jeremy Kenedy',
-	'page_image' => 'backgrounds/home-bg.jpg',
+	'page_image' => 'home-bg.jpg',
     'posts_per_page' => 10,
     'rss_size' => 25,
     //'contact_email' => config('blog.contact_email'),

@@ -16,9 +16,33 @@
 // });
 
 // Blog pages
+
+
+
+
+
 get('/', function () {
   return redirect('/blog');
 });
+
+
+
+get('/maths/{param}','BlogController@maths');
+
+
+
+
+
+
+/*
+get('blog', function(){
+
+
+  echo "fgtgtg";exit;
+});
+
+*/
+
 get('blog', 'BlogController@index');
 get('blog/{slug}', 'BlogController@showPost');
 $router->get('contact', 'ContactController@showForm');

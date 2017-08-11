@@ -58,7 +58,7 @@
                     <div class="dropdown-inner">
                       <ul class="list-unstyled">
                         <li>
-                          <a href="/maths/9">Maths</a>
+                          <a href="/maths">Maths</a>
                         </li>
                         <li>
                           <a href="#">Physics</a>
@@ -77,7 +77,7 @@
                     <div class="dropdown-inner">
                       <ul class="list-unstyled">
                         <li>
-                          <a href="/maths/10">Maths</a>
+                          <a href="/maths">Maths</a>
                         </li>
                         <li>
                           <a href="#">Physics</a>

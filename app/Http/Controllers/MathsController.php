@@ -10,27 +10,27 @@ use Illuminate\Http\Request;
 use App\Services\RssFeed;
 use App\Services\SiteMap;
 
-class BlogController extends Controller
+class MathsController extends Controller
 {
   public function index(Request $request)
   {
+
+echo "inside maths controller";
+exit;
+
 //echo "ggggg";
 //var_dump($request);
 
    // echo "htrtrssss";
 
     $tag = $request->get('tag');
-
-
-  //  var_dump($tag);
-
-    
-
     $data = $this->dispatch(new BlogIndexData($tag));
 
 //echo "<pre>";
 //print_r($data);
 
+
+//exit;
 
 
 
@@ -63,71 +63,4 @@ class BlogController extends Controller
     return response($map)
       ->header('Content-type', 'text/xml');
   }
-
-
-
- public function maths($param)
-  {
-
-
-    //echo $param;
-
-
-    //echo "inside maths tps controller";
-
-
-
-
-
-    $tag = NULL;
-    $data = $this->dispatch(new BlogIndexData($tag));
-
-   // echo "<pre>";
-    //print_r($data);
-
-
-    $chapters = array('9'=>7,'10'=>10);    
-
-
-
-    $data = Array
-(
-    'title' => 'dev (b) log',
-    'subtitle' => 'Confessions of a Programmer',
-    
-
-    'page_image' => 'home-bg.jpg',
-    'meta_description' => 'Confessions of a Programmer',
-    'tag' =>'',
-    'class' => $param,
-    'chapters'=> $chapters[$param]
-     
-);
-
-
-  //  echo "<pre>";
-   // print_r($data);exit;
-
-
-
-    $layout =  'blog.layouts.chapters';
-
-
-
-    //$layout = 'blog.layouts.index';
-
-    return view($layout, $data);
-
-    /*$map = $siteMap->getSiteMap();
-
-    return response($map)
-      ->header('Content-type', 'text/xml');*/
-  }
-
-
-
-
-
-
-
 }

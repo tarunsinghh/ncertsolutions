@@ -1,7 +1,7 @@
 @extends('blog.layouts.master')
-
+hhhhhhhhhhhhhh
 @section('page-header')
-  <header class="intro-header parallax-window" data-parallax="scroll"  >
+  <header class="intro-header parallax-window" data-parallax="scroll" data-image-src="home-bg.jpg" >
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
