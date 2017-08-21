@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">s
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,10 +8,21 @@
     <meta name="author" content="{{ config('blog.author') }}">
     <title>{{ $title or config('blog.title') }}</title>
     <link rel="alternate" type="application/rss+xml" href="{{ url('rss') }}" title="RSS Feed {{ config('blog.title') }}">
+        <script type="text/javascript" src="/assets/js/blog.js"></script>
 
+
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX","output/HTML-CSS"],
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+</script>
     {{-- Styles --}}
     <link href="/assets/css/blog.css" rel="stylesheet">
     @yield('styles')
+     @yield('scripts')
 
     {{-- HTML5 Shim and Respond.js for IE8 support --}}
     <!--[if lt IE 9]> 
@@ -35,6 +46,14 @@
 
     {{-- Scripts --}}
     <script type="text/javascript" src="/assets/js/blog.js"></script>
+
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX","output/HTML-CSS"],
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+</script>
     @yield('scripts')
   </body>
 </html>

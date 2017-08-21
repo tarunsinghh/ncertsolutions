@@ -35,7 +35,7 @@
 
           @for  ($i=1;$i<= $chapters ;++ $i)
           
-          <a href="/blog">
+          <a href="/solutions/0/10/2" >
               <h4 class="post-title">Chapter{{ $i }}</h4>
           </a>
 
@@ -50,6 +50,21 @@
 
           
        @stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

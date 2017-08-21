@@ -28,6 +28,8 @@ get('/', function () {
 
 
 get('/maths/{param}','BlogController@maths');
+get('/solutions/{class}/{chapter}/{solutions}','BlogController@solutions');
+
 
 
 
