@@ -249,7 +249,7 @@ Also, the Product of zeroes in any quadratic polynomial equation is given by = \
 <p>g(x) =  2 – x<sup>2</sup></p>
 
 
-<p><strong>Note:Now this is one of the question where students do mistakes and its very innocent kind</strong>br>
+<p><strong>Note:Now this is one of the question where students do mistakes and its very innocent kind</strong></p></br>
 Do you know any reason why g(x) is written that particular way,why they have not wriiten g(x) =  – x<sup>2 + 2</sup></br>
 That is because the questioner wants you to start dividing by i.e you write 3 in the quotient and subtract 3 - 3x from p(x).</br>
 But this is wrong and to know why ,we highly recommend you to read this tutorial</strong></p>
@@ -294,7 +294,7 @@ But this is wrong and to know why ,we highly recommend you to read this tutorial
 
 <p><strong>Solution:</strong>
 <p>Two of its zeros are \(\frac{\sqrt{5}}{3}\)  \(\frac{-\sqrt{5}}{3}\) ,that means (x - \(\frac{\sqrt{5}}{3}\) )
-and (x + \(\frac{\sqrt{5}}{3}\)) are its factors.So product of both will also be a factor ,i.e (x<sup>2</sup> - \(\frac{{5}}{3}\))  is a factor .Simplifying it,we get /(/frac{3x<sup>2</sup> - 5}{3}/) is a factor of 3x<sup>4</sup> + 6x<sup>3</sup>  -2x<sup>2</sup>,that means /(/frac{3x<sup>2</sup> - 5}{3}/) = 0,so /(/frac{3x<sup>2</sup> - 5}{3}/) is a factor.
+and (x + \(\frac{\sqrt{5}}{3}\)) are its factors.So product of both will also be a factor ,i.e (x<sup>2</sup> - \(\frac{{5}}{3}\))  is a factor .Simplifying it,we get /(/frac{3x^{2} - 5}{3}/) is a factor of 3x<sup>4</sup> + 6x<sup>3</sup>  -2x<sup>2</sup>,that means /frac{3x<sup>2</sup> - 5}{3}= 0,so /(/frac{3x<sup>2</sup> - 5}{3}/) is a factor.
 </p>
 <p>For getting other zeros we will have to divide and for self verify that you performed the division correctly the remainder should come zero,since its a factor:
 <p><img class="alignnone size-full " src="/polynomial7.gif" alt="2"  /></p>
@@ -305,7 +305,7 @@ and (x + \(\frac{\sqrt{5}}{3}\)) are its factors.So product of both will also be
 
 
 <p><strong>Question 4:</strong></p>
-<p>On dividing x<sup>3</sup> -3x<sup>2</sup> + x + 2 by a polynomial g(x),the quotient and rremainder were x - 2 and -2x + 4
+<p>On dividing x<sup>3</sup> -3x<sup>2</sup> + x + 2 by a polynomial g(x),the quotient and remainder were x - 2 and -2x + 4
 respectively,find g(x)</p>
 
 
@@ -323,7 +323,167 @@ respectively,find g(x)</p>
 <p>i) deg p(x) = deg q(x) </p>
 <p><strong>Solution:</strong>
 <p>Using p(x) = \(g(x)\times q(x)\) + r(x) </p>
+<p>Now degree of p(x) = degree of q(x)</p>
+<p>Now since degree of p(x) = degree of q(x),that means degree of g(x) should be zero</p>
+<p>so p(x) can be 2x<sup>2</sup> + 2  ,g(x) can be just 2</p>
+
+
+<p>ii) deg q(x) = deg r(x) </p>
+<p><strong>Solution:</strong>
+<p>This one is little tricky,we can find one sub case of it easily when degrees of both q(x) and r(x) are zero</p>
+<p>which is the case when degree of p(x) = degree of g(x)</p>
+<p>so p(x) can be x<sup>2</sup> + 9,g(x) can be x<sup>2</sup> ,quotient will be 1 ,remainder will be 9 both degrees zero</p>
+<p>How about lets say both q(x) and r(x) have degree 1</p>
+<p>Lets take p(x) to be of degree 2 ,lets say x^2 + 5x </p>
+<p>Now how we pick g(x) so that we know q(x) and r(x) will have highest power of x to be 1</p>
+<p>Since we know the remainder should have a term involving x,it should not be fully divisible</p>
+<p>if we pick g(x) to be just x ,then quotient will come x + 5,remainder will come zero,will not solve our purpose</p>
+<p>Lets add some constant term to it ,lets say g(x) = x + 2 divides x<sup>2</sup> + 5x</p>
+<p>The first term of quotient will come x,the remainder will be 3x,we cotinue the  term in the quotient will be 
+3 and we will be left with -6 as remainder.Doest solve our purpose</p>
+<p>lets say we take g(x) = x<sup>2</sup> + 3,then we are left with a term of x in remainder but degree of quotient is zero</p>
+<p> ohh my god ,we are doomed !! what to do now?</p>
+<p>Lets say we take p(x) = x<sup>3</sup> + x<sup>2</sup> + x and g(x)=x<sup>2</sup>,the logic here is we have to think reminader should have a term involving x</p>
+<p><img class="alignnone size-full " src="/polynomial9.gif" alt="2"  /></p>
+<p>Quotient = x</p>
+<p>Remainder = x</p>
+
+<p>You can also take p(x) - x<sup>3</sup> + x and g(x) = x<sup>2</sup></p>
+<p><img class="alignnone size-full " src="/polynomial10.gif" alt="2"  /></p>
+<p>Now you can think of any other example</p>
+<p><strong>Can you find any such example with degree of p(x) = 2,if yes why?,if no why ?</strong></p>
+
+
+
+
+
+<p>iii)deg r(x) = 0 </p>
+<p><strong>Solution:</strong></p>
+<p>This one is easy,there should not be any term involving x in remainder</p>
+<p>Lets try to find such cases</p>
+<p>deg r(x) = 0 ,that means degree of p(x) = \(degree of g(x)\times q(x) \)</p> 
+<p>Now there are various subcases in this</p>
+<p>a)when degree of g(x) = degree of p(x)</p>
+<p>so lets say p(x) = x<sup>2</sup> + 9,g(x) can be x<sup>2</sup> + 3 ,the remainder will be 6</p>
+<p>In this case degree of q(x) is also zero,so degree of q(x)=degree of r(x)</p>
+<p>This is one subcase of part b in which degree of q(x) and r(x) = 0</p>
+<p>Last case is when degree of g(x)< degree of p(x)</p>
+<p>so lets say p(x) = x<sup>2</sup> + 5,g(x) can be just x </p>
+<p>So on dividing we get 5 as the remainder</p>
+
+
+
+
+
+<p><strong>Exercise 2.4(optional)</strong></p>
+<p><strong>Question 1</strong></p>
+
+<p>Verify that the numbers given alongside the polynomial are their zeros,also verify the relationship between zeros and coefficient in each case</p>
+<p><strong>Solution:</strong>
+<p>Given p(x) = 2x<sup>3</sup> + x<sup>2</sup> - 5x + 2.</p>
 <p>
+
+p(\(\frac {1} {2}\))= \(2\times (\frac {1} {2})^{3}  +  (\frac {1} {2})^{2} - 5\times  (\frac {1} {2}) + 2 \) </p>
+
+<p>Solving it:p(1) = 0</p>
+
+<p>
+
+p(1) = 2 + 1 - 5 + 2 = 0 </p>
+
+<p>
+p(-2) = -16 + 4 + 10 + 2 = 0</p>
+<p>Hence the given numbers are zeros of the polynomials</p>
+<p>Now sum of zeros =  \(\frac {1} {2}\) +  1  -2 = \(\frac {-1} {2}\) = \(\frac {-coeff.\;\;of\;\;x{2}} {coeff.\;\;of\;\;x^{3}}\)</p>
+
+<p> \(\alpha\beta  + \beta\gamma  + \gamma\alpha \) = \(\frac {coeff.\;\;of\;\;x} {coeff.\;\;of\;\;x^{3}}\) = \(\frac {-5} {2}\)</p>  
+
+
+<p>\(\alpha\beta\gamma\) =   \(\frac {constant term} {coeff.\;\;of\;\;x^{3}}\) = -1</p>
+
+
+<p>ii)x<sup>3</sup> - 4x<sup>2</sup> + 5x - 2, 2,1,1</p>
+<p><strong>Solution:</strong></p>
+<p>p(2) = 8 - 16 + 10 - 2 = 0</p>
+<p>p(1) = 1 - 4 + 5 - 2 = 0</p>
+
+<p>Now sum of zeros =  2 +  1  + 1 = 4 = \(\frac {-coeff.\;\;of\;\;x{2}} {coeff.\;\;of\;\;x^{3}}\)</p>
+
+<p> \(\alpha\beta  + \beta\gamma  + \gamma\alpha \) = \(\frac {coeff.\;\;of\;\;x} {coeff.\;\;of\;\;x^{3}}\) = 5</p>  
+
+
+<p>\(\alpha\beta\gamma\) =   \(\frac {constant term} {coeff.\;\;of\;\;x^{3}}\) = -2</p>
+
+
+<p><strong>Question 2:Find a cubic polynomial with its sum of its zeros,sum of its zeros taken two at a time and product of zeros equal to 2,-7,-14</strong></p>
+
+
+<p><strong>Solution:</strong>
+<p>So we are given that</p>
+<p>\(\alpha + \beta + \gamma\) = 2  ----(1) </p>
+<p>\(\alpha\beta  + \beta\gamma  + \gamma\alpha \) = - 7--------(2)</p>
+<p>\(\alpha\beta\gamma \) = - 14----------(3)</p>
+
+
+<p>The required polynomial is:</p>
+<p>x<sup>3</sup> - (\(\alpha + \beta + \gamma\))x<sup>2</sup> + (\(\alpha\beta  + \beta\gamma  + \gamma\alpha \))x - (\(\alpha\beta\gamma \)) = 0 </p>
+
+<p>x<sup>3</sup> - 2x<sup>2</sup> -7x + 14 = 0 </p>
+
+
+<p><strong>Quesion 3:If the zeros of the polynomial are x<sup>3</sup> - 3x<sup>2</sup> + x + 1 are a-b,a and a +b,find a and b</strong></p>
+
+<p><strong>Solution:</strong></p>
+<p>We know the sum of roots =  \(\frac {-coeff.\;\;of\;\;x{2}} {coeff.\;\;of\;\;x^{3}}\) = 3</p>
+<p>a = 1 </p>
+<p>Also we know that \(\alpha\beta\gamma\) =   \(\frac {constant term} {coeff.\;\;of\;\;x^{3}}\)  = \(\frac {1} {3}\)</p>
+
+<p>1(1 - b<sup>2</sup>) = -1</p>
+<p>b = \(\sqrt 2\) or \(-\sqrt 2\)</p>
+<p>Both solutions gives you the same roots so b can be \(\sqrt 2\) or \(-\sqrt 2\)</p>
+
+
+
+
+<p><strong>Question 4:If the zeros if the polynomial are x<sup>4</sup> - 6x<sup>3</sup> -26x<sup>2</sup> + 138x - 35 are
+2 + \(\sqrt 3\) and 2 - \(\sqrt 3\),find other zeros.</strong></p>
+
+<p><strong>Solution:</strong></p>
+<p>Since (x - 2 - \(\sqrt 3\)) and (x - 2 + \(\sqrt 3\)) are two zeros ,their product will divide p(x)</p>
+<p>so p(x)= x<sup>2</sup> - 4x + 1 will be a factor</p>
+<p>On dividing</p>
+<p><img class="alignnone size-full " src="/polynomial11.gif" alt="2"  /></p>
+<p>So other zeros 7 and -5</p>
+
+
+<p><strong>Question 5,:</strong></p>
+<p>If the polynomial x<sup>4</sup> - 6x<sup>3</sup> +16x<sup>2</sup> - 25x + 10 is divided by another polynomial x<sup>2</sup> - 2x + k,the remainder comes out to be x+a,find k and a</p>
+
+<p>This question seems like a difficult question but its like any other polynomial divison ,on divind we get</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -9785,8 +9785,54 @@ if (typeof jQuery === 'undefined') {
     return hasWidth ? 'width' : 'height'
   }
 
+
+if (!this.transitioning && !this.$element.hasClass("in")) {
+
+
+console.log("inside collapse grest man");
+
+
+            var b, e = this.$parent && this.$parent.children(".panel").children(".in, .collapsing");
+            if (!(e && e.length && (b = e.data("bs.collapse"), b && b.transitioning))) {
+                var f = a.Event("show.bs.collapse");
+                if (this.$element.trigger(f), !f.isDefaultPrevented()) {
+                    e && e.length && (c.call(e, "hide"), b || e.data("bs.collapse", null));
+                    var g = this.dimension();
+                    this.$element.removeClass("collapse").addClass("collapsing")[g](0).attr("aria-expanded", !0), this.$trigger.removeClass("collapsed").attr("aria-expanded", !0), this.transitioning = 1;
+                    var h = function() {
+                        this.$element.removeClass("collapsing").addClass("collapse in")[g](""), this.transitioning = 0, this.$element.trigger("shown.bs.collapse")
+                    };
+                    if (!a.support.transition) return h.call(this);
+                    var i = a.camelCase(["scroll", g].join("-"));
+                    this.$element.one("bsTransitionEnd", a.proxy(h, this)).emulateTransitionEnd(d.TRANSITION_DURATION)[g](this.$element[0][i])
+                }
+            }
+        }
+
+
+
+
+
+
+
+
+  
+
   Collapse.prototype.show = function () {
+
+
+console.log("fffffffffff");
+
     if (this.transitioning || this.$element.hasClass('in')) return
+
+
+
+console.log(!this.transitioning);
+
+
+console.log("ko");
+console.log(!this.$element.hasClass("in"));
+
 
     var activesData
     var actives = this.$parent && this.$parent.children('.panel').children('.in, .collapsing')
@@ -9940,6 +9986,10 @@ if (typeof jQuery === 'undefined') {
   // =================
 
   $(document).on('click.bs.collapse.data-api', '[data-toggle="collapse"]', function (e) {
+
+
+console.log("inside collapse class");
+
     var $this   = $(this)
 
     if (!$this.attr('data-target')) e.preventDefault()
@@ -10011,6 +10061,10 @@ if (typeof jQuery === 'undefined') {
   }
 
   Dropdown.prototype.toggle = function (e) {
+
+
+console.log("ttttttttttttt");
+
     var $this = $(this)
 
     if ($this.is('.disabled, :disabled')) return

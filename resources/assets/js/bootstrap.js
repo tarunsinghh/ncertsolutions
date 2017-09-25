@@ -570,11 +570,20 @@ if (typeof jQuery === 'undefined') {
   }
 
   Collapse.prototype.dimension = function () {
+
+
+
+
     var hasWidth = this.$element.hasClass('width')
     return hasWidth ? 'width' : 'height'
   }
 
   Collapse.prototype.show = function () {
+
+
+
+    console.log("this is tarun");
+
     if (this.transitioning || this.$element.hasClass('in')) return
 
     var activesData

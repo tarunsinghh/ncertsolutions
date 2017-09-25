@@ -9,6 +9,7 @@
     <title>{{ $title or config('blog.title') }}</title>
     <link rel="alternate" type="application/rss+xml" href="{{ url('rss') }}" title="RSS Feed {{ config('blog.title') }}">
         <script type="text/javascript" src="/assets/js/blog.js"></script>
+        <script type="text/javascript" src="resources/assets/js/bootstrap.js"></script>
 
 
 
