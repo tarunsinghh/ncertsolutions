@@ -35,12 +35,12 @@ class BlogController extends Controller
 
     $data = Array
 (
-    'title' => 'dev (b) log',
-    'subtitle' => 'Confessions of a Programmer',
+    'title' => 'Ncert Solutions',
+    'subtitle' => 'Ncert Maths Solutions of all classes',
     
 
     'page_image' => 'home-bg.jpg',
-    'meta_description' => 'Confessions of a Programmer',
+    'meta_description' => 'Ncert Maths Solutions of all classes',
     'tag' =>'',
     
      
@@ -131,12 +131,12 @@ class BlogController extends Controller
 
     $data = Array
 (
-    'title' => 'dev (b) log',
-    'subtitle' => 'Confessions of a Programmer',
+    'title' => 'Ncert Solutions',
+    'subtitle' => 'Ncert Maths Solutions of all classes',
     
 
     'page_image' => 'home-bg.jpg',
-    'meta_description' => 'Confessions of a Programmer',
+    'meta_description' => 'Ncert Maths Solutions of all classes',
     'tag' =>'',
     'class' => $param,
     'chapters'=> $chapterName['10']
@@ -208,12 +208,12 @@ public function solutions($param1/*,$param2,$param3*/)
 
     $data = Array
 (
-    'title' => 'dev (b) log',
-    'subtitle' => 'Confessions of a Programmer',
+    'title' => 'Ncert Solutions',
+    'subtitle' => 'Ncert Maths Solutions of all classes',
     
 
     'page_image' => 'home-bg.jpg',
-    'meta_description' => 'Confessions of a Programmer',
+    'meta_description' => 'Ncert Maths Solutions of all classes',
     'tag' =>'',
    // 'class' => $param2,
     'chapterName'=> $param1
@@ -249,12 +249,12 @@ public function privacyPolicy(/*,$param2,$param3*/)
 {
     $data = Array
 (
-    'title' => 'dev (b) log',
-    'subtitle' => 'Confessions of a Programmer',
+    'title' => 'Ncert Solutions',
+    'subtitle' => 'Ncert Maths Solutions of all classes',
     
 
     'page_image' => 'home-bg.jpg',
-    'meta_description' => 'Confessions of a Programmer',
+    'meta_description' => 'Ncert Maths Solutions of all classes',
     'tag' =>''
    // 'class' => $param2,
     
