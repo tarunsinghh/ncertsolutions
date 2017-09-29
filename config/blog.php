@@ -1,9 +1,9 @@
 <?php
 return [
 	'name' => "Ncert Solutions",
-	'title' => "dev (b) log",
-    'subtitle' => 'Confessions of a Programmer',
-    'description' => 'Confessions of a Programmer',
+	'title' => "Ncert Solutions",
+    'subtitle' => 'Solve all questions of ncert on ncertsolved.com',
+    'description' => 'Very basic and logical soltions to Ncert Maths problems',
 	'author' => 'ncertsolved.com',
 	'page_image' => 'home-bg.jpg',
     'posts_per_page' => 10,
