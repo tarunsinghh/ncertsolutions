@@ -19,23 +19,38 @@ class BlogController extends Controller
 
    // echo "htrtrssss";
 
-    $tag = $request->get('tag');
+   // $tag = $request->get('tag');
 
 
   //  var_dump($tag);
 
     
 
-    $data = $this->dispatch(new BlogIndexData($tag));
+   // $data = $this->dispatch(new BlogIndexData($tag));
 
 //echo "<pre>";
 //print_r($data);
 
 
 
+    $data = Array
+(
+    'title' => 'dev (b) log',
+    'subtitle' => 'Confessions of a Programmer',
+    
+
+    'page_image' => 'home-bg.jpg',
+    'meta_description' => 'Confessions of a Programmer',
+    'tag' =>'',
+    
+     
+);
+
+    //$layout = $tag ? Tag::layout($tag) : 'blog.layouts.index';
+
+    $layout = 'blog.layouts.index';
 
 
-    $layout = $tag ? Tag::layout($tag) : 'blog.layouts.index';
 
     return view($layout, $data);
   }
