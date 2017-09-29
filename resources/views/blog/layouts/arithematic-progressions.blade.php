@@ -1,24 +1,13 @@
 @extends('blog.layouts.math')
 
-@section('page-header')
-  <header class="intro-header parallax-window" data-parallax="scroll"  >
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          <div class="site-heading">
-            <h1>{{ $title }}</h1>
-            <hr class="small">
-            <h2 class="subheading">{{ $subtitle }}</h2>
-            {{--<h2 class="subheading">{{ Inspiring::quote() }}</h2>--}}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-@stop
+
+
 
 
 @section('content')
+
+<br/>
+<br/>
 <p><strong>EXERCISE – 5.1</strong></p>
 <p><strong><em>Question 1:In which of the following situations, does the list of numbers involved make an arithmetic progression and why ?</em></strong></p>
 
@@ -754,18 +743,18 @@ S<p>\(   \frac{5}{2}n - (\frac{5}{2}) = 47 + 18 \)</p>
 
 
 
-<p><strong>ii)\( Given a = 7,a_{13} = 35,find d and S_{13} \)</strong>
+<p><strong>ii) Given a = 7,\(a_{13} = 35\),find d and \(S_{13} \)</strong>
 <p><strong>Solution:</strong></p>
-<p>a_{13} = a + 12d</p>
+<p>\(a_{13} = a + 12d\)</p>
 <p>35 = 7 + 12d </p>
 <p>12d = 28 </p>
 <p>\(n = \frac{28}{12} = \frac{7}{3}\) </p>
 <p>Since, the sum of first n terms is given by: <strong>S<sub>n</sub> = \(\frac{n}{2}\) [2a+(n-1)d]</strong></p>
-<p>Therefore,        S<sub>13</sub> = \(\frac{13}{2}\) [2×7+(13 – 1)×\frac{7}{3}]</p>
+<p>Therefore,        S<sub>13</sub> = \(\frac{13}{2} [2×7+(13 – 1)× \frac{7}{3}] \)</p>
 <p>\( \frac{13}{2}×(14 + \frac{84}{3}) = 273 \)</p>
 
 
-<p><strong>iii)\( Given a_{12} = 37,d = 3,find a and S_{12} \)</strong>
+<p><strong>iii)Given \(a_{12} = 37\),d = 3,find a and \(S_{12} \)</strong>
 <p><strong>Solution:</strong></p>
 <p>\(  a_{12}  = a + 11d                   \)
 <p>\(  a + 11d = 37                  \)
@@ -776,14 +765,14 @@ S<p>\(   \frac{5}{2}n - (\frac{5}{2}) = 47 + 18 \)</p>
 <p>\( 6×(8 + 33) = 246 \)</p>
 
 
-<p><strong>iv)\( Given a_{3} = 15,S_{10} = 125,d = 3,find d and a_{10} \)</strong>
+<p><strong>iv) Given \( a_{3} = 15,S_{10} = 125\),d = 3,find d and \(a_{10} \)</strong>
 <p><strong>Solution:</strong></p>
 <p>\( a + 2d = 15               \)
 <p>\( a     = 9               \)
 <p>\( a_{10}     = a + 9d = 9 + 27 = 36               \)
 
 
-<p><strong>v)\( Given d = 5,S_{9} = 75,find a and a_{9} \)</strong>
+<p><strong>v) Given d = 5,\( S_{9} = 75 \),find a and \(a_{9} \)</strong>
 <p><strong>Solution:</strong></p>
 <p>Since, the sum of first n terms is given by: <strong>S<sub>n</sub> = \(\frac{n}{2}\) [2a+(n-1)d]</strong></p>
 <p>Therefore,        S<sub>9</sub> = \(\frac{9}{2}\) [2×a+(9 – 1)×5]</p>
@@ -791,9 +780,9 @@ S<p>\(   \frac{5}{2}n - (\frac{5}{2}) = 47 + 18 \)</p>
 <p>\( 18a + 360 = 150               \)
 <p>\( 18a   = -210               \)
 <p>\( a   = -\frac{35}{3}              \)
-<p>a_{9} =  a + 8d = -\frac{35}{3} + 40 = -\frac{85}{3}\)
+<p>\( a_{9} =  a + 8d = -\frac{35}{3} + 40 = -\frac{85}{3}\)</p>
 
-<p><strong>vi)\( Given a = 2,d = 8,S_{n} = 90,find n and a_{n} \)</strong>
+<p><strong>vi) Given a = 2,d = 8,\( S_{n} = 90 \),find n and \( a_{n} \)</strong>
 <p><strong>Solution:</strong></p>
 <p>Since, the sum of first n terms is given by: <strong>S<sub>n</sub> = \(\frac{n}{2}\) [4+(n-1)8]</strong></p>
 <p>Therefore,        90 = \(\frac{n}{2}\) [4 + 8n - 8]</p>
@@ -805,7 +794,7 @@ S<p>\(   \frac{5}{2}n - (\frac{5}{2}) = 47 + 18 \)</p>
 <p>\( a_{n} = a + 4d = 2  + 32 = 34              \)
 
 
-<p><strong>vii)\( Given a = 8,a_{n} = 62,S_{n} = 210,find n and d \)</strong>
+<p><strong>vii) Given a = 8,\( a_{n} = 62,S_{n} = 210\),find n and d .</strong>
 <p><strong>Solution:</strong></p>
 <p>\(8 + nd - d  = 62...(1)\)</p>
 <p>Since, the sum of first n terms is given by: <strong>\(S_{n} = \frac{n}{2} [16+(n-1)d] \)</strong></p>
@@ -816,7 +805,7 @@ S<p>\(   \frac{5}{2}n - (\frac{5}{2}) = 47 + 18 \)</p>
 <p>\(d  = \frac{54}{5} ...(1)\)</p>
 
 
-<p><strong>viii)\( Given a_{n} = 4,d = 2,S_{n} = -14\),find n and a </strong>
+<p><strong>viii)Given \(a_{n} = 4\),d = 2,\(S_{n} = -14\),find n and a </strong>
 <p><strong>Solution:</strong></p>
 <p>\(  a + 3d = 4 \)</p>
 <p>\(  a      = -2 \)</p>
@@ -829,14 +818,14 @@ S<p>\(   \frac{5}{2}n - (\frac{5}{2}) = 47 + 18 \)</p>
 
 <p><strong>ix)\( Given a = 3,n = 8,S = 192,find d \)</strong>
 <p><strong>Solution:</strong></p>
-<p>Since, the sum of first n terms is given by: <strong>\(S_{n} = \(\frac{n}{2}\) [6+(n-1)d]\)</strong></p>
+<p>Since, the sum of first n terms is given by: <strong>\( S_{n} = \frac{n}{2} \) [6+(n-1)d]</strong></p>
 <p>Therefore,       \( 384 = n [6 + 8d - d ]\)</p>
 <p>  \(      384 = 8 [6 + 7d  ]\)</p>
 <p>  \(    48 =  [6 + 7d  ]\)</p>
 <p>  \(  42 =  7d\)</p>
 <p>  \( d  =  6\)</p>
 
-<p><strong>x)\( Given l = 28,S = 144,and there are total 9 terms,find a. \)</strong>
+<p><strong>x)Given l = 28,S = 144,and there are total 9 terms,find a.</strong>
 <p><strong>Solution:</strong></p>
 <p>\(28  = a + 8d \)            ..(1)</p>
 <p>Since, the sum of first n terms is given by: <strong>S<sub>n</sub> = \(\frac{n}{2}\) [6+(n-1)d]</strong></p>
@@ -857,7 +846,7 @@ S<p>\(   \frac{5}{2}n - (\frac{5}{2}) = 47 + 18 \)</p>
 <p>\(25 = 9 + 8n - 8\)</p>
 <p>\(24 =  8n \)</p>
 <p>\(n = 3 \)</p>
-<p>\(  Since, the sum of first n terms is given by: <strong>S_{n} = \(\frac{n}{2}\) [6+(n-1)d]\)</strong></p>
+<p>  Since, the sum of first n terms is given by: <strong>S_{n} = \(\frac{n}{2}\) [6+(n-1)d]</strong></p>
 <p>\(Therefore,        1272 = n [18 + 8n - 8  ]\)</p>
 <p>\(1272 = n(10 + 8n) \)</p>
 <p>\( 8n^{2} + 10n - 1272 = 0   \)
@@ -895,7 +884,7 @@ Adding them we get</br>
 
 <p><strong>Q.6: First term of an A.P is 17 and last term of an A.P is 407. How many terms are there in an A.P also find its sum if common difference is 13.</strong></p>
 <p><strong>Sol.</strong></p>
-<p>\( Given, a = 17, d = 13, l = 407 (last term) =  a_{n} \)</p>
+<p> Given, a = 17, d = 13, l = 407 (last term) = \( a_{n} \)</p>
 <p>Since,            <strong>\(a_{n} = a + (n – 1)d \)</strong></p>
 <p>Therefore,\(407 = 17 + (n – 1)×13 \)</p>
 <p>\(13n = 407 + 13 – 17\)</p>
@@ -913,7 +902,7 @@ Adding them we get</br>
 <p>\( a + 21d = 149             \)</p>
 <p>\( a + 147 = 149             \)</p>
 <p>\( a       = 2             \)</p>
-<p>\(  Since, the sum of first n terms is given by: <strong>S_{22} = \frac{22}{2} [4+(22-1)7]\)</strong></p>
+<p>  Since, the sum of first n terms is given by: <strong>S_{22} = \( \frac{22}{2}\) [4+(22-1)7]</strong></p>
 <p>\(S_{22}   = 11\times 151 = 1661 \)</p>
 
 
@@ -926,7 +915,7 @@ Adding them we get</br>
 <p>\( a + 2d = 18              \)</p>
 <p>\( d = 4              \)</p>
 <p>\( a = 10              \)</p>
-<p>\(  Since, the sum of first 51 terms is given by: <strong>S_{51} = \frac{51}{2} [20+(51-1)4] \)</strong></p>
+<p>Since, the sum of first 51 terms is given by: <strong>S_{51} = \( \frac{51}{2} \)[20+(51-1)4] </strong></p>
 <p>\(S_{51}   = \frac{51}{2} [220] = 5610 \)</p>
 
 
@@ -945,7 +934,7 @@ Adding them we get</br>
 <p>\(S_{n} = n^{2} \)</p>
 
 
-<p><strong>Q.10:Show that a_{n} forms an A.P if a_{n} is defined as follows</strong></p>
+<p><strong>Q.10:Show that \(a_{n}\) forms an A.P if \( a_{n} \)is defined as follows</strong></p>
 <p><strong>i)\(a_{n} = 3 + 4n \)</strong></p>
 <p><strong>Solution:</strong></p>
 <p>To form an A.P the difference between consecutive terms should remain same</p>
@@ -953,10 +942,10 @@ Adding them we get</br>
 <p>\(  d = 3 + 4(n + 1)  - 3 - 4n                             \)
 <p>\(  d = 3 + 4n + 4  - 3 - 4n                             \)
 <p>\(  d = 4                                \)
-<p>Since d is constant and it does not depend on n and it doesn not depend on n,that means \( a_{3} - a{2}\) will be equal to \( a_{4} - a{3} = a_{1000} - a{999} \),it will form an A.P</p>
+<p>Since d is constant and it does not depend on n and it doesn not depend on n,that means \( a_{3} - a{2}\) will be equal to \( a_{4} - a{3} = a_{1000} - a_{999} \),it will form an A.P</p>
 
 
-<p><strong>ii)a_{n} = 9 - 5n </strong></p>
+<p><strong>ii)\(a_{n} = 9 - 5n \)</strong></p>
 <p><strong>Solution:</strong></p>
 <p>To form an A.P the difference between consecutive terms should remain same</p>
 <p>\(  d = a_{n + 1} - a_{n}  ..(i)                           \)
@@ -973,15 +962,15 @@ Adding them we get</br>
 
 <p>first term = \(S_{1} = 4×1 - 1_{2} = 3 \)</p>
 <p>\(S_{2} = 4×2 - 2_{2} = 4              \)</p>
-<p>so second term = S_{2} - S_{1} = 4 - 3 = 1</p>
+<p>so second term = \( S_{2} - S_{1} = 4 - 3 = 1 \)</p>
 <p>\(S_{3} = 4×3 - 3_{2} = 3              \)</p>
 <p>so second term = S_{3} - S_{2} = 3 - 4 = -1</p>
 <p>\(S_{10} = 4×10 - 10_{2} = -60              \)</p>
 <p>\(S_{9} = 4×9 - 9_{2} = -45              \)</p>
-<p>so tenth term = S_{10} - S_{9} = -60 + 45 = -15</p>
+<p>so tenth term = \(S_{10} - S_{9} = -60 + 45 = -15\)</p>
 <p>\(S_{n} = 4n - n_{2} =        \)</p>
 <p>\(S_{n-1} = 4n - 4  - n_{2} -1 + 2n = 6n -5 -n_{2}               \)</p>
-<p>nth term = S_{n} - S_{n-1} = 4n -n_{2} + n_{2} + 5 - 6n = -2n + 5</p>
+<p>nth term = \( S_{n} - S_{n-1} = 4n -n_{2} + n_{2} + 5 - 6n = -2n + 5 \)</p>
 
 <p><strong>Q.12:Find the sum of first 40 positive integers divisible by 6</strong></p>
 <p><strong>Solution:</strong></p>
@@ -989,7 +978,7 @@ Adding them we get</br>
 <p>a = 6(first positive number divisible by 6 )</p>
 <p>To find the 40th positive integer divisible by 6</p>
 <p>\(a_{40} = a + 39d = 6 + 39×6 = 240 \)</p>
-<p>\(  Since, the sum of first n terms is given by:S_{n} = \frac{40}{2} [12+(40-1)6]\)</p>
+<p>  Since, the sum of first n terms is given by:\(S_{n} = \frac{40}{2} [12+(40-1)6]\)</p>
 <p>\(S_{n} = 20 [12+39×6] = 20(12 + 234) = 4920 \)</p>
 
 
@@ -998,8 +987,8 @@ Adding them we get</br>
 <p><strong>Q.13:Find the sum of first 15 multiples of 8</strong></p>
 <p><strong>Solution:</strong></p>
 <p>a = 8(first multiple of 8 )</p>
-<p>\(  Since, the sum of first n terms is given by: <strong>S_{n} = \frac{15}{2} [16+(15-1)8]\)</strong></p>
-<p>\(S_{n} = \frac{15}{2} [16+112] = 15(64) = 960 \)</p>
+<p>\(  Since, the sum of first n terms is given by: <strong>\(S_{n} = \frac{15}{2}\) [16+(15-1)8]\)</strong></p>
+<p>\(S_{n} = \frac{15}{2}\) [16+112] = 15(64) = 960 \)</p>
 
 
 
@@ -1010,8 +999,8 @@ Adding them we get</br>
 <p>\(  49 =  1 + (n - 1)2   \)</p>
 <p>\(  49 =  1 + 2n - 2   \)</p>
 <p>\(  n = 25        \)</p>
-<p>\(  Since, the sum of first 25 terms is given by: <strong>S_{25} = \frac{25}{2} [2+(25-1)2]\)</strong></p>
-<p>\(S_{n} = \frac{25}{2} [2+48] = 625 \)</p>
+<p>  Since, the sum of first 25 terms is given by: <strong>\(S_{25} = \frac{25}{2}\) [2+(25-1)2]</strong></p>
+<p>\(S_{n} = \frac{25}{2}\) [2+48] = 625 </p>
 
 
 <p><strong><em>Q.15: A contract on construction job there specifies a  penalty for delay of completion  beyond a certain date as follows  Rs 200 for the first day,rs 250 for the second day,300 for the 3rd day etc,the penalty for each succeeding day is increased by Rs 50 . how much money the contractor has to pay as penalty if the work was delayed by 30 days?</em></strong></p>
@@ -1140,7 +1129,7 @@ potato, runs to the bucket to drop it in, and she continues in the same way unti
 <p><strong>Exercise 3.4:</strong></p>
 <p><strong>Question 1:Which term of the A.P 121,117,113 is first negative term?</strong></p>
 <p><strong>Solution:</strong></p>
-<p>\(a = 121,d = 117 - 121 = -4,we have to find n for which a_{n}<0 \)</p>
+<p>a = 121,d = 117 - 121 = -4,we have to find n for which \(a_{n}<0 \)</p>
 <p>\( a_{n} = 121 + (n -1)-4                  \)</p>
 <p>\(  121  -4n + 4 < 0                  \)</p>
 <p>\(  125  -4n  < 0                  \)</p>
@@ -1159,7 +1148,7 @@ potato, runs to the bucket to drop it in, and she continues in the same way unti
 <p>\(a  + 4d = 3\)</p>
 <p>\(a       = 3 - 4d \)</p>
 <p>\( (a + 2d)(a + 6d) = 8   \)</p>
-<p>\(a^2} +  8da + 12d^{2} = 8  \)</p>
+<p>\( a^{2} +  8da + 12d^{2} = 8  \)</p>
 <p>\((3 - 4d)^{2} +  8d(3 -4d) + 12d^{2} = 8  \)</p>
 <p>\( 9 + 16d^{2} -24d  +  24d -32d^{2} + 12d_{2} = 8  \)</p>
 <p>\(  16d^{2}-32d^{2} + 12d_{2}  -24d  +  24d + 9  = 8  \)</p>
@@ -1168,7 +1157,7 @@ potato, runs to the bucket to drop it in, and she continues in the same way unti
 <p>\( when   d = \frac{1}{2} ,a = 1            \)
 <p>\( S_{16} =     \frac{16}{2}[2×1 + (16 – 1)× \frac{1}{2}]       \)</p>
 <p>\( S_{16} =     8[2×1 + (16 – 1)× \frac{1}{2}]   = 76    \)</p>
-<p>\( when   d = -\frac{1}{2} ,a = 5            \)
+<p>when   \(d = -\frac{1}{2} ,a = 5            \)
 <p>\( S_{16} =     \frac{16}{2}[2×5 + (16 – 1)× -\frac{1}{2}]       \)</p>
 <p>\( S_{16} =     8[10 + 15× -\frac{1}{2}]   = 20    \)</p>
 
@@ -1194,7 +1183,7 @@ potato, runs to the bucket to drop it in, and she continues in the same way unti
 <p>\( S_{x+1} = S_{x-1} \)</p>
 <p>now to find \(S_{x+1}\) we observe that its an A.P with a = x + 1,d = 1,no of terms 49 - x</p>
 <p>now to find \(S_{x-1} \) we observe that its an A.P with a = 1,d = 1,no of terms  x - 1</p>
-<p>\( \frac{49 - x}{2}[2x + 2 + (49 – x - 1)] = \frac{x - 1}{2}[2 +  x - 1 -1] \)</p>                   \)</p>
+<p>\( \frac{49 - x}{2}[2x + 2 + (49 – x - 1)] = \frac{x - 1}{2}[2 +  x - 1 -1] \)</p> 
 <p>\( \frac{49 - x}{2}[x + 50 ] = \frac{x - 1}{2}x  \)</p>
 <p>\( (49 - x)(x + 50  ) = (x - 1)(x) ]   \)</p>
 <p>\( 49x + 2450 -x^{2} - 50x   = x^{2} - x   \)</p>

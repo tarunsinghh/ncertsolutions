@@ -1,24 +1,13 @@
 @extends('blog.layouts.math')
 
-@section('page-header')
-  <header class="intro-header parallax-window" data-parallax="scroll"  >
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          <div class="site-heading">
-            <h1>{{ $title }}</h1>
-            <hr class="small">
-            <h2 class="subheading">{{ $subtitle }}</h2>
-            {{--<h2 class="subheading">{{ Inspiring::quote() }}</h2>--}}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-@stop
+
+
 
 
 @section('content')
+
+<br/>
+<br/>
 <p><strong>EXERCISE – 9.1</strong></p>
 <p><strong><em>1. A circus artist is climbing a 20 m long rope, which is
 tightly stretched and tied from the top of a vertical
@@ -26,6 +15,8 @@ pole to the ground. Find the height of the pole, if
 the angle made by the rope with the ground level is
 30°.</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-1.png" alt="8" width="400" height="300" /></p>
+
 <p>sin \(\theta\) = \(\frac{h}{20}  \)</p>
 <p>\(\frac{1}{2}  =     \frac{h}{20}   \)      </p>
 <p>\( h  =     \frac{20}{2} = 10   \)      </p>
@@ -38,6 +29,9 @@ the foot of the tree to the point where the top
 touches the ground is 8 m. Find the height of the
 tree.</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p>The tree was initially AB',then it broke and fall to the ground making an angle of 30 with horizintal,clearly we hve to find h + H,as this will give us the total height of the tree</p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-2.png" alt="8" width="400" height="300" /></p>
+<p>In \( \triangle CBA \)</p>
 <p>tan \(\theta\) = \(\frac{h}{8}  \)</p>
 <p>\(\frac{1}{\sqrt{3}}  =     \frac{h}{8}   \)      </p>
 <p>\( h  =     \frac{8}{\sqrt{3}} = 10   \)      </p>
@@ -60,7 +54,7 @@ should be the length of the slide in each case?</em></strong></p>
 
 
 <p><strong>Solution:</strong></p>
-
+<p><img class="alignnone wp-image-2112" src="/10-0-9-3.png" alt="8" width="400" height="300" /></p>
 <p>Length of slide for above 5 years = \(   \frac{1.5}{\frac{1}{2}} = 3m          \)</p>
 <p>Length of slide for below 5 years = \(   \frac{3}{ \frac {\sqrt{3}} {2}} = 2\sqrt{3}          \)</p>
 
@@ -70,6 +64,7 @@ should be the length of the slide in each case?</em></strong></p>
 away from the foot of the tower, is 30°. Find the height of the tower.</em></strong></p>
 
 <p><strong>Solution:</strong></p>
+
 <p>tan \(30° =  \frac{h}{30} \)</p>
 <p> \( \frac{1}{\sqrt{3}} =  \frac{h}{30} \)</p>
 <p> \( h =  \frac{30}{\sqrt{3}} = 10\sqrt{3} \)</p>
@@ -81,6 +76,7 @@ temporarily tied to a point on the ground. The inclination of the string with th
 is 60°. Find the length of the string, assuming that there is no slack in the string.
 
 <p><strong>Solution:</strong></p>
+
 <p>sin \(60° =  \frac{60}{l} \)</p>
 <p> \( \frac{\sqrt{3}}{2} =  \frac{60}{l} \)</p>
 <p> \( l = 40\sqrt{3} m \)</p>
@@ -93,6 +89,9 @@ towards the building. Find the distance he walked towards the building.
 
 
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-6.png" alt="8" width="400" height="300" /></p>
+
+
 <p>Since the boys height is 1.5m he can see 30 - 1.5 = 28.5 m of the tower from his ways viewing upwards from horizontal</p>
 <p>\(  The distance he walked towards the building =  \frac{59}{2}( \frac{20}{\sqrt{3}} -  \frac{20}{\frac{1}{\sqrt{3}}} )    = 19\sqrt{3}                   \)</p> 
 
@@ -102,6 +101,7 @@ towards the building. Find the distance he walked towards the building.
 transmission tower fixed at the top of a 20 m high building are 45° and 60° respectively.
 Find the height of the tower.</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-7.png" alt="8" width="400" height="300" /></p>
 
 
 <p>tan \(45° =  \frac{h}{20} \)</p>
@@ -120,6 +120,7 @@ elevation of the top of the pedestal is 45°. Find the height of the pedestal..<
 <p><strong>Solution:</strong></p>
 <p>let the height of pedestal be h</p>
 
+<p><img class="alignnone wp-image-2112" src="/10-0-9-8.png" alt="8" width="400" height="300" /></p>
 
 <p>let the height of pedestal be h</p>
 <p>tan \(45° =  \frac{h}{d} \)</p>
@@ -139,6 +140,8 @@ elevation of the top of the pedestal is 45°. Find the height of the pedestal..<
 angle of elevation of the top of the tower from the foot of the building is 60°. If the tower
 is 50 m high, find the height of the building.</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-9.png" alt="8" width="400" height="300" /></p>
+
 <p> Let d is the distance between towers and building                             </p>
 <p>tan \(60° =  \frac{h}{d} \)</p>
 <p> \( \sqrt{3} =  \frac{50}{d} \)</p>
@@ -154,6 +157,8 @@ is 50 m high, find the height of the building.</em></strong></p>
 <p><strong><em>10.Two poles of equal heights are standing opposite each other on either side of the road,
 which is 80 m wide. From a point between them on the road, the angles of elevation of the top of the poles are 60° and 30°, respectively. Find the height of the poles and the distances of the point from the poles.</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-10.png" alt="8" width="400" height="300" /></p>
+
 <p>Let the height be hand point is x distance from one side</p>
 
 <p>tan \(30° =  \frac{h}{x} \)</p>
@@ -177,6 +182,8 @@ this point to the foot of the tower, the angle of elevation of the top of the to
 height of the tower and the width of the canal.</em></strong></p>
 
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-11.png" alt="8" width="400" height="300" /></p>
+
 <p>tan \(30° =  \frac{h}{x} \)</p>
 <p> \( \frac{1}{\sqrt{3}} =  \frac{h}{x} \)</p>
 <p> \( x =  h\sqrt{3} \)</p>
@@ -198,6 +205,9 @@ height of the tower and the width of the canal.</em></strong></p>
 <p><strong><em>12. From the top of a 7 m high building, the angle of elevation of the top of a cable tower is
 60° and the angle of depression of its foot is 45°. Determine the height of the tower.
 <p><strong>Solution:</strong></p>
+
+<p><img class="alignnone wp-image-2112" src="/10-0-9-12.png" alt="8" width="400" height="300" /></p>
+
 <p>Let the distance between the building and cable tower is x</p>
 <p>Angle of depression of foot of cable tower from top of building  =  Angle of elevation of top of building from foot of cable tower</p>
 
@@ -217,6 +227,9 @@ height of the tower and the width of the canal.</em></strong></p>
 <p><strong><em>13.As observed from the top of a 75 m high lighthouse from the sea-level, the angles of
 depression of two ships are 30° and 45°. If one ship is exactly behind the other on the same side of the lighthouse, find the distance between the two ships.
 <p><strong>Solution:</strong></p>
+
+<p><img class="alignnone wp-image-2112" src="/10-0-9-13.png" alt="8" width="400" height="300" /></p>
+
 <p>Let the ship making angle of depression 30 is x distance away and ship making 45 is y distance away,we have to find x -y </p>
 
 <p>tan \(30° =  \frac{75}{x} \)</p>
@@ -234,6 +247,8 @@ depression of two ships are 30° and 45°. If one ship is exactly behind the oth
 elevation reduces to 30°.Find the distance travelled by the balloon during the interval.</em></strong></p>
 
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-14.png" alt="8" width="400" height="300" /></p>
+
 <p>This is kind of similar to previous question if you observe,let the ballon is at distance x horizontally when angle of elevation is 30 and distance y when angle is 45,we have to find x-y,also one mistake students can do is we are given ballon height from ground and angle of elevation is from girls eyes so height = 88.2 - 1.2 = 87</p>
 
 
@@ -252,6 +267,8 @@ tower with a uniform speed. Six seconds later, the angle of depression of the ca
 to be 60°. Find the time taken by the car to reach the foot of the tower from this point..</em></strong></p>
 
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-15.png" alt="8" width="400" height="300" /></p>
+
 <p>Let the height of tower = h and car is at distance x from foot of tower when angle of depression is 30 and 60 when angle of depression is 60</p>
 
 <p>tan \(30° =  \frac{h}{x} \)</p>
@@ -279,12 +296,13 @@ to be 60°. Find the time taken by the car to reach the foot of the tower from t
 
 <p><strong><em>16. The angles of elevation of the top of a tower from two points at a distance of 4 m and
 9 m from the base of the tower and in the same straight and are complementary.Prove that height of the tower is 6m.</em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-9-16.png" alt="8" width="400" height="300" /></p>
 
 <p><strong>Solution:</strong></p>
 <p>tan \(\theta = \frac{h}{4}  \)          ..(1)</p>
 <p>tan \(90 - \theta = \frac{h}{9}  \)</p>
 <p>cot \(\theta = \frac{h}{9}  \)       ...(3)</p>
-<p>Multiplying equation (1) and (3) and solving x = 6</p>
+<p>Multiplying equation (1) and (3) and solving h = 6</p>
 
 
 

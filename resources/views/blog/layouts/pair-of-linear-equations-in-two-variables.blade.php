@@ -1,24 +1,11 @@
 @extends('blog.layouts.math')
 
-@section('page-header')
-  <header class="intro-header parallax-window" data-parallax="scroll"  >
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          <div class="site-heading">
-            <h1>{{ $title }}</h1>
-            <hr class="small">
-            <h2 class="subheading">{{ $subtitle }}</h2>
-            {{--<h2 class="subheading">{{ Inspiring::quote() }}</h2>--}}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-@stop
+
 
 
 @section('content')
+<br/>
+<br/>
 <p><strong>   EXERCISE 3.1</strong></p>
 <p><strong>Question 1:</strong></p>
 
@@ -26,7 +13,7 @@
 
 <p><strong>Solution:</strong></p></p>
 
-<p>Let the present age of Astitva is `x` and his daughter be `y`</p>
+<p>Let the present age of Astitva is x and his daughter be y</p>
 <p>Now Seven years before,the situation was:</p>
 <p>\(x - 7 = 7 (y - 7)\) .... (1)</p>
 <p>\(x - 7 = 7y - 49\) .... (1)</p>
@@ -61,39 +48,60 @@
 <p>\( x = 42\)                  </p>
 
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+<p>so the algebraic represntation is :</p>
+<p>\(  x - 7y = -42                           \)</p>
+<p>\(  x - 3y =  6                           \)</p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+
+
+<p>For x - 7y = -42,solution table is :</p>
+
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0</td>
+        <td>6</td>
+        </tr>
+        <tr>
+        <td>7</td>
+        <td>7</td>
+        </tr>
+    </tbody>
+  </table>
+  
+
+<p>For x - 3y = 6,solution table is :</p>
+
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0</td>
+        <td>-2</td>
+        </tr>
+        <tr>
+        <td>6</td>
+        <td>0</td>
+        </tr>
+    </tbody>
+  </table>
+  
+
+
+<p><img class="alignnone wp-image-2112" src="/10-0-3-1-1.png" alt="8" width="400" height="300" /></p>
+
+
 
 
 <p><strong>Question 2:</strong></p>
@@ -109,39 +117,49 @@
 <p>\(x  = 1300 - 3y\)  ....(1) </p>
 <p>\(x  = 1200 - 2y\)  ....(2) </p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+<p>For x + 3y = 1300,solution table is :</p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1000</td>
+        <td>600</td>
+        </tr>
+        <tr>
+        <td>-200</td>
+        <td>500</td>
+        </tr>
+    </tbody>
+  </table>
+  
+<p>For x + 2y = 1200,solution table is :</p>
+
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>600</td>
+        <td>300</td>
+        </tr>
+        <tr>
+        <td>-300</td>
+        <td>750</td>
+        </tr>
+    </tbody>
+  </table>
+
+<p><img class="alignnone wp-image-2112" src="/10-0-3-1-2.png" alt="8" width="400" height="300" /></p>
 
 <p><strong>Question 3:</strong></p>
 <p><strong>The cost of 2 kg of apples and 1 kg of grapes on a day was found to be Rs 160. After a month, the cost of 4 kg of apples and 2 kg of grapes is Rs 300. Represent the given situation algebraically and geometrically.</strong></p>
@@ -160,40 +178,49 @@
 <p>x' = \(\frac{300 - 2y'} {4}\)         ......(1)</p>
 
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+<p>For 2x + y = 160,solution table is :</p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>35</td>
+        <td>90</td>
+        </tr>
+        <tr>
+        <td>10</td>
+        <td>180</td>
+        </tr>
+    </tbody>
+  </table>
+  
+<p>For 4x + 2y = 300,solution table is :</p>
 
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>60</td>
+        <td>30</td>
+        </tr>
+        <tr>
+        <td>75</td>
+        <td>0</td>
+        </tr>
+    </tbody>
+  </table>
+
+<p><img class="alignnone wp-image-2112" src="/10-0-3-1-3.png" alt="8" width="400" height="300" /></p>
 
 <p><strong>   EXERCISE 3.2</strong></p>
 <p><strong>Question 1:</strong></p>
@@ -208,40 +235,49 @@
 <p>y = x + 4      .... (1)</p>
 <p>x + y = 10     .... (2)</p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+<p>For  y = x + 4,solution table is :</p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0</td>
+        <td>4</td>
+        </tr>
+        <tr>
+        <td>-4</td>
+        <td>0</td>
+        </tr>
+    </tbody>
+  </table>
+  
+<p>For x + y = 10,solution table is :</p>
 
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>6</td>
+        <td>4</td>
+        </tr>
+        <tr>
+        <td>2</td>
+        <td>8</td>
+        </tr>
+    </tbody>
+  </table>
+
+<p><img class="alignnone wp-image-2112" src="/10-0-3-2-1-1.png" alt="8" width="400" height="300" /></p>
 
 <p><em>(b)The total cost of 5 erasers and 7 chocolates is Rs.50, but the total cost of 7 erasers and 5 chocolates is  Rs. 46. Now, calculate the cost of one eraser and the cost of one chocolate.</em></p>
 <p><strong>Solution:</strong></p>
@@ -252,40 +288,50 @@
 <p>x = \(\frac {50 - 7y}{5}\)        .....(1)</p>
 <p>x = \(\frac {46 - 5y}{7}\)        .....(2)</p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
 
+<p>For  5x + 7y = 50,solution table is :</p>
 
-<table width="600">
-<tbody>
-<tr>
-<td><strong>X</strong></td>
-<td>6</td>
-<td>4</td>
-<td>0</td>
-</tr>
-<tr>
-<td><strong>Y</strong></td>
-<td>0</td>
-<td>-1</td>
-<td>-2</td>
-</tr>
-</tbody>
-</table>
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>3</td>
+        <td>7</td>
+        </tr>
+        <tr>
+        <td>10</td>
+        <td>0</td>
+        </tr>
+    </tbody>
+  </table>
+  
+<p>For 7x + 5y = 46,solution table is :</p>
+
+  <table  class="table">
+    <thead>
+      <tr>
+        <th>X</th>
+        <th>Y</th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>3</td>
+        <td>5</td>
+        </tr>
+        <tr>
+        <td>-2</td>
+        <td>12</td>
+        </tr>
+    </tbody>
+  </table>
+
+<p><img class="alignnone wp-image-2112" src="/10-0-3-2-1-3.png" alt="8" width="400" height="300" /></p>
 
 
 <p><strong>Question 2:</strong></p>

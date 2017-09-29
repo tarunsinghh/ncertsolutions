@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">s
   <head>
@@ -21,6 +22,7 @@
     jax: ["input/TeX","output/HTML-CSS"],
     tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
   });</script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 
         <script type="text/javascript" src="../../../MathJax/MathJax.js"></script>
 

@@ -9,7 +9,9 @@
     <title>{{ $title or config('blog.title') }}</title>
     <link rel="alternate" type="application/rss+xml" href="{{ url('rss') }}" title="RSS Feed {{ config('blog.title') }}">
         <script type="text/javascript" src="/assets/js/blog.js"></script>
-        <script type="text/javascript" src="resources/assets/js/bootstrap.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+                <script type="text/javascript" src="resources/assets/js/accordian.js"></script>
+
 
 
 

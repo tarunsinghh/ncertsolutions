@@ -1,5 +1,4 @@
 @extends('blog.layouts.master')
-hhhhhhhhhhhhhh
 @section('page-header')
   <header class="intro-header parallax-window" data-parallax="scroll" data-image-src="home-bg.jpg" >
     <div class="container">

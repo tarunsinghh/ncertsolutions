@@ -11,8 +11,12 @@
  *
  * Date: 2015-04-28T16:01Z
  */
+jQuery(document).ready(function() {
+    console.log( "ready!" );
+});
 
-(function( global, factory ) {
+
+(function( global, factory ) { console.log("ffff");
 
 	if ( typeof module === "object" && typeof module.exports === "object" ) {
 		// For CommonJS and CommonJS-like environments where a proper `window`
@@ -12028,5 +12032,4 @@ jQuery(document).ready(function($) {
   });
 
 }(jQuery, window, document));
-
 //# sourceMappingURL=blog.js.map

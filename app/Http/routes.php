@@ -28,7 +28,11 @@ get('/', function () {
 
 
 get('/maths/{param}','BlogController@maths');
-get('/solutions/{class}/{chapter}/{solutions}','BlogController@solutions');
+get('/solutions/{chapterName}','BlogController@solutions');
+
+get('/privacy','BlogController@privacyPolicy');
+
+get('sitemap.xml', 'BlogController@siteMap');
 
 
 
@@ -48,7 +52,13 @@ get('blog', function(){
 get('blog', 'BlogController@index');
 get('blog/{slug}', 'BlogController@showPost');
 $router->get('contact', 'ContactController@showForm');
+
+
+
 Route::post('contact', 'ContactController@sendContactInfo');
+
+
+
 get('rss', 'BlogController@rss');
 get('sitemap.xml', 'BlogController@siteMap');
 

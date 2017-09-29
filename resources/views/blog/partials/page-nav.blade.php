@@ -13,8 +13,16 @@
       <a class="navbar-brand" href="/">{{ config('blog.name') }}</a>
     </div>
 
+
+
+
+
+
+
+
+
     {{-- Collect the nav links, forms, and other content for toggling --}}
-    <div class="collapse navbar-collapse" id="navbar-main">
+    <div class="collapse navbar-collapse " id="navbar-main">
      
       <ul class="nav navbar-nav navbar-right">
        
@@ -25,32 +33,37 @@
                   <div class="dropdown-menu animated fadeInDown">
                     <div class="dropdown-inner">
                       <ul class="list-unstyled">
-                        <li>
-                          <a href="#">Permutation and combinations</a>
-                        </li>
-                        <li>
-                          <a href="#">Probability</a>
-                        </li>
-                         <li>
-                          <a href="#">Trigonometry</a>
-                        </li>
-                         <li>
+                       <li>
                           <a href="#">Sets</a>
                         </li>
+                        <li>
+                          Permutation and combinations( Coming soon !!)
+                         <!-- <a href="#">Permutation and combinations</a>-->
+                        </li>
+                        <li>
+                        
+                          Probability( Coming soon !!)
+
+                        <!--  <a href="#">Probability</a> -->
+                        </li>
+                         <li>
+                        <!--  <a href="#">Trigonometry</a> -->
+                        </li>
+                   <!--     
                          <li>
                           <a href="#">Coordinate Geometry</a>
                         </li>
                          <li>
                           <a href="#">Miscelleneous</a>
                         </li>
-                                            
+                          -->                  
                       </ul>
                     </div>
                   </div>
                 </li>
 
 
-
+<!--
 
 <li class="dropdown">
                   <a data-toggle="dropdown" class="dropdown-toggle" href="#">Class 9<span class="fa fa-angle-down"></span></a>
@@ -68,7 +81,7 @@
                   </div>
                 </li>
 
-
+-->
 
 
 <li class="dropdown">
@@ -79,9 +92,9 @@
                         <li>
                           <a href="/maths/10">Maths</a>
                         </li>
-                        <li>
+                 <!--       <li>
                           <a href="#">Physics</a>
-                        </li>
+                        </li>-->
                       </ul>
                     </div>
                   </div>
@@ -135,6 +148,51 @@
       </ul>
     </div>
   </div>
+
+<script type ="text/javascript">
+
+
+console.log(document.querySelector('.navbar-toggle'));
+
+
+
+$(document).on('click','.navbar-toggle',function(e) {
+
+  if($("#navbar-main").hasClass("in") ) {
+
+      console.log("ddd");
+        
+        $("#navbar-main").removeClass("in");
+    }
+
+  else{
+            console.log("ddd1");
+
+        $("#navbar-main").addClass("in")
+    }
+
+
+
+
+});
+console.log( "ready!" );
+//console.log(document.querySelector('.navbar-toggle'));
+
+/*
+$(".navbar-toggle").onclick(function() {
+alert('Item selected');
+});
+
+
+
+
+
+document.querySelector('.navbar-toggle').click( function ()
+  {
+    console.log("tps")
+  });
+*/
+</script>
 </nav>
 
 

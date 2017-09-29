@@ -56,8 +56,12 @@ class BlogController extends Controller
     return response($rss)
       ->header('Content-type', 'application/rss+xml');
   }
+
+
+
   public function siteMap(SiteMap $siteMap)
   {
+
     $map = $siteMap->getSiteMap();
 
     return response($map)
@@ -73,7 +77,7 @@ class BlogController extends Controller
     //echo $param;
 
 
-    //echo "inside maths tps controller";
+  //  echo "inside maths tps controller";
 
 
 
@@ -86,8 +90,28 @@ class BlogController extends Controller
     //print_r($data);
 
 
-    $chapters = array('9'=>7,'10'=>10);    
+    $chapters = array('9'=>7,'10'=>10); 
 
+
+    $chapterName = array
+    (
+
+      '10' =>array (
+
+       array('Real Numbers','real-numbers'),
+       array('Polynomials','polynomials'),
+       array('Pair of Linear Equations in two variables','pair-of-linear-equations-in-two-variables'),
+       array('Quadratic Equations','quadratic-equations'),
+       array('Arithematic Progressions','arithematic-progressions'),
+       array('Coordinate Geomtery','coordinate-geometry'),
+       array('Some Applications of Triginometry','some-applications-of-triginometry'),
+       array('Circles','circles'),
+       array('Areas related to Circles','areas-related-to-circles'),
+       array('Surface Areas and Volumes','surface-areas-and-volumes'),
+       array('Probability','probability')
+       )
+    );
+      
 
 
     $data = Array
@@ -100,13 +124,13 @@ class BlogController extends Controller
     'meta_description' => 'Confessions of a Programmer',
     'tag' =>'',
     'class' => $param,
-    'chapters'=> $chapters[$param]
+    'chapters'=> $chapterName['10']
      
 );
 
 
   //  echo "<pre>";
-   // print_r($data);exit;
+    //print_r($data);//exit;
 
 
 
@@ -125,10 +149,10 @@ class BlogController extends Controller
   }
 
 
-public function solutions($param1,$param2,$param3)
+public function solutions($param1/*,$param2,$param3*/)
 {
 
-  //var_dump($param1);var_dump($param2);
+  //var_dump($param1);exit;var_dump($param2);
  // var_dump($param3);
 
  // exit;
@@ -153,6 +177,20 @@ public function solutions($param1,$param2,$param3)
 */
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     $data = Array
 (
     'title' => 'dev (b) log',
@@ -162,23 +200,27 @@ public function solutions($param1,$param2,$param3)
     'page_image' => 'home-bg.jpg',
     'meta_description' => 'Confessions of a Programmer',
     'tag' =>'',
-    'class' => $param2,
-    'chapters'=> $param3
+   // 'class' => $param2,
+    'chapterName'=> $param1
      
 );
 
 
   //  echo "<pre>";
-   // print_r($data);exit;
+  // print_r($data);
+   
 
 
 
-    $layout =  'blog.layouts.maths'.$data['class'].'-'.$data['chapters'];
+  //  $layout =  'blog.layouts.maths'.$data['class'].'-'.$data['chapters'];
+  // $layout =  $data['chapterName'];
+  //  $layout =  'blog.layouts.maths'.$data['class'].'-'.$data['chapters'];
 
 
 
 
-    //$layout = 'blog.layouts.index';
+    $layout = 'blog.layouts.'.$data['chapterName'];
+   // var_dump($layout);
 
     return view($layout, $data);
 
@@ -188,7 +230,31 @@ public function solutions($param1,$param2,$param3)
       ->header('Content-type', 'text/xml');*/
   }
 
+public function privacyPolicy(/*,$param2,$param3*/)
+{
+    $data = Array
+(
+    'title' => 'dev (b) log',
+    'subtitle' => 'Confessions of a Programmer',
+    
 
+    'page_image' => 'home-bg.jpg',
+    'meta_description' => 'Confessions of a Programmer',
+    'tag' =>''
+   // 'class' => $param2,
+    
+     
+);
+    $layout = 'blog.layouts.privacy';
+
+    return view($layout,$data);
+
+
+
+
+
+
+}
 
 
 }

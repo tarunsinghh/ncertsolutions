@@ -1,25 +1,13 @@
 @extends('blog.layouts.math')
 
-@section('page-header')
-  <header class="intro-header parallax-window" data-parallax="scroll"  >
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          <div class="site-heading">
-            <h1>{{ $title }}</h1>
-            <hr class="small">
-            <h2 class="subheading">{{ $subtitle }}</h2>
-            {{--<h2 class="subheading">{{ Inspiring::quote() }}</h2>--}}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-@stop
+
 
 
 
 @section('content')
+
+<br/>
+<br/>
 <p><strong>EXERCISE – 7.1</strong></p>
 <p><strong>Question 1:Find the distance between the following pairs of points :</strong></p>
 <p><strong>Solution:</strong></p>
@@ -234,16 +222,16 @@ x and y.?</strong></p>
 <p><strong>Solution:</strong></p>
 <p>Diagonals of a parallelogram bisect each other,that means the intersection point is the mid point of both the digonals</p>
 <p>let the intersection point be O(j,k)</p>
-<p>\(     j =     \frac {4 + 3 }{1 + 1}  \)</p>
-<p>\(     j =     \frac {7}{2}  \)</p>
-<p>\( also   j =     \frac {1 + x}{2}  \)</p>
-<p>\(  \frac {7}{2} =     \frac {1 + x}{2}  \)</p>
+<p>\(     j =     \frac{4 + 3 }{1 + 1}  \)</p>
+<p>\(     j =     \frac{7}{2}  \)</p>
+<p>\( also   j =     \frac{1 + x}{2}  \)</p>
+<p>\(  \frac{7}{2} =     \frac{1 + x}{2}  \)</p>
 <p>\(  14 =     7 + 7x  \)</p>
 <p>\(  x =     6  \)</p>
-<p>\(     k =     \frac {2 + 6 }{1 + 1}  \)</p>
+<p>\(     k =     \frac{2 + 6 }{1 + 1}  \)</p>
 <p>\(     k =     4  \)</p>
-<p>\( also   k =     \frac {y + 5}{2}  \)</p>
-<p>\( 4 =     \frac {y + 5}{2}  \)</p>
+<p>\( also   k =     \frac{y + 5}{2}  \)</p>
+<p>\( 4 =     \frac{y + 5}{2}  \)</p>
 <p>\( y = 3  \)</p>
 <p>so x = 6,y = 3</p>
 
@@ -288,13 +276,13 @@ B(2, 8) into four equal parts?</strong></p>
 <p>\( x =     -1  \)</p>
 <p>\( y =     \frac {1\times 8 + 3\times 2 }{1 + 3}  \)</p>
 <p>\( y =     \frac {7}{2}  \)</p>
-<p>\(  so coordinates of P is     (-1,\frac {7}{2})            \)</p>
+<p>  so coordinates of P is  \(   (-1,\frac {7}{2})            \)</p>
 <p>For finding next coordinates you either use P and B and m1:m2 = 1:2 or we can just simply use A  and B with m1:m2 = 2:2</p>
 <p>\( x =     \frac {2\times 2 + 2\times -2 }{2 + 2}  \)</p>
 <p>\( x =     0  \)</p>
 <p>\( y =     \frac {2\times 8 + 2\times 2 }{2 + 2}  \)</p>
 <p>\( y =     5  \)</p>
-<p>\(  so coordinates of Q is     (0,5)            \)</p>
+<p>  so coordinates of Q is   \(  (0,5)            \)</p>
 <p>R will be:</p>
 <p>\( x =     \frac {3\times 2 + 1\times -2 }{3 + 1}  \)</p>
 <p>\( x =     \frac {6  -2 }{2 + 2}  \)</p>
@@ -302,7 +290,7 @@ B(2, 8) into four equal parts?</strong></p>
 <p>\( y =     \frac {3\times 8 + 1\times 2 }{3 + 1}  \)</p>
 <p>\( y =     \frac {24  +2 }{3 + 1}  \)</p>
 <p>\( y =      \frac {13}{2}  \)</p>
-<p>\(  Hence P(-1,\frac{7}{2}) Q(0,5) R(1, \frac {13}{2})  divides AB into 4 equal parts \)</p>
+<p>  Hence \( P(-1,\frac{7}{2}) Q(0,5) R(1, \frac {13}{2}) \) divides AB into 4 equal parts </p>
 
 
 <p><strong>Question 10:Find the area of a rhombus if its vertices are (3, 0), (4, 5), (– 1, 4) and (– 2, – 1) taken in
@@ -408,7 +396,7 @@ points A(2, – 2) and B(3, 7)</strong></p>
 <p>\( h = \frac{3k + 2}{k + 1}               \)</p>
 <p>\( k = \frac{7k  - 2}{k + 1}               \)</p>
 <p>putting the value of h and k in eq(1)</p>
-<p>\(    \frac{6k + 4}{k + 1}  +   \frac{7k  - 2}{k + 1 = 4           \)</p>
+<p>\(    \frac{6k + 4}{k + 1}  +   \frac{7k  - 2}{k + 1} = 4           \)</p>
 <p>\(    6k + 4  + 7k  - 2 = 4k + 4           \)</p>
 <p>\(    9k  =   2           \)</p>
 <p>\(    k  =   \frac{2}{9}           \)</p>
@@ -465,7 +453,7 @@ other two vertices.</strong></p>
 <p>\(  (4)^{2} + (0)^{2}             =   x^{2} + 9 - 6x  + y^{2} + 4 - 4y  +  x^{2} + 1 + 2x  + y^{2} + 4 - 4y     \)</p>
 <p>\(  (4)^{2} + (0)^{2}             =   1^{2} + 9 - 6  + y^{2} + 4 - 4y  +  1^{2} + 1 + 2  + y^{2} + 4 - 4y     \)</p>
 <p>\(  16             =   16  + 2y^{2}  - 8y      \)</p>
-<p>\(               =     + 2y^{2}  - 8y      \)</p>
+<p>\(               =     2y^{2}  - 8y      \)</p>
 <p>\(   y =0,y = 4      \)</p>
 
 
@@ -519,18 +507,18 @@ AB and AC at D and E respectively such that \( \frac{AD}{AB} = \frac{AE}{AC} = \
 <p>\( \frac{AD}{AB}     =   \frac{AE}{AC}   = \frac{1}{4}   \)</p>
 <p>\( \frac{AD}{AD + DB }     =   \frac{AE}{AE + EC}   = \frac{1}{4}   \)</p>
 <p>\( \frac{AD}{ DB }     =   \frac{AE}{EC}   = \frac{1}{3}   \)</p>
-<p>Coordinates of D = (\frac{1\times 1 + 3\times 4}{1 + 3}, \frac{1\times 5 + 3\times 6}{1 + 3}       )</p>
-<p>Coordinates of D = (\frac{13}{4}, \frac{23}{4}       )</p>
+<p>Coordinates of D = \( \frac{1\times 1 + 3\times 4}{1 + 3}, \frac{1\times 5 + 3\times 6}{1 + 3}       \)</p>
+<p>Coordinates of D = \( \frac{13}{4}, \frac{23}{4}       \)</p>
 
-<p>Coordinates of E = (\frac{1\times 7 + 3\times 4}{1 + 3}, \frac{1\times 2 + 3\times 6}{1 + 3}       )</p>
-<p>Coordinates of E = (\frac{7 + 12}{4}, \frac{2 + 18}{1 + 3}       )</p>
-<p>Coordinates of E = (\frac{19}{4}, \frac{20}{4}       )</p>
+<p>Coordinates of E = \( \frac{1\times 7 + 3\times 4}{1 + 3}, \frac{1\times 2 + 3\times 6}{1 + 3}       \)</p>
+<p>Coordinates of E = \( \frac{7 + 12}{4}, \frac{2 + 18}{1 + 3}       \)</p>
+<p>Coordinates of E = \( \frac{19}{4}, \frac{20}{4}       \)</p>
 
-<p>Area of triangle ADE =  \frac{1}{2} (4(\frac{23}{4} - \frac{20}{4}) + \frac{13}{4}(\frac{20}{4} - 6) + \frac{19}{4} (6 - \frac{23}{4}) )</p>
-<p>Area of triangle ADE =  \frac{15}{32}  )</p>
+<p>Area of triangle ADE = \( \frac{1}{2} (4(\frac{23}{4}) - \frac{20}{4}) + \frac{13}{4}(\frac{20}{4} - 6) + \frac{19}{4} (6 - \frac{23}{4}) \)</p>
+<p>Area of triangle ADE = \( \frac{15}{32}  \)</p>
 
-<p>Area of triangle ABC =  \frac{1}{2} (4(5 -2) + 1(2 - 6) + 7(6 -5) )</p>
-<p>Area of triangle ABC =  \frac{15}{2}</p>
+<p>Area of triangle ABC = \( \frac{1}{2} (4(5 -2) + 1(2 - 6) + 7(6 -5)) \)</p>
+<p>Area of triangle ABC = \( \frac{15}{2} \)</p>
 <p>Clearly the ratio is 1:16</p>
 
 
@@ -543,9 +531,9 @@ AB and AC at D and E respectively such that \( \frac{AD}{AB} = \frac{AE}{AC} = \
 
 
 <p>Find the coordinates of the point P on AD such that AP : PD = 2 : 1</p>
-<p>\(  Coordinates of P = (\frac{2\times \frac{7}{2} + 1\times 4{2 + 1},\frac{2\times \frac{9}{2} + 1\times 2}{2 + 1})               \)</p>
-<p>\(  Coordinates of P = (\frac{7 + 4}{3},\frac{9 + 2}{3})               \)</p>
-<p>\(  Coordinates of P = (\frac{11}{3},\frac{11}{3})               \)</p>
+<p>Coordinates of P = \( ( \frac{2\times \frac{7}{2} + 1\times 4}{2 + 1},\frac{2\times \frac{9}{2} + 1\times 2}{2 + 1})   \)</p>
+<p>  Coordinates of P = \( (\frac{7 + 4}{3},\frac{9 + 2}{3})     \)</p>
+<p>  Coordinates of P = \( (\frac{11}{3},\frac{11}{3})               \)</p>
 
 <p>ii)Find the coordinates of points Q and R on medians BE and CF respectively such
 that BQ : QE = 2 : 1 and CR : RF = 2 : 1</p>
@@ -561,7 +549,7 @@ that BQ : QE = 2 : 1 and CR : RF = 2 : 1</p>
 <p>\(  Coordinates of E = (\frac{2\times 5 + 1\times 1}{2 +1},\frac{2\times \frac{7}{2} + 1\times 4}{2 + 1})               \)</p>
 <p>\(  Coordinates of E = (\frac{11}{3},\frac{11}{3})               \)</p>
 
-iv)What do you observe?
+<p>iv)What do you observe?</p>
 <p><strong>We observed that its the same point \(\frac{11}{3},\frac{11}{3} \) dividing all medians in the ratio of 2:1,actually this is called centroid </strong></p>
 
 @stop

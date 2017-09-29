@@ -1,27 +1,13 @@
 @extends('blog.layouts.math')
 
-@section('page-header')
-  <header class="intro-header parallax-window" data-parallax="scroll"  >
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          <div class="site-heading">
-            <h1>{{ $title }}</h1>
-            <hr class="small">
-            <h2 class="subheading">{{ $subtitle }}</h2>
-            {{--<h2 class="subheading">{{ Inspiring::quote() }}</h2>--}}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-@stop
+
 
 
 
 @section('content')
 
-
+<br/>
+<br/>
 <p><strong>EXERCISE – 12.1</strong></p>
 
 <p><strong><em>Question 1:2 cubes each of volume 64 cm 3 are joined end to end. Find the surface area of the
@@ -29,7 +15,7 @@ resulting cuboid.</em></strong></p>
 <p><strong>Solution:</strong></p>
 <p>Volume of cube = \(   a^{3}  \)</p>
 <p> 64 = \(   a^{3}  \)</p>
-<p> a  = 4  \)</p>
+<p> a  = 4  </p>
 <p>When we will join 2  cubes end to end,it will become a cuboid with length = 8 cm,the breadth and height will remain same</p>
 <p>The length = 8 cm,breadth = 4cm,height = 4cm </p>
 <p>A cuboid has 6 rectangles,so total surface area = \( 2(lb + bh + hl) = 2(8\times 4 + 4\times 4 + 4\times 8) = 2(32 + 16 + 32) = 160 cm^{2}    \)
@@ -43,7 +29,7 @@ inner surface area of the vessel.</em></strong></p>
 <p>13 = height of cylinder +   7cm              </p>
 <p>height of cylinder = 13 - 7 = 6             </p>
 <p>Inner surface area = area of cylinder + area of hemisphere</p>
-<p> = \( 2\times \frac{22}{7}\times 7\times 6 + 2\times frac{22}{7}\times 7^{2}   \)</p>
+<p> = \( 2\times \frac{22}{7}\times 7\times 6 + 2\times \frac{22}{7}\times 7^{2}   \)</p>
 <p> = \( 44\times 6 + 44\times 7  =  572 cm^{2}  \)</p>
 
 
@@ -57,7 +43,7 @@ The total height of the toy is 15.5 cm. Find the total surface area of the toy.<
 <p>using pythagoras theorem</p>
 <p>\( l = \sqrt{12^{2} + 3.5^{2}} = \frac{25}{2}  \)</p>
 <p>\( l = \sqrt{12^{2} + 3.5^{2}} = \frac{25}{2}  \)</p>
-<p>Total  surface  area = \frac{22}{7}\times 3.5\timees \frac{25}{2} + 2\times \frac{22}{7}\times 3.5^{2} =  214.5 cm^{2}</p>
+<p>Total  surface  area \(=  \frac{22}{7}\times 3.5\times \frac{25}{2} + 2\times \frac{22}{7}\times 3.5^{2} =  214.5 cm^{2}\)</p>
 
 
 
@@ -67,25 +53,31 @@ The total height of the toy is 15.5 cm. Find the total surface area of the toy.<
 diameter the hemisphere can have? Find the surface area of the solid.</em></strong></p>
 
 <p><strong>Solution:</strong></p>
-<p>The greatest diamtere = equal to side of cube = 7 cm </p>
-<p>Surface area of solid = surface area of cube + surface area of hemisphere</p>
-<p>\( = 6 a^{2} +  2\times \frac{22}{7}\times (\frac{7}{2})^{2}   \)</p>
-<p>\( = 294 + 38.5 = 332.5   \)</p>
+<p><strong><em>This is a good question and a little tricky too and I think 90% of the students will get it wrong in the fist try,if you got it in first try without any help,congretulations you are definitely going to score above 90</em></strong></p>
+<p>The greatest diamtere sphere can have  = equal to side of cube = 7 cm </p>
+<p><strong><em>Now if we just add surface area of cube and hemisphere i.e \(  6 a^{2} + 2\pi\times r^{2}  \),since the \( 6a^{2} \) is basically the sum of area of six faces of cube but we dont have to include full area of top surface of cube in which hemisphere is surmounted,we have to only include \( a^{2} - \pi\times r^{2} \) of that upper square if cube,hemisphere CSA \(2\pi\times r^{2} \) doesnt include the area of circle ,its just the area of curved part of hemisphere</em></strong></p>
+
+<p>Surface area of solid = surface area of cube + surface area of hemisphere - \( \pi\times r^{2} \)</p>
+<p>\( = 6a^{2} + 2\pi\times r^{2} - \pi\times r^{2} \)</p>
+<p>\( = 6a^{2} + \pi\times r^{2}  \)</p>
+<p>\( = 6 a^{2} +  \frac{22}{7}\times (\frac{7}{2})^{2}   \)</p>
+<p>\( = 294 + 38.5 = 332.5 cm^{2}  \)</p>
 
 
 
-<p><strong><em>Question 5: .A hemispherical depression is cut out from one face of a cubical wooden block such
+<p><strong><em>Question 5:A hemispherical depression is cut out from one face of a cubical wooden block such
 that the diameter l of the hemisphere is equal to the edge of the cube. Determine the
 surface area of the remaining solid..</em></strong></p>
 <p><strong>Solution:</strong></p>
-<p>This needs some time to understand but this is just opposite of previous question with just a little twist</p>
-<p>In this we will have to subtract the area of hemisphere from cube + we will have to subtract the area of the circular part which is formed on one face of cube by carving out the hemisphere </p>
 
-<p>Surface area of solid = surface area of cube - surface area of hemisphere - surface area of circular part</p>
+<p><strong><em>This needs some time to understand but this is just opposite of previous question with just a little twist</p>
+<p>So 5 faces of cube are intact,so \( 5a^{2} \) is fixed,since the hemisphere is carved out,we will have to add CSA area of hemisphere part of cube so total area becomes \( 5a^{2} + 2\pi\times r^{2} \),now only thing remaining is sixth square from which hemiphere is carved out ,we will have to add \( a^{2} - \pi\times r^{2} \) to the total upto now.So final area will become \(  5a^{2} +  2\pi\times r^{2}  + a^{2} - \pi\times r^{2}           \).</em></strong></p>
 
-<p>\( = 6 l^{2} -  2\times \frac{22}{7}\times (\frac{l}{2})^{2}  - \frac{22}{7}\times (\frac{l}{2})^{2}  \)</p>
+<p>So Surface area of solid = surface area of cube + surface area of hemisphere - surface area of circular part</p>
 
-<p>\( = 6 l^{2} -  frac{22}{7}\times (\frac{l^{2}}{4}) = 6l^{2} + \pi\times \frac{l^{2}{4}  \)</p>
+<p>\( = 6 l^{2} +  2\times \frac{22}{7}\times (\frac{l}{2})^{2}  - \frac{22}{7}\times (\frac{l}{2})^{2}  \)</p>
+
+<p>\( = 6 l^{2} +   \frac{22}{7}\times (\frac{l^{2}}{4}) = 6l^{2} + \pi\times \frac{l^{2}}{4}  \)</p>
 
 
 
@@ -94,17 +86,19 @@ surface area of the remaining solid..</em></strong></p>
 of its ends. The length of the entire capsule is 14 mm and the diameter
 of the capsule is 5 mm. Find its surface area.</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-13-1-6.png" alt="8" width="400" height="300" /></p>
+
 <p>We are given total height,at the twow ends of cylinder the hemisphere increase height each by r</p>
 <p>Total height of capsule = height of cylinder + 2(radius of hemisphere)</p>
-<p>14 = height of cylinder + \(2times \frac{5}{2} \)</p>
-<p>14 = height of cylinder + \(2times \frac{5}{2} \)</p>
-<p>14 = height of cylinder + 5 \)</p>
-<p>height of cylinder = 9mm  \)</p>
+<p>14 = height of cylinder + \(2\times \frac{5}{2} \)</p>
+<p>14 = height of cylinder + \(2\times \frac{5}{2} \)</p>
+<p>14 = height of cylinder + 5 </p>
+<p>height of cylinder = 9mm  </p>
 
 <p>Surface area of capsule=  area of c yliner + area of hemisphere</p>
 <p>= \(2\times \frac{22}{7}\times \frac{5}{2}\times 9 + 2(2\times \frac{22}{7}\times (\frac{5}{2})^{2}) \)</p>
-<p>= \( frac{44}{7}\times \frac{5}{2}\times 9 + \frac{88}{7}\times \frac{25}{4} \)</p>
-<p>= \( frac{44}{7}\times \frac{5}{2}\times 9 + \frac{88}{7}\times \frac{25}{4} \)</p>
+<p>= \( \frac{44}{7}\times \frac{5}{2}\times 9 + \frac{88}{7}\times \frac{25}{4} \)</p>
+<p>= \( \frac{44}{7}\times \frac{5}{2}\times 9 + \frac{88}{7}\times \frac{25}{4} \)</p>
 <p>\( = 45\times \pi + 25\times \pi = 70\pi = 220 mm^{2}         \)</p>
 
 
@@ -115,15 +109,14 @@ top is 2.8 m, find the area of the canvas used for making the tent. Also, find t
 the canvas of the tent at the rate of Rs 500 per m 2 . (Note that the base of the tent will not
 be covered with canvas.).</em></strong></p>
 <p><strong>Solution:</strong></p>
-<p><strong>There is one fine point you need to undertand is lateral surface area or curved surface area  and total surface area</br>
-\( 2\pi\times r\times h is curved surface area of cylinder ,\pi\times r\times l is curved surface of cone ,2\pi\times r^{2} is curved surface area of hemisphere ,so it doesnt include the area of two circles in cyliner and it doesnt include area of circle in cone and it doesnt include area of circle in hemisphere  \)
-</strong></p>
+<p><strong>>em>There is one fine point you need to undertand is lateral surface area or curved surface area  and total surface area</br>
+\( 2\pi\times r\times h \) is curved surface area of cylinder ,\( \pi\times r\times l \) is curved surface of cone ,\(2\pi\times r^{2} \) is curved surface area of hemisphere ,so it doesnt include the area of two circles in cyliner and it doesnt include area of circle in cone and it doesnt include area of circle in hemisphere.</em></strong></p>
 <p>Now in this question we have a tent,and in the question it has been made clear that base of the tent will not
 be covered with canvas ,we only have to find curved surface area ,notice the word curved,the area of only curved part </p>
 
 <p>Area of canvas used = \( 2\pi\times \frac{2.1}{2}\times 4 + \pi\times \frac{2.1}{2}\times  2.8 \)</p>
 <p>Area of canvas used = \( 2\pi\times 2.1\times 2 + \pi\times 2.1  1.4 \)</p>
-<p>= 44 m^{2}  \)</p>
+<p>\( = 44 m^{2}  \)</p>
 
 <p>Cost of the canvas of the tent = \( 44\times 500 = 22000 Rs \)</p>
 
@@ -133,18 +126,18 @@ be covered with canvas ,we only have to find curved surface area ,notice the wor
 same height and same diameter is hollowed out. Find the total surface area of the
 remaining solid to the nearest cm 2.</em></strong></p>
 <p><strong>Solution:</strong></p>
-<p><strong><em>This is a very good question.In these type of questions,its very much required that you give attention to each word in the question,the cylinder is solid,from which a conical cavity is hollowed out tha.<br/>
-If that would have  been a volume question,after hollowing out the volume would have decreases and the new volume would have been volume of cylinder - volume of cone<br/>
-But since its a area question ,the surface area would now have increases since now along with curved surface area of cylinder we also have surface area of cone.This is the only thing you need to understand to solve this question</em></strong></p>
+<p><strong><em>This is a very good question.In these type of questions,its very much required that you give attention to each word in the question,the cylinder is solid,from which a conical cavity is hollowed out.<br/>
+If that would have  been a volume question,after hollowing out the volume would have decreased and the new volume would have been volume of cylinder - volume of cone<br/>
+But since its a area question ,the surface area has increased since now along with curved surface area of cylinder we also have surface area of cone.This is the only thing you need to understand to solve this question</em></strong></p>
 
 <p>Total surface area  of reamining solid = curved surface a rea of cylinder + area of circular part at bottom(since cylinder is solid,dont have to consider the circular part at top beacuse it has been hollowed out) +  curved surface area of cone</p>
 
 
-<p>l(slant height of cone) = \sqrt{.7^{2} + 2.4^{2}} =  2.5</p>
+<p>l(slant height of cone) \(= \sqrt{.7^{2} + 2.4^{2}} =  2.5\)</p>
 
-<p>= (2\pi\times rh + \pi\times r^{2} + \pi\times rl</p>
-<p>= (2\pi\times rh + \pi\times r^{2} + \pi\times rl</p>
-<p>= (4.4\times 2.4 + 2.2\times 0.7 + 5.50 = 17.60 cm^{2}  = 18 cm^{2} (nearest cm^{2} )</p>
+<p>\(= (2\pi\times rh + \pi\times r^{2} + \pi\times rl \)</p>
+<p>\(= (2\pi\times rh + \pi\times r^{2} + \pi\times rl \)</p>
+<p>\(= (4.4\times 2.4 + 2.2\times 0.7 + 5.50 = 17.60 cm^{2}  = 18 cm^{2} (nearest cm^{2} )\)</p>
 
 
 
@@ -152,6 +145,8 @@ But since its a area question ,the surface area would now have increases since n
 cylinder, as shown in Fig. 13.11. If the height of the cylinder is 10 cm, and its  base is of radius 3.5 cm, find the total
 surface area of the article.</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-13-1-9.png" alt="8" width="400" height="300" /></p>
+
 <p>So try to solve this question without looking at the solution ,this is similar to quesstion:7 </p>
 <p>The cylinder was solid and then from both of its end two hemispheres are scooped out like when we eat icecream :) </p>
 <p>Total surface area of the article =  curve surface area of the article + curved surface area of two  hemispheres</p>
@@ -180,8 +175,8 @@ of air contained in the model that Rachel made. (Assume the outer and inner dime
 of the model to be nearly the same.</em></strong></p>
 <p><strong>Solution:</strong></p>
 <p>Total height of model = height of cylider + 2(height of cone)</p>
-<p>\(12 = height of cylider + 4 \)</p>
-<p>\(height of cylider  = 8 \)</p>
+<p>12 = height of cylider + 4 </p>
+<p>height of cylider  = 8 </p>
 <p>Volume of model = volume of cyliner + volume of two cones </p>
 <p>=\( \pi\times (\frac{3}{2})^{2}\times 8 + 2(\frac{1}{3}\times \pi\times (\frac{3}{2})^{2}\times 2      )                          \)
 <p>=\( \pi\times 9\times 2 +  \pi\times 3      = 21\pi = 66 cm^{3}                          \)
@@ -195,13 +190,13 @@ with length 5 cm and diameter 2.8 cm.</em></strong></p>
 <p><strong>Solution:</strong></p>
 <p>                                   </p>
 <p>The length of cylinder is 5 cm and radius of hemisphere at both ends is  1.4 cm       </p>
-<p>Volume of gulab jamun = \(  volume of cylinder + 2(volume of hemispheres)  \)</p>
+<p>Volume of gulab jamun =  volume of cylinder + 2(volume of hemispheres) </p>
 <p> = \(  2\pi\times 1.4\times 5 + 2(\frac{2}{3}\times \pi\times 1.4^{3} )  \)</p>
 <p> = \(  14\pi  + \frac{4}{3}\times \pi\times 1.4^{3}   \)</p>
 <p> = \(  25.05 cm^{2}   \)</p>
 
-<p>Volume of 45 gulab jamuns = 45\times 25.02 = 1127.25 cm^{2}</p>
-<p>So amount ofsyrup in 45 gulab jamuns = 45\times 1127.25 = 338 cm^{2}</p>
+<p>Volume of 45 gulab jamuns \( = 45\times 25.02 = 1127.25 cm^{2} \)</p>
+<p>So amount of syrup in 45 gulab jamuns \( = 45\times 1127.25 = 338 cm^{2} \)</p>
 
 
 
@@ -209,24 +204,27 @@ with length 5 cm and diameter 2.8 cm.</em></strong></p>
 The dimensions of the cuboid are 15 cm by 10 cm by 3.5 cm. The radius of each of the depressions is 0.5
 cm and the depth is 1.4 cm. Find the volume of wood in the entire stand (see Fig. 13.16).</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-13-2-4.png" alt="8" width="400" height="300" /></p>
+
 <p>Volume of wood in the entire stand = Volume of cuboid -4(volume of each conical depression) </p>
-<p> = 15\times 10\times 3.5  -4(\frac{1}{3}( \pi\times 3.5^{2}\times 1.4  ) ) </p>
-<p> = 525  -4(\frac{1}{3}( \pi\times 3.5^{2}\times 1.4  )) =  525 - 1.47 = 523.53 cm^{2} </p>
+<p>\( = 15\times 10\times 3.5  -4(\frac{1}{3}( \pi\times 3.5^{2}\times 1.4  )) \)</p>
+<p>\( = 525  -4(\frac{1}{3}( \pi\times 3.5^{2}\times 1.4  )) =  525 - 1.47 = 523.53 cm^{2} \)</p>
 
 
 
 <p><strong><em>Question 5:A vessel is in the form of an inverted cone. Its height is 8 cm and the radius of its top, which is
 open, is 5 cm. It is filled with water up to the brim.When lead shots, each of which is a sphere of radius
-0.5 cm are dropped into the vessel, one-fourth of the water flows out. Find the number of lead shots
+0.5 cm are dropped into the vessel, one-fourth of the water flows out.Find the number of lead shots
 dropped in the vessel.</em></strong></p>
 <p><strong>Solution:</strong></p>
-<p> This is a question which tests your common sense and understanding of what volume actually is,<br/>
-Inititally the vessel was totally filled ,when lead shots were dropped into vessel ,the water will flow out equal to the volume of lead shot</p>
-<p>Volume of vessel = \(  \frac{1}{3}\pi\times 5^{2}\times 8  = \frac{1}{3}\pi\times 200 \) </p>
+<p><strong><em>This is a question which tests your common sense and understanding of what volume actually is,<br/>
+Inititally the vessel was totally filled ,when lead shots were dropped into vessel ,the water will flow out equal to the volume of lead shot</em></strong></p>
+
+<p>Volume of vessel = \(  \frac{1}{3}\pi\times 5^{2}\times 8  = \frac{1}{3}\pi\times 200 \)</p>
 <p>Volume of one lead shot = \( \frac{4}{3}\times \pi\times .5^{3}  \) </p>
 <p>According to question</p>
-<p>.4\times \frac{200\pi}{3}  = n\times \frac{4}{3}\times \pi\times .5^{3}</p>
-<p>.4\times .75  \frac{200\pi}{3}  = n\times  \pi\times .125</p>
+<p>\( .4\times \frac{200\pi}{3}  = n\times \frac{4}{3}\times \pi\times .5^{3} \)</p>
+<p>\(.4\times .75  \frac{200\pi}{3}  = n\times  \pi\times .125 \)</p>
 <p>n = 100 </p>
 
 
@@ -237,8 +235,8 @@ is surmounted by another cylinder of height 60 cm and radius 8 cm. Find the mass
 <p>Total Volume =  \(  \pi\times 12^{2}\times 220 + \pi\times 8^{2}\times 60   \)</p>
 <p>=  \(  \pi\times 144\times 220 + \pi\times 64\times 60   \)</p>
 <p>=  \(  \pi\times 144\times 220 + \pi\times 64\times 60   \)</p>
-<p>= 111532 cm^{3} </p>
-<p>Mass of iron pole = .008\times 111532 = 892.262 kg </p>
+<p>\( = 111532 cm^{3} \)</p>
+<p>Mass of iron pole = \( .008\times 111532 = 892.262 kg \)</p>
 
 
 <p><strong><em>Question 7:A solid consisting of a right circular cone of height 120 cm and radius 60 cm standing on
@@ -258,12 +256,10 @@ a hemisphere of radius 60 cm is placed upright in a right circular cylinder full
 <p><strong><em>Question 8:A spherical glass vessel has a cylindrical neck 8 cm long, 2 cm in diameter; the diameter
 of the spherical part is 8.5 cm. By measuring the amount of water it holds, a child finds its volume to be 345 cm 3 . Check whether she is correct, taking the above as the inside measurements, and π = 3.14.</em></strong></p>
 <p><strong>Solution:</strong></p>
-<p>Volume of vessel = \( Volume of cylindrical part + Volume of sphere \)</p>
+<p>Volume of vessel = Volume of cylindrical part + Volume of sphere </p>
 <p>= \( \pi\times 1^2\times 8 + \frac{4}{3}\times \pi\times (\frac{8.5}{2})^{3} \)</p>
 <p>= \( 25.12 + 321.392 \)</p>
-<p>= \( 346.51 cm^{2},hence she was wrongly acclaiming ,she was lying \)</p>
-
-
+<p>= \( 346.51 cm^{2} \),hence she was wrongly acclaiming ,she was lying.</p>
 
 
 
@@ -322,7 +318,7 @@ is full of ice cream. The ice cream is to be filled into cones of height 12 cm a
 a cuboid of dimensions 5.5 cm × 10 cm × 3.5 cm?.</em></strong></p>
 <p><strong>Solution:</strong></p>
 <p>According to question                      </p>
-<p>\(  n\times \pi\times (\frac{1.75}{2})^{2}\times .2 = 5.5\times 10\times 3.5 (read the question well,thickness is given in mm and other lengths are given in cm)                \)</p>
+<p>\(  n\times \pi\times (\frac{1.75}{2})^{2}\times .2 = 5.5\times 10\times 3.5 \) (read the question well,thickness is given in mm and other lengths are given in cm)                </p>
 <p>\(  n= 400                \)</p>
 
 
@@ -350,7 +346,7 @@ area will it irrigate in 30 minutes, if 8 cm of standing water is needed?</em></
 <p>Now next thing we need to understand it what is standing water here</p>
 <p>Lets first calculate the volume which water in canal will cover by flowing at rate of 10 km per hour</p>
 <p>\(V = lbh = 5000\times 6\times 1.5 = 30000\times 1.5 = 45000 m^{3}  \)</p>
-<p>So 45000 m^{3} of volume will flow in 30 minutes </p>
+<p>So 45000 \( m^{3} \) of volume will flow in 30 minutes </p>
 <p>Now we dont need 1.5m deep for irrigation we need only 8 cm standing water that is height of water in canal</p>
 <p>Equating volumes</p>
 <p>\( 45000  =    A\times .08,A = 562500 cm^{2} \)</p>
@@ -360,12 +356,12 @@ area will it irrigate in 30 minutes, if 8 cm of standing water is needed?</em></
 <p><strong><em>Question 9:A farmer connects a pipe of internal diameter 20 cm from a canal into a cylindrical tank in
 her field, which is 10 m in diameter and 2 m deep. If water flows through the pipe at the rate of 3 km/h, in how much time will the tank be filled??</em></strong></p>
 <p><strong>Solution:</strong></p>
-<p>Do the easy things first in question even if you dont understand you will get marks due to step marking</p>
-<p>Volume of cylindrical tank = \(  \pi\times 5^{2}\times 2 = 50\pi m^{3}                \)</p>
-<p>Area of cross section of pipe = \pi\times .2^{2} = .04\pi m^{2}                 </p>
-<p>Volume of water coming out of water in 1 hour = 3000\times .04\pi m^{3}</p>
-<p>Time taken to fill 50\pi m^{3} = \(  \frac{5\times 60}{3} = 100 minutes              \)</p>
-<p><strong><em>Dont get panic by these sort of questions,they are just an alternative way to calculate volume,in all these kind of questions instead of giving directly volumw they give you cross section and speed of water,think of this as you have a big tank and you connect pipe to it .<br/>
+<p><strong><em>Do the easy things first in question even if you dont understand you will get marks due to step marking</em></strong></p>
+<p>Volume of cylindrical tank = \(  \pi\times 5^{2}\times 2 = 50\pi m^{3}                \)</p<
+<p>Area of cross section of pipe \( = \pi\times .2^{2} = .04\pi m^{2}                 \)</p>
+<p>Volume of water coming out of water in 1 hour \( = 3000\times .04\pi m^{3} \)</p>
+<p>Time taken to fill \( 50\pi m^{3} =  \frac{5\times 60}{3} = 100 minutes \)</p>
+<p><strong><em>Dont get panic by these sort of questions,they are just an alternative way to calculate volume,in all these kind of questions instead of giving directly volume they give you cross section and speed of water,think of this as you have a big tank and you connect pipe to it .<br/>
 Now the water will flow in pipe ,what flow actually mean is water will cover that much distance that is because we dont have a still source of water,water is coming continuosly from some source,so suppose in the starting water was at some point in pipe and after 3 seconds water comes out of pipe ,and pipe is 1 m long,that means that full area is now fill with water.
 <br/>
 Previosuly there was air in pipe but now in all that 1 m there is water so you have 1 multiplied by cross section volume of water</em> </strong></p>
@@ -379,7 +375,7 @@ circular ends are 4 cm and 2 cm. Find the capacity of the glass?</em></strong></
 <p>\(  r_{1} = 2            \)</p>
 <p>\(  r_{2} = 1           \)</p>
 <p>  Volume of frustum of cone = \( \frac{1}{3}\times \pi\times h ( r_{1}^{2} + r_{2}^{2} + r1\times r2    )                 \)</p>
-<p> = \( \frac{1}{3}\times \pi\times 14 ( 2^{2} +  1^{2}} + 2\times 1 )                 \)</p>
+<p> = \( \frac{1}{3}\times \pi\times 14 ( 2^{2} +  1^{2} + 2\times 1 )                 \)</p>
 <p> = \( \frac{1}{3}\times 22\times 14                \)</p>
 <p> = \( 102\frac{2}{3} cm^{3}                \)</p>
 
@@ -416,7 +412,8 @@ used for making it.</em></strong></p>
 <p>\( tan 30 = \frac{r_{1}}{10},r_{1} = \frac{10}{\sqrt{3}}  \)</p>
 <p>\( tan 30 = \frac{r_{2}}{20},r_{2} = \frac{20}{\sqrt{3} } \)</p>
 <p>Equating volume of frustum and wire,we get</p>
-<p>\( \frac{1}{3}\times \pi\times 10 ( \frac{(10\sqrt{3})^{2}}{3^{2}} + \frac{(20\sqrt{3})^{2}}{3^{2}} + \frac{10\sqrt{3}{3}\times \frac{20\sqrt{3}{3} ) = \pi\times (\frac{1}{32})^{2}\times l     \)</p>
+
+<p>\( \frac{1}{3}\times \pi\times 10 ( \frac{(10\sqrt{3})^{2}}{3^{2}} + \frac{(20\sqrt{3})^{2}}{3^{2}} + \frac{10\sqrt{3}} {3}\times \frac{20\sqrt{3}}{3} ) = \pi\times (\frac{1}{32})^{2}\times l  \)</p>
 
 
 
@@ -453,6 +450,10 @@ mass of the wire, assuming the density of copper to be 8.88 g per cm 3 .</em></s
 revolve about its hypotenuse. Find the volume and surface area of the double cone so
 formed. (Choose value of π as found appropriate.)</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-13-5-2.png" alt="8" width="400" height="300" /></p>
+
+
+
 <p>Once again a difficult question ,if the question would have been revolving around the perpendicular side it was easy,but here the triangle is rotated around hypotenuse which will form two cones and we need to find the volume and surface area of double cone genrated</p>
 
 <p>The radius of both the cones is same,and do we need to find the individual heights of cone</p>
@@ -481,12 +482,12 @@ Porous bricks are placed in the water until the cistern is full to the brim. Eac
 <p><strong>Solution:</strong></p>
 <p>Unlike previous two questions this is simple question,no extra brain needed,just a concept of percentage over normal question</p>
 
-<p>Volume of cistern =  150  × 120  × 110 = 1980000 cm^{3} </p>
-<p>Volume of water   =  129600 cm^{3}  </p>
-<p>Space of extra volume in cistern =  1980000 -  129600 =  1850400 cm^{3}</p>
-<p>Space of extra volume in cistern =  1980000 -  129600 =  1850400 cm^{3}</p>
-<p>Volume of one brick = 22.5\times 7.5\times 6.5 = 1096.875 cm^{3} </p>
-<p>Each brick absorbs \frac{1}{17}th of its volume that there will be increase  in \(  \frac{16}{17}   volume of one brick in putting one brick in water   \)                </p>
+<p>Volume of cistern =  150  × 120  × 110 = 1980000 \( cm^{3} \)</p>
+<p>Volume of water   =  129600 \( cm^{3} \)  </p>
+<p>Space of extra volume in cistern =  1980000 -  129600 =  1850400 \( cm^{3} \)</p>
+<p>Space of extra volume in cistern =  1980000 -  129600 =  1850400 \( cm^{3} \)</p>
+<p>Volume of one brick \( = 22.5\times 7.5\times 6.5 = 1096.875 cm^{3} \)</p>
+<p>Each brick absorbs \( \frac{1}{17}th \) of its volume that there will be increase  in \(  \frac{16}{17} \)  volume of one brick in putting one brick in water                 </p>
 
 <p>So now according to the question </p>
 <p>\(  N\times .3\times 1096.875 =     1850400    \)</p>
@@ -520,23 +521,25 @@ the funnel (see Fig. 13.25)?</em></strong></p>
 
 
 <p>Area of tin sheet required = curved surface area  of frustum part + curved surface area of cylindrical part</p>
-<p>\( = \(  \pi(r_{1} + r_{2})l +  2\pi\times r_{2}\times h_{2}  \)</p>
-<p>\( = \(  \pi(9 + 4)13 +  2\pi\times 4\times 10  \)</p>
-<p>\( = \(  782\frac{4}{7} cm^{3}  \)</p>
+<p> = \(  \pi(r_{1} + r_{2})l +  2\pi\times r_{2}\times h_{2}  \)</p>
+<p> = \(  \pi(9 + 4)13 +  2\pi\times 4\times 10  \)</p>
+<p> = \(  782\frac{4}{7} cm^{3}  \)</p>
 
 
 
 <p><strong><em>Question 6:Derive the formula for the curved surface area and total surface area of the frustum of a
 cone, given to you in Section 13.5,using the symbols as explained?</em></strong></p>
 <p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/10-0-13-5-6.png" alt="8" width="400" height="300" /></p>
+
 <p>The basic logic is we have to find the difference between curved surface area of bigger cone and smaller cone</p>
-<p>We are given \( r_{1} and r_{2} and l the height of the frustum  \)</p>
+<p>We are given \( r_{1} and r_{2} \) and l the slant height of the frustum  </p>
 <p>Let the slant height of bigger cone is \( l_{1} \) and of that smaller cone is \(  l_{2} \) </p>
 
 <p>CSA of bigger cone  = \(  \pi\times r_{1}\times l_{1}               \)</p>
 <p>CSA of smaller cone = \(  \pi\times r_{2}\times l_{2}               \)</p>
 
-<p>Curved surface area of frustum = \(  CSA of bigger cone -   CSA of smaller cone   \)</p>
+<p>Curved surface area of frustum =   CSA of bigger cone -   CSA of smaller cone   </p>
 <p>=\(  \pi\times r_{1}\times l_{1}   -  \pi\times r_{2}\times l_{2}                   \)</p>
 <p>=\(  \pi\times r_{1}\times (l + l_{2})   -  \pi\times r_{2}\times l_{2}   ...(1)                 \)</p>
 
@@ -561,7 +564,7 @@ cone, given to you in Section 13.5,using the symbols as explained?</em></strong>
 <p>=\(  \pi\times r_{1}l + \pi\times r_{2}l = \pi\times l(r_{1} + r_{2}                \)</p>
 
 
-<p>So total surface area = \pi\times l(r_{1} + r_{2})  + \pi\times r_{1}^{2} +  \pi\times r_{2}^{2}</p>
+<p>So total surface area \( = \pi\times l(r_{1} + r_{2})  + \pi\times r_{1}^{2} +  \pi\times r_{2}^{2} \)</p>
 
 
 
@@ -571,7 +574,7 @@ cone, given to you in Section 13.5,using the symbols as explained?</em></strong>
 using the symbols as explained?</em></strong></p>
 <p><strong>Solution:</strong></p>
 
-<p>This is like previous question this time you need to find relation for \( h_{2}\) in terms of h,\(r_{1}\) and \(r_{2} \)</p>
+<p>This is like previous question,refer to the same diagram, this time you need to find relation for \( h_{2}\) in terms of h,\(r_{1}\) and \(r_{2} \)</p>
 <p>Using same logic as in previous question</p>
 
 <p>Since DE || BG</p>

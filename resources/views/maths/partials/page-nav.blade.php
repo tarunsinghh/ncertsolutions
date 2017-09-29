@@ -135,6 +135,48 @@
       </ul>
     </div>
   </div>
+
+
+
+  <script type ="text/javascript">
+
+$(document).on('click','.navbar-toggle',function(e) {
+
+  if($("#navbar-main").hasClass("in") ) {
+
+      console.log("ddd");
+        
+        $("#navbar-main").removeClass("in");
+    }
+
+  else{
+            console.log("ddd1");
+
+        $("#navbar-main").addClass("in")
+    }
+
+
+
+
+});
+console.log( "ready!" );
+//console.log(document.querySelector('.navbar-toggle'));
+
+/*
+$(".navbar-toggle").onclick(function() {
+alert('Item selected');
+});
+
+
+
+
+
+document.querySelector('.navbar-toggle').click( function ()
+  {
+    console.log("tps")
+  });
+*/
+</script>
 </nav>
 
 
