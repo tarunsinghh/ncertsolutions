@@ -9,6 +9,8 @@
 <br/>
 <br/>
 @section('content')
+<p  style= "color:red";><strong>If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</strong></p>
+
 <p><strong>EXERCISE – 15.1</strong></p>
 <p><strong><em>Question 1:Complete the following statements:</em></strong></p>
 <p><strong>i)Probability of an event E  + Probability of an event (not E) = ___ </strong></p>

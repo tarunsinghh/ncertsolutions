@@ -3,7 +3,7 @@
 @section('content')
 <br/>
 <br/>
-
+<p  style= "color:red";><strong>If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</strong></p>
 <p><strong><em>EXERCISE 1.1 </p>
 <p>Question-1 </p>
 <p>Use Euclid’s division algorithm to find the HCF of:</p>
