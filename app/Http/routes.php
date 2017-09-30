@@ -50,6 +50,9 @@ get('blog', function(){
 */
 
 get('blog', 'BlogController@index');
+get('/tutorials/{tutorialName}', 'BlogController@tutorials');
+
+
 get('blog/{slug}', 'BlogController@showPost');
 $router->get('contact', 'ContactController@showForm');
 

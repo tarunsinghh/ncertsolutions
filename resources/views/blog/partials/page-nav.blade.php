@@ -34,7 +34,7 @@
                     <div class="dropdown-inner">
                       <ul class="list-unstyled">
                        <li>
-                          <a href="#">Sets</a>
+                          <a href="/tutorials/sets-tutorial">Sets</a>
                         </li>
                         <li>
                           Permutation and combinations( Coming soon !!)

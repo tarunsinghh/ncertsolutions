@@ -54,6 +54,46 @@ class BlogController extends Controller
 
     return view($layout, $data);
   }
+
+
+public function tutorials($param)
+  {
+//var_dump($param);exit;
+
+
+
+    $data = Array
+(
+    'title' => 'Ncert Solutions',
+    'subtitle' => 'Ncert Maths Solutions of all classes',
+    
+
+    'page_image' => 'home-bg.jpg',
+    'meta_description' => 'Ncert Maths Solutions of all classes',
+    'tag' =>'',
+    
+     
+);
+
+    //$layout = $tag ? Tag::layout($tag) : 'blog.layouts.index';
+
+    $layout = 'blog.layouts.'.$param;
+
+
+
+    return view($layout, $data);
+  }
+
+
+
+
+
+
+
+
+
+
+
   public function showPost($slug, Request $request)
   {
     $post = Post::with('tags')->whereSlug($slug)->firstOrFail();
