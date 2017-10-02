@@ -27,10 +27,10 @@ class SiteMap
    */
   protected function buildSiteMap()
   {
-    $postsInfo = $this->getPostsInfo();
-    $dates = array_values($postsInfo);
-    sort($dates);
-    $lastmod = last($dates);
+  //  $postsInfo = $this->getPostsInfo();
+   // $dates = array_values($postsInfo);
+   // sort($dates);
+   // $lastmod = last($dates);
     $url = trim(url(), '/') . '/';
 
     $xml = [];
@@ -42,14 +42,14 @@ class SiteMap
     $xml[] = '    <changefreq>daily</changefreq>';
     $xml[] = '    <priority>0.8</priority>';
     $xml[] = '  </url>';
-
+/*
     foreach ($postsInfo as $slug => $lastmod) {
       $xml[] = '  <url>';
       $xml[] = "    <loc>{$url}blog/$slug</loc>";
       $xml[] = "    <lastmod>$lastmod</lastmod>";
       $xml[] = "  </url>";
     }
-
+*/
     $xml[] = '</urlset>';
 
     return join("\n", $xml);
