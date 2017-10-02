@@ -37,8 +37,8 @@ class SiteMap
     $xml[] = '<?xml version="1.0" encoding="UTF-8"?'.'>';
     $xml[] = '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
     $xml[] = '  <url>';
-   // $xml[] = "    <loc>$url</loc>";
-    $xml[] = "    <lastmod>$lastmod</lastmod>";
+    $xml[] = "    <loc>$url</loc>";
+   // $xml[] = "    <lastmod>$lastmod</lastmod>";
     $xml[] = '    <changefreq>daily</changefreq>';
     $xml[] = '    <priority>0.8</priority>';
     $xml[] = '  </url>';
