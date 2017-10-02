@@ -19,7 +19,7 @@
               <li class="dropdown">
                   <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Tutorials<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                      <li><a href="tutorials/sets-tutorial">Sets</a></li>
+                      <li><a href="http://www.tpsncert.com/tutorials/sets-tutorial">Sets</a></li>
                       <li><a href="#">Permutations and Combinations(Coming soon !!)</a></li>
                    </ul>
               </li>
