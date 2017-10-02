@@ -1,126 +1,44 @@
 {{-- Navigation --}}
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top is-fixed is-visible">
-  <div class="container-fluid">
+  <div class="container">
     {{-- Brand and toggle get grouped for better mobile display --}}
-    <div class="navbar-header page-scroll">
-      <button type="button" class="navbar-toggle" data-toggle="collapse"
-              data-target="#navbar-main">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">{{ config('blog.name') }}</a>
-    </div>
+   <nav class="navbar navbar-inverse">
+    <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+          <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle" aria-expanded="true">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+          </button>
+          <a href="#" class="navbar-brand">Ncert Solved</a>
+      </div>
+      <!-- Collection of nav links, forms, and other content for toggling -->
+      <div id="navbarCollapse" class="navbar-collapse collapse in" aria-expanded="true" style="">
+          <ul class="nav navbar-nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li class="dropdown">
+                  <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Tutorials<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                      <li><a href="tutorials/sets-tutorial">Sets</a></li>
+                      <li><a href="#">Permutations and Combinations(Coming soon !!)</a></li>
+                   </ul>
+              </li>
+                
+              <li class="dropdown">
+              <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Class 10<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+              <li><a href="/maths/10">Maths</a></li>
+              </ul>
 
 
 
+                   
+              </li>
 
-
-
-
-
-
-    {{-- Collect the nav links, forms, and other content for toggling --}}
-    <div class="collapse navbar-collapse " id="navbar-main">
-     
-      <ul class="nav navbar-nav navbar-right">
-       
-
-
-       <li class="dropdown">
-                  <a data-toggle="dropdown" class="dropdown-toggle" href="#">Tutorials<span class="fa fa-angle-down"></span></a>
-                  <div class="dropdown-menu animated fadeInDown">
-                    <div class="dropdown-inner">
-                      <ul class="list-unstyled">
-                       <li>
-                          <a href="/tutorials/sets-tutorial">Sets</a>
-                        </li>
-                        <li>
-                          Permutation and combinations( Coming soon !!)
-                         <!-- <a href="#">Permutation and combinations</a>-->
-                        </li>
-                        <li>
-                        
-                          Probability( Coming soon !!)
-
-                        <!--  <a href="#">Probability</a> -->
-                        </li>
-                         <li>
-                        <!--  <a href="#">Trigonometry</a> -->
-                        </li>
-                   <!--     
-                         <li>
-                          <a href="#">Coordinate Geometry</a>
-                        </li>
-                         <li>
-                          <a href="#">Miscelleneous</a>
-                        </li>
-                          -->                  
-                      </ul>
-                    </div>
-                  </div>
-                </li>
-
-
-<!--
-
-<li class="dropdown">
-                  <a data-toggle="dropdown" class="dropdown-toggle" href="#">Class 9<span class="fa fa-angle-down"></span></a>
-                  <div class="dropdown-menu animated fadeInDown">
-                    <div class="dropdown-inner">
-                      <ul class="list-unstyled">
-                        <li>
-                          <a href="/maths/9">Maths</a>
-                        </li>
-                        <li>
-                          <a href="#">Physics</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </li>
-
--->
-
-
-<li class="dropdown">
-                  <a data-toggle="dropdown" class="dropdown-toggle" href="">Class 10<span class="fa fa-angle-down"></span></a>
-                  <div class="dropdown-menu animated fadeInDown">
-                    <div class="dropdown-inner">
-                      <ul class="list-unstyled">
-                        <li>
-                          <a href="/maths/10">Maths</a>
-                        </li>
-                 <!--       <li>
-                          <a href="#">Physics</a>
-                        </li>-->
-                      </ul>
-                    </div>
-                  </div>
-                </li>
-
-
-
-
-
-
-
-
-
-
-<!--
-
-
-
-
-         <li>
-          <a href="/">Solutions</a>
-        </li>
--->
-        <li>
-          <a href="/contact">Contact</a>
-        </li>
+          </ul>
+    
+      </div>
+  </nav>
           @if (Auth::guest())
           @else
             <li class="dropdown ">

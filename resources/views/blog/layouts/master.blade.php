@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">s
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,11 +8,13 @@
     <meta name="author" content="{{ config('blog.author') }}">
     <title>{{ $title or config('blog.title') }}</title>
     <link rel="alternate" type="application/rss+xml" href="{{ url('rss') }}" title="RSS Feed {{ config('blog.title') }}">
-        <script type="text/javascript" src="/assets/js/blog.js"></script>
+    
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
                 <script type="text/javascript" src="resources/assets/js/accordian.js"></script>
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-
+    <!-- Optional Bootstrap theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
 
 <script type="text/x-mathjax-config">
@@ -23,7 +25,6 @@
   });
 </script>
     {{-- Styles --}}
-    <link href="/assets/css/blog.css" rel="stylesheet">
     @yield('styles')
      @yield('scripts')
 
@@ -57,6 +58,9 @@
     tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
   });
 </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
     @yield('scripts')
   </body>
 </html>
