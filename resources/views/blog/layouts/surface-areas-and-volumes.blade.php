@@ -602,4 +602,27 @@ using the symbols as explained?</em></strong></p>
 <p>Volume of cone = \( \frac{1}{3}\times \pi\times h(r_{1}^{2} + r_{2}^{2} + r_{1}r_{2} ) \) </p>
 
 
-
+<div id="disqus_thread"></div>
+<script>
+   
+    var disqus_config = function () {
+        //this.page.url = 'http://www.ncertsolved.com/solutions/quadratic-equations';
+        
+        this.page.url = document.url;
+        console.log(this.page.url);
+        this.page.identifier = this.page.url+'fff';
+        console.log(this.page.identifier);
+        this.page.title = '123';
+    };
+    
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//ncertsolved-com.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+@stop
