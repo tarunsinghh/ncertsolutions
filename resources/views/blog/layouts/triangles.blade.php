@@ -124,7 +124,6 @@ of ∠ A.</strong></em></p>
 <p><strong><em>AB is a line segment and p is its mid-point. D and E are points on the same side of AB such that \(∠ BAD = ∠ ABE\ and\ ∠ EPA = ∠ DPB\) (see fig.). Show that</em></strong></p>
 <p><strong><em>            (i)  DAP = ∆ EBP</em></strong></p>
 <p><strong><em>            (ii) AD = BE</em></strong></p>
-//<p><img class="alignnone size-full wp-image-2052" src="http://s3-ap-southeast-1.amazonaws.com/subscriber.images/ncert-solutions/wp-content/uploads/2017/03/02061857/76.png" alt="7" width="299" height="178" /></p>
 <p><strong><em>Solution:</em></strong></p>
 <p>We are given two things directly and one thing we can derive using given information</p>
 <p>∠ EPA = ∠ DPB </p>
@@ -149,7 +148,6 @@ of ∠ A.</strong></em></p>
 <p><strong><em>            (II) ∠ DBCis a right angle.</em></strong></p>
 <p><strong><em>            (iii) ∆ DBC = ∆ ACB</em></strong></p>
 <p><strong><em>            (iv) \( CM= \frac{1}{2} AB \)</em></strong></p>
-//<p><img class="alignnone size-full wp-image-2053" src="http://s3-ap-southeast-1.amazonaws.com/subscriber.images/ncert-solutions/wp-content/uploads/2017/03/02061917/86.png" alt="8" width="227" height="221" srcset="http://s3-ap-southeast-1.amazonaws.com/subscriber.images/ncert-solutions/wp-content/uploads/2017/03/02061917/86.png 227w, http://s3-ap-southeast-1.amazonaws.com/subscriber.images/ncert-solutions/wp-content/uploads/2017/03/02061917/86-50x50.png 50w" sizes="(max-width: 227px) 100vw, 227px" /></p>
 <p><strong>Solution:</strong></p>
 <p>In ∆ BMB and ∆ DMC , we have</p>
 <p>(i) DM = CM (given)</p>
