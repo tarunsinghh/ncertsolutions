@@ -129,23 +129,19 @@ public function tutorials($param)
   {
 
 
-    //echo $param;
+    echo $param;
 
 
   //  echo "inside maths tps controller";
 
-
-
-
-
     $tag = NULL;
-    $data = $this->dispatch(new BlogIndexData($tag));
+    //$data = $this->dispatch(new BlogIndexData($tag));
 
    // echo "<pre>";
     //print_r($data);
 
 
-    $chapters = array('9'=>7,'10'=>10); 
+     
 
 
     $chapterName = array
@@ -164,34 +160,26 @@ public function tutorials($param)
        array('Areas related to Circles','areas-related-to-circles'),
        array('Surface Areas and Volumes','surface-areas-and-volumes'),
        array('Probability','probability')
-       )
+       ),
+      '9'=>array (
+
+        array('Triangles','triangles'),
+      )
+
     );
       
-
-
-    $data = Array
+   $data = Array
 (
     'title' => 'Ncert Solutions',
     'subtitle' => 'Ncert Maths Solutions of all classes',
-    
-
     'page_image' => 'home-bg.jpg',
     'meta_description' => 'Ncert Maths Solutions of all classes',
     'tag' =>'',
     'class' => $param,
-    'chapters'=> $chapterName['10']
+    'chapters'=> $chapterName[$param]
      
 );
-
-
-  //  echo "<pre>";
-    //print_r($data);//exit;
-
-
-
-    $layout =  'blog.layouts.chapters';
-
-
+   $layout =  'blog.layouts.chapters';
 
     //$layout = 'blog.layouts.index';
 

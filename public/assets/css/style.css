@@ -17,3 +17,22 @@ p
 
 	margin-left: 20px !important;
 }
+
+
+
+@media (min-width:1200px) 
+{
+  .container {
+    width: 1250px !important;
+}
+}
+
+
+@media (min-width:1500px) 
+{
+  .container {
+    width: 1400px;
+}
+}
+
+

@@ -19,27 +19,14 @@
   <div class="container">
     <div class="rowchapter">
       <div class="col-lg-2 col-lg-offset-2 col-md-2 col-md-offset-1">
-
-            
-         
-              <h3 class="post-title">Class{{ $class }} Maths Solutions </h3>
+          <h3 class="post-title">Class{{ $class }} Maths Solutions </h3>
         
-          
-
-
-
-          @for  ($i=0;$i<= 10 ;++ $i)
-          
+          @for  ($i=0;$i< count($chapters) ;++ $i)
           
           <a href= {{ '/solutions/'.$chapters[$i][1] }} >
               <h4 class="post-title">{{ $chapters[$i][0] }}</h4>
           </a>
 
-           
-
-              
-               
-          
           @endfor
 
       </div>

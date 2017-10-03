@@ -564,7 +564,72 @@ where m and n both are non negative integers</p>
 
 
 
+<div id="disqus_thread"></div>
 
+        </div><!--Close container row-->
+
+        <!-- Blog Sidebar
+        ================================================== --> 
+        <div class="span4 sidebar">
+
+            <!--Search-->
+            <section>
+               <!--  <div class="input-append">
+                    <form action="#">
+                        <input id="appendedInputButton" size="16" type="text" placeholder="Search"><button class="btn" type="button"><i class="icon-search"></i></button>
+                    </form>
+                </div> -->
+                <div class="sidebar">
+               
+         <gcse:search enableAutoComplete="true"></gcse:search>
+                    </div>
+            </section>
+
+           
+
+            
+        </div>
+
+    </div>
+		 @endsection
+
+
+@section('javascript')
+       <script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://www-mythologger-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+<script id="dsq-count-scr" src="//www-mythologger-com.disqus.com/count.js" async></script>
+
+
+
+<script>
+  (function() {
+    var cx = '009569975203262159236:fm6oey7khng';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
 
 
 
