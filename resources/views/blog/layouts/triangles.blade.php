@@ -171,7 +171,7 @@ of ∠ A.</strong></em></p>
 <p>\( \frac{1}{2} AB = \frac{1}{2} CD\) (CPCT)</p>
 <p>Hence, \(\frac{1}{2} AB = CM\) Proved.</p>
 
-
+/*
 
 <p><strong><u>Exercise 7.2:</u></strong></p>
 <p><strong>Question 1:</strong></p>
@@ -309,7 +309,7 @@ of ∠ A.</strong></em></p>
 <p>&nbsp;</p>
 
 
-
+*/
 
 @stop
 
