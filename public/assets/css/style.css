@@ -36,38 +36,46 @@ p
 }
 
 
-.fa-stack {
-    position: relative;
-    width: 2em;
-    height: 2em;
-    line-height: 2em;
-    vertical-align: middle
-}
-
-.fa-stack-1x,
-.fa-stack-2x {
-    position: absolute;
-    left: 0;
-    width: 100%;
-    text-align: center
-}
-
-.fa-stack-1x {
-    line-height: inherit
-}
-
-.fa-stack-2x {
-    font-size: 2em
-}
-
-.fa-inverse {
-    color: #fff
-}
-
 footer .list-inline {
     margin: 0;
     padding: 0
 }
+
+
+.fa {
+    font: normal normal normal 14px/1 ;
+        font-size: 14px;
+        line-height: 1;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.fa-inverse {
+    color: #fff;
+}
+
+.fa-stack-1x {
+    line-height: inherit;
+}
+
+.fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.fa, .fa-stack {
+    display: inline-block;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+
 .fa-circle-o:before {
     content: "\f10c"
 }
