@@ -1,6 +1,6 @@
 <ul class="list-inline text-center">
   
-<!--
+/*
   <li>
     <a href="{{ url('rss') }}" data-toggle="tooltip" title="RSS feed">
       <span class="fa-stack fa-lg">
@@ -16,7 +16,10 @@
         <i class="fa fa-hand-spock-o fa-stack-1x fa-inverse"></i>
       </span>
     </a>
-  </li> -->
+  </li> 
+
+  */
+
   <li>
     <a href="https://twitter.com/{{ env('TWITTER_USERNAME') }}" target="_blank" data-toggle="tooltip" title="My Twitter Page">
       <span class="fa-stack fa-lg">

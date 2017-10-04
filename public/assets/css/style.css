@@ -36,3 +36,79 @@ p
 }
 
 
+.fa-stack {
+    position: relative;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center
+}
+
+.fa-stack-1x {
+    line-height: inherit
+}
+
+.fa-stack-2x {
+    font-size: 2em
+}
+
+.fa-inverse {
+    color: #fff
+}
+
+footer .list-inline {
+    margin: 0;
+    padding: 0
+}
+.fa-circle-o:before {
+    content: "\f10c"
+}
+.fa-circle:before {
+    content: "\f111"
+}
+.fa-circle-o-notch:before {
+    content: "\f1ce"
+}
+.fa-circle-thin:before {
+    content: "\f1db"
+}
+
+
+
+.fa-stack-overflow:before {
+    content: "\f16c"
+}
+.fa-stack-exchange:before {
+    content: "\f18d"
+}
+.fa-twitter-square:before {
+    content: "\f081"
+}
+.fa-twitter:before {
+    content: "\f099"
+}
+.fa-facebook-f:before,
+.fa-facebook:before {
+    content: "\f09a"
+}
+.fa-facebook-official:before {
+    content: "\f230"
+}
+.fa-facebook-square:before {
+    content: "\f082"
+}
+
+.fa-linkedin-square:before {
+    content: "\f08c"
+}
+.fa-linkedin:before {
+    content: "\f0e1"
+}
