@@ -346,6 +346,136 @@ triangle in which AB = AC.
 
 
 
+<p><strong><u>Exercise 7.3</u></strong></p>
+<p><strong>Question 1:</strong></p>
+<p><strong><em>∆ ABC and ∆ DBC are two isosceles triangles on the same base BC and vertices A and D are on the
+same side of BC (see Fig. 7.39). If AD is extended to intersect BC at P, show that
+(i) ∆ ABD ≅ ∆ ACD
+(ii) ∆ ABP ≅ ∆ ACP
+(iii) AP bisects ∠ A as well as ∠ D</p>.
+(iv) AP is the perpendicular bisector of BC.</em></strong></p>
+
+<p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-1.png" alt="8" width="400" height="300" /></p>
+<p>It is also a very good question which needs clear knowledge</p>
+<p>We cant proove things in order,for prooving part 1 ,we need part 3 </p>
+<p><strong><em>We cant proove ∆ ABD ≅ ∆ ACD by AB = AC ,AD= AD,common and ∠ABC = ∠ ACB ,because in SAS congruence condition you need the angle included bwtween the equal sides to be equal<br/>
+For more details ,click <a href="www.tpsncert.com/tutorial/triangles-tutorial"></a></em></strong></p>
+
+<p>In ∆ABD and  ∆ACD </p>
+<p>AB = AC (Given)</p>
+<p>BD = CD (Given)</p>
+<p>AP = AP (Common)</p>
+<p>So by SSS congruence condition</p>
+<p>∆ ABD ≅ ∆ ACD</p>
+<p>∠ BAD = ∠ CAD (By CPCT)</p>
+<p>Since D is just extended to intersect BC at P</p>
+<p>∠ BAP = ∠ CAP  ...(1)</p>
+<p>So AP bisects both ∠ A as well as ∠ D</p>
+
+
+<p>Now in ∆ABP and  ∆ACP </p>
+<p>AB = AC (Given)</p>
+<p>∠ BAP = ∠ CAP  (From 1)</p>
+<p>AP = AP (Common)</p>
+<p>So by SAS congruence condition</p>
+<p>∆ ABP ≅ ∆ ACP </p>
+<p>AP = PB (By CPCT)   ...(2)</p>
+<p>∠ BPA = ∠ CPA</p>
+<p>Note:∠ BAP and ∠ CAP are the included angle between two equal sides,thats why we can use SAS</p>
+<p>Also ∠ BPA  + ∠ CPA = 180,so 2∠ BPA  = 180,∠ BPA = 90</p>
+<p>From 2 we have AP =  PB</p>
+<p>so AP is the perpendicular bisector of BC</p>
+
+
+
+
+<p><strong><em>Question 2:</em></strong></p>
+<p><strong><em>AD is an altitude of an isosceles triangle ABC in which AB = AC. Show that
+(i) AD bisects BC
+(ii) AD bisects ∠ A.</em></strong></p>
+<p><strong>Solution:</strong></p>
+<p><strong><em>(ii) XD bisects </em></strong><strong><em>∠</em></strong><strong><em>X</em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-2.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p>(i) In ⧍ABD and ⧍ACD, 
+<p>In right angle triangle ABD and ACD</p>
+<p>AB = AC</p>
+<p>AD = AD (Common)</p>
+<p>⧍ABD ⩬ ⧍ACD.(By R.H.S Congruence condition)</p>
+<p>AD = DC (By CPCT)</p>
+<p>Hence, AD bisects BC.</p>
+<p>(ii) Also, ∠BAD = ∠CAD (CPCT)</p>
+<p>Hence AD bisects ∠A.</p>
+
+
+
+<p><strong>Question 3:</strong></p>
+<p><strong><em>Two sides AB and BC and median AM of one triangle ABC are respectively equal to sides PQ and QR and median PN of </em></strong><strong><em>⧍</em></strong><strong><em>PQR. Show that:</em></strong></p>
+<p><strong><em>(i) </em></strong><strong><em>⧍</em></strong><strong><em>ABM </em></strong><strong><em>⩬</em></strong><strong><em>  </em></strong><strong><em>APQN (ii) </em></strong><strong><em>⧍</em></strong><strong><em>ABC </em></strong><strong><em>⩬</em></strong> <strong><em>⧍</em></strong><strong><em>PQR</em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-3.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p>(i) In ⧍ABM and ⧍PQN,</p>
+<p>we have</p>
+<p>BM = QN</p>
+\(\frac{1}{2}BC = \frac{1}{2}QR\)
+<p>AB = PQ</p>
+<p>AM = PN</p>
+<p>⧍ABM = ⧍PQN [ SSS Congruence ]</p>
+<p>∠ABM = ∠PQN.</p>
+<p>(ii) Now, in ⧍ABC and ⧍PQR, we have</p>
+<p>AB = PQ</p>
+<p>∠ABC = ∠PQR</p>
+<p>BC = QR</p>
+<p>⧍ABC ⩬  ⧍PQR [SAS congruence]</p>
+<p>&nbsp;</p>
+<p><strong>Question 4:</strong></p>
+<p><strong><em>In triangle ABC, BE and CF are two equal altitudes. By Using RHS congruence rule, prove that the triangle ABC is isosceles.</em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-4.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p>BE and CF are altitudes of a ⧍ABC.</p>
+<p>∠BEC = ∠CFB = 90°</p>
+<p>Now, in right triangles BEB and CFB, we have</p>
+<p>Hyp. BC = Hyp. BC</p>
+<p>Side BE= Side CF</p>
+<p>⧍BEC ⩬  ⧍CFB   (By R.H.S congruent condition,hypotenuse and one other needed to be equal in right trinagles for triangles to be RHS congruent</p>
+<p>∠BCE = ∠CBF</p>
+<p>Now, in ⧍ABC, ∠B = ∠C</p>
+<p>AB = AC</p>
+<p>Hence, ⧍ABC is an isosceles triangle.</p>
+<p>&nbsp;</p>
+<p><strong>Question 5:</strong></p>
+<p>AB = AC in an isosceles triangle ABC. Draw AP perpendicular BC to show that ∠B= ∠C.</p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-5.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p>Draw AP perpendicular BC. In ⧍ABP and ⧍ACP, we have</p>
+<p>AB = AC</p>
+<p>∠APB = ∠APC</p>
+<p>AB = AP [Common]</p>
+<p>⧍ABP = ⧍ACP [By RHS congruence rule]</p>
+<p>Also, ∠B = ∠C Proved. [CPCT]</p>
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @stop

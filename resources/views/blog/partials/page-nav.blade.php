@@ -20,6 +20,8 @@
                   <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Tutorials<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                       <li><a href="http://www.ncertsolved.com/tutorials/sets-tutorial">Sets</a></li>
+                      <li><a href="http://www.tpsncert.com/tutorials/triangles-tutorial">Triangles and its property(Class 9 and 10)</a></li>
+
                       <li><a href="#">Permutations and Combinations(Coming soon !!)</a></li>
                    </ul>
               </li>
