@@ -9,7 +9,7 @@
                         
                         <div class="span6">
                             <span class="right">
-                            <a target="_blank" href="https://ncertsolved.com">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.ncertsolved.com/contact-us">Contact</a>
+                            <a target="_blank" href="https://ncertsolved.com">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.ncertsolved.com/contact">Contact</a>
                             &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.ncertsolved.com/privacy">Privacy Policy</a>
                             &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.ncertsolved.com/sitemap.xml">Sitemap</a>
                             </span>
