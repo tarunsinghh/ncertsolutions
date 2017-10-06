@@ -163,7 +163,11 @@ public function tutorials($param)
        ),
       '9'=>array (
 
-        array('Triangles','triangles'),
+        array('Triangles','triangles')
+      ),
+      '11'=>array (
+
+        array('Permutations and Combinations','permutations-and-combinations'),
       )
 
     );

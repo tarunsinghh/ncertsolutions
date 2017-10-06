@@ -20,7 +20,7 @@
                   <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Tutorials<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                       <li><a href="http://www.ncertsolved.com/tutorials/sets-tutorial">Sets</a></li>
-                      <li><a href="http://www.tpsncert.com/tutorials/triangles-tutorial">Triangles and its property(Class 9 and 10)</a></li>
+                      <li><a href="http://www.ncertsolved.com/tutorials/triangles-tutorial">Triangles and its property(Class 9 and 10)</a></li>
 
                       <li><a href="#">Permutations and Combinations(Coming soon !!)</a></li>
                    </ul>
@@ -37,6 +37,13 @@
               <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Class 9<b class="caret"></b></a>
               <ul class="dropdown-menu">
               <li><a href="/maths/9">Maths</a></li>
+              </ul>
+              </li>
+
+               <li class="dropdown">
+              <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Class 11<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+              <li><a href="/maths/11">Maths</a></li>
               </ul>
               </li>
 
