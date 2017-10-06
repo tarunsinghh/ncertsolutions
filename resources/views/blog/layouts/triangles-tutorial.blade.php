@@ -33,6 +33,8 @@ is equidistant from the points A and B (see Fig. 7.37). Show that the line PQ is
 of AB.</em></strong></p>
 
 <p>Solution :</p>
+<p><img class="alignnone wp-image-2112" src="/triangles-tutorial.png" alt="8" width="400" height="300" /></p>
+
 <p> You are given that PA = PB and
 QA = QB and you are to show that PQ ⊥ AB and
 PQ bisects AB. Let PQ intersect AB at C.</p>

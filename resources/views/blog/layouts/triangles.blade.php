@@ -1,9 +1,5 @@
 @extends('blog.layouts.math')
 
-
-
-
-
 @section('content')
 
 <br/>
@@ -44,7 +40,7 @@ What can you say about BC and BD?</em></strong></p>
 <p>AB = AB (Common)</p>
 <p>So by SAS congruene condition:</p>
 <p>∆ ABC ≅ ∆ ABD</p>
-<p>Since triangles are congruent ,corresponding sides and angles will be  equal</p>
+<p>Since images are congruent ,corresponding sides and angles will be  equal</p>
 <p>Hence,by By C.P.C.T</p>
 <p> BD = AC</p>
 <p>∠ ABD = ∠ BAC</p>
@@ -66,7 +62,7 @@ AB.</strong></em>
 <p>BC = AD (Given)</p>
 <p>So by AAS congruene condition:</p>
 <p>∆ BOC ≅ ∆ AOD</p>
-<p>Since triangles are congruent ,corresponding sides and angles will be  equal</p>
+<p>Since images are congruent ,corresponding sides and angles will be  equal</p>
 <p>Hence,by By C.P.C.T</p>
 <p> CO = OD</p>
 <p> BO = OA </p>
@@ -112,7 +108,7 @@ of ∠ A.</strong></em></p>
 <p><strong><em>Solution:</em></strong></p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-1-5.png" alt="8" width="400" height="300" /></p>
 
-<p>We are given two things but need a third thing too to prove triangles are congruent</p>
+<p>We are given two things but need a third thing too to prove images are congruent</p>
 <p>∠ BAD = ∠ EAC</p>
 <p>∠ BAD + ∠ DAC  = ∠ EAC + ∠ DAC</p>
 <p>∠ BAC  = ∠ DAE </p>
@@ -149,7 +145,7 @@ of ∠ A.</strong></em></p>
 
 
 <p><strong>Question 8:</strong></p>
-<p><strong><em>In right triangle ABC, right angles at C, M is the mid-point of hypotenuse AB, C is joined to M and produced to a point D such that DM = CM. Point D is joined to point B (see fig.). Show that :</em></strong></p>
+<p><strong><em>In right ∆ ABC, right angles at C, M is the mid-point of hypotenuse AB, C is joined to M and produced to a point D such that DM = CM. Point D is joined to point B (see fig.). Show that :</em></strong></p>
 <p><strong><em>            (i) ∆ AMC ≅ ∆ BMD</em></strong></p>
 <p><strong><em>            (II) ∠ DBCis a right angle.</em></strong></p>
 <p><strong><em>            (iii) ∆ DBC ≅ ∆ ACB</em></strong></p>
@@ -180,7 +176,7 @@ of ∠ A.</strong></em></p>
 
 <p><strong><em>Exercise 7.2:</em></strong></p>
 <p><strong>Question 1:</strong></p>
-<p><strong><em>In an isosceles triangle ABC, with AB = AC, the bisectors of ∠ B and ∠ C intersect
+<p><strong><em>In an isosceles ∆ ABC, with AB = AC, the bisectors of ∠ B and ∠ C intersect
 each other at O. Join A to O. Show that :
 (i) OB = OC
 (ii) AO bisects ∠ A</em></strong></p>
@@ -209,7 +205,7 @@ each other at O. Join A to O. Show that :
 <p><strong>Question 2:</strong></p>
 <p>In ∆ ABC, AD is the perpendicular bisector of BC
 (see Fig. 7.30). Show that ∆ ABC is an isosceles
-triangle in which AB = AC.
+∆ in which AB = AC.
 <p><strong> Solution:</strong></p>
 
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-2-2.png" alt="8" width="400" height="300" /></p>
@@ -219,12 +215,12 @@ triangle in which AB = AC.
 <p>AD = AD (common)</p>
 <p> ∆ ABD=∆ ACD   (SAS)</p>
 <p> AB=AC    (By C.P.C.T)</p>
-<p>Hence, ∆ ABC  is an isosceles triangle .<strong>Proved</strong></p>
+<p>Hence, ∆ ABC  is an isosceles ∆ .<strong>Proved</strong></p>
 
 
 
 <p><strong><em>Question 3:</em></strong></p>
-<p><strong><em>ABC is an isosceles triangle in which altitudes BE and CF are drawn to equal sides AC and</em></strong></p>
+<p><strong><em>ABC is an isosceles ∆ in which altitudes BE and CF are drawn to equal sides AC and</em></strong></p>
 <p><strong><em>AB respectively (see figure).Show that these altitudes are equal.</em></strong></p>
 <p><strong>Solution:</strong></p>
 
@@ -234,8 +230,8 @@ triangle in which AB = AC.
 <p>Which you will derive from that extra information informtion given in the question</p>
 <p>In ∆ ABC</p>
 <p>AB=AC   (Given)</p>
-<p>∠ B=∠ C     (angles opposite to equal sides of a triangle are equal)</p>
-<p>Now in right triangles BFC and CEB ,</p>
+<p>∠ B=∠ C     (angles opposite to equal sides of a ∆ are equal)</p>
+<p>Now in right images BFC and CEB ,</p>
 <p>∠ BFC=∠ CEB                 (Each = 90° )</p>
 <p>∠ B=∠ C                 (proved above)</p>
 <p>BC=BC     ( common)</p>
@@ -244,9 +240,9 @@ triangle in which AB = AC.
 
 
 <p><strong>Question 4:</strong></p>
-<p><strong><em>ABC is a triangle in which altitudes BE and CF to sides AC and AB are equal (see.fig) show that</em></strong></p>
+<p><strong><em>ABC is a ∆ in which altitudes BE and CF to sides AC and AB are equal (see.fig) show that</em></strong></p>
 <p>(1) ∆ ABE ≅ ∆ ACF </p>
-<p>(2) AB=AC   i,e ABC is an isosceles triangle.</p>
+<p>(2) AB=AC   i,e ABC is an isosceles ∆.</p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-2-4.png" alt="8" width="400" height="300" /></p>
 
 <p><strong><em>Solution</em></strong></p>
@@ -256,12 +252,12 @@ triangle in which AB = AC.
 <p>BE=CF         (Given)</p>
 <p>So, ∆ ABE ≅  ∆ ACF        (AAS)proved</p>
 <p>  AB=AC                 ( By C.P.C.T)</p>
-<p>hence  ABC is an isosceles triangle <strong>Proved.</strong></p>
+<p>hence  ABC is an isosceles ∆ <strong>Proved.</strong></p>
 
 
 
 <p><strong>Question 5:</strong></p>
-<p><strong><em>ABC and DBC are two isosceles triangles on the same base BC (see Fig. 7.33). Show that
+<p><strong><em>ABC and DBC are two isosceles images on the same base BC (see Fig. 7.33). Show that
 ∠ ABD = ∠ ACD.</em></strong></p>
 
 <p>Solution. In isosceles ∆ ABC, We have</p>
@@ -282,7 +278,7 @@ triangle in which AB = AC.
 
 
 <p><strong>Question 6:</strong></p>
-<p><strong><em>∆ABC is an isosceles triangle in which AB = AC.Side BA is produced to D such that AD = AB
+<p><strong><em>∆ABC is an isosceles ∆ in which AB = AC.Side BA is produced to D such that AD = AB
 (see Fig. 7.34). Show that ∠ BCD is a right angle.</em></strong></p>
 
 <p><strong>Solution:</strong></p>
@@ -300,14 +296,14 @@ triangle in which AB = AC.
 <p>∠ ACB+∠ ACD=∠ ABC+∠ ADC</p>
 <p>∠ BCD=∠ ABC+∠ ADC</p>
 <p>Now in ∆ BCD ,We have\)</p>
-<p>∠ BCD+∠ DBC+∠ BDC = 180  (Angle sum property of a triangle)</p>
+<p>∠ BCD+∠ DBC+∠ BDC = 180  (Angle sum property of a ∆)</p>
 <p> ∠ BCD+∠ BCD=180°</p>
 <p>2∠ BCD=180 </p>
 <p>∠ BCD= 90 </p>
 
 
 <p><strong>Question 7:</strong></p>
-<p><strong><em>ABC is a right angled triangle in which ∠ A=90 and AB=AC.Find ∠ B and ∠ C.</em></strong></p>
+<p><strong><em>ABC is a right angled ∆ in which ∠ A=90 and AB=AC.Find ∠ B and ∠ C.</em></strong></p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-2-7.png" alt="8" width="400" height="300" /></p>
 
 <p><strong><em>Solution</em></strong></p>
@@ -316,7 +312,7 @@ triangle in which AB = AC.
 
 <p>∠ A =90</p>
 <p>AB =AC</p>
-<p>We know that angles opposite to equal sides of an isosceles triangle are equal</p>
+<p>We know that angles opposite to equal sides of an isosceles ∆ are equal</p>
 <p>So, ∠ B=∠ C </p>
 <p>Since ∠ A=90 , therefore sum of remaining two angles =90</p>
 <p>Hence ∠ B + ∠ C= 90 </p>
@@ -325,7 +321,7 @@ triangle in which AB = AC.
 
 
 <p><em><strong>Question 8:</strong></em></p>
-<p><em><strong>Show that the angles of an equilateral triangle are 60 each.</strong></em></p>
+<p><em><strong>Show that the angles of an equilateral ∆ are 60 each.</strong></em></p>
 <p><strong>Solution:</strong></p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-2-8.png" alt="8" width="400" height="300" /></p>
 
@@ -336,19 +332,19 @@ triangle in which AB = AC.
 <p>Again BC=AC</p>
 <p> ∠ BAC=∠ ABC         (2)    (same reason)</p>
 <p>Now in ∆ ABC\)</p>
-<p>\(∠ ABC+∠ ACB+∠ BAC=180\)  (angle sum property of a triangle are equal)</p>
+<p>\(∠ ABC+∠ ACB+∠ BAC=180\)  (angle sum property of a ∆ are equal)</p>
 <p>∠ ABC+∠ ACB+∠ BAC = 180 (from (1) (2))</p>
 <p>3∠ ABC =180</p>
 <p>∠ ABC =180/3=60°</p>
 <p>Also from (i) and (ii)</p>
 <p>∠ ACB =60 and ∠ BAC = 60 </p>
-<p>Hence each angle of an equilateral triangle is 60°  <strong>Proved</strong></p>
+<p>Hence each angle of an equilateral ∆ is 60°  <strong>Proved</strong></p>
 
 
 
 <p><strong><u>Exercise 7.3</u></strong></p>
 <p><strong>Question 1:</strong></p>
-<p><strong><em>∆ ABC and ∆ DBC are two isosceles triangles on the same base BC and vertices A and D are on the
+<p><strong><em>∆ ABC and ∆ DBC are two isosceles images on the same base BC and vertices A and D are on the
 same side of BC (see Fig. 7.39). If AD is extended to intersect BC at P, show that
 (i) ∆ ABD ≅ ∆ ACD
 (ii) ∆ ABP ≅ ∆ ACP
@@ -360,7 +356,7 @@ same side of BC (see Fig. 7.39). If AD is extended to intersect BC at P, show th
 <p>It is also a very good question which needs clear knowledge</p>
 <p>We cant proove things in order,for prooving part 1 ,we need part 3 </p>
 <p><strong><em>We cant proove ∆ ABD ≅ ∆ ACD by AB = AC ,AD= AD,common and ∠ABC = ∠ ACB ,because in SAS congruence condition you need the angle included bwtween the equal sides to be equal<br/>
-For more details ,click <a href="www.tpsncert.com/tutorial/triangles-tutorial"></a></em></strong></p>
+For more details ,click <a href="www.tpsncert.com/tutorial/images-tutorial"></a></em></strong></p>
 
 <p>In ∆ABD and  ∆ACD </p>
 <p>AB = AC (Given)</p>
@@ -391,18 +387,18 @@ For more details ,click <a href="www.tpsncert.com/tutorial/triangles-tutorial"><
 
 
 <p><strong><em>Question 2:</em></strong></p>
-<p><strong><em>AD is an altitude of an isosceles triangle ABC in which AB = AC. Show that
+<p><strong><em>AD is an altitude of an isosceles ∆ ABC in which AB = AC. Show that
 (i) AD bisects BC
 (ii) AD bisects ∠ A.</em></strong></p>
 <p><strong>Solution:</strong></p>
 <p><strong><em>(ii) XD bisects </em></strong><strong><em>∠</em></strong><strong><em>X</em></strong></p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-2.png" alt="8" width="400" height="300" /></p>
 <p><strong>Solution:</strong></p>
-<p>(i) In ⧍ABD and ⧍ACD, 
-<p>In right angle triangle ABD and ACD</p>
+<p>(i) In ∆ABD and ∆ACD, 
+<p>In right angle ∆ ABD and ACD</p>
 <p>AB = AC</p>
 <p>AD = AD (Common)</p>
-<p>⧍ABD ⩬ ⧍ACD.(By R.H.S Congruence condition)</p>
+<p>∆ABD ⩬ ∆ACD.(By R.H.S Congruence condition)</p>
 <p>AD = DC (By CPCT)</p>
 <p>Hence, AD bisects BC.</p>
 <p>(ii) Also, ∠BAD = ∠CAD (CPCT)</p>
@@ -411,70 +407,164 @@ For more details ,click <a href="www.tpsncert.com/tutorial/triangles-tutorial"><
 
 
 <p><strong>Question 3:</strong></p>
-<p><strong><em>Two sides AB and BC and median AM of one triangle ABC are respectively equal to sides PQ and QR and median PN of </em></strong><strong><em>⧍</em></strong><strong><em>PQR. Show that:</em></strong></p>
-<p><strong><em>(i) </em></strong><strong><em>⧍</em></strong><strong><em>ABM </em></strong><strong><em>⩬</em></strong><strong><em>  </em></strong><strong><em>APQN (ii) </em></strong><strong><em>⧍</em></strong><strong><em>ABC </em></strong><strong><em>⩬</em></strong> <strong><em>⧍</em></strong><strong><em>PQR</em></strong></p>
+<p><strong><em>Two sides AB and BC and median AM of one ∆ ABC are respectively equal to sides PQ and QR and median PN of </em></strong><strong><em>∆</em></strong><strong><em>PQR. Show that:</em></strong></p>
+<p><strong><em>(i) </em></strong><strong><em>∆</em></strong><strong><em>ABM </em></strong><strong><em>⩬</em></strong><strong><em>  </em></strong><strong><em>APQN (ii) </em></strong><strong><em>∆</em></strong><strong><em>ABC </em></strong><strong><em>⩬</em></strong> <strong><em>∆</em></strong><strong><em>PQR</em></strong></p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-3.png" alt="8" width="400" height="300" /></p>
 <p><strong>Solution:</strong></p>
-<p>(i) In ⧍ABM and ⧍PQN,</p>
+<p>(i) In ∆ABM and ∆PQN,</p>
 <p>we have</p>
 <p>BM = QN</p>
 \(\frac{1}{2}BC = \frac{1}{2}QR\)
 <p>AB = PQ</p>
 <p>AM = PN</p>
-<p>⧍ABM = ⧍PQN [ SSS Congruence ]</p>
+<p>∆ABM = ∆PQN [ SSS Congruence ]</p>
 <p>∠ABM = ∠PQN.</p>
-<p>(ii) Now, in ⧍ABC and ⧍PQR, we have</p>
+<p>(ii) Now, in ∆ABC and ∆PQR, we have</p>
 <p>AB = PQ</p>
 <p>∠ABC = ∠PQR</p>
 <p>BC = QR</p>
-<p>⧍ABC ⩬  ⧍PQR [SAS congruence]</p>
+<p>∆ABC ⩬  ∆PQR [SAS congruence]</p>
 <p>&nbsp;</p>
 <p><strong>Question 4:</strong></p>
-<p><strong><em>In triangle ABC, BE and CF are two equal altitudes. By Using RHS congruence rule, prove that the triangle ABC is isosceles.</em></strong></p>
+<p><strong><em>In ∆ ABC, BE and CF are two equal altitudes. By Using RHS congruence rule, prove that the ∆ ABC is isosceles.</em></strong></p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-4.png" alt="8" width="400" height="300" /></p>
 <p><strong>Solution:</strong></p>
-<p>BE and CF are altitudes of a ⧍ABC.</p>
+<p>BE and CF are altitudes of a ∆ABC.</p>
 <p>∠BEC = ∠CFB = 90°</p>
-<p>Now, in right triangles BEB and CFB, we have</p>
+<p>Now, in right images BEB and CFB, we have</p>
 <p>Hyp. BC = Hyp. BC</p>
 <p>Side BE= Side CF</p>
-<p>⧍BEC ⩬  ⧍CFB   (By R.H.S congruent condition,hypotenuse and one other needed to be equal in right trinagles for triangles to be RHS congruent</p>
+<p>∆BEC ⩬  ∆CFB   (By R.H.S congruent condition,hypotenuse and one other needed to be equal in right trinagles for images to be RHS congruent</p>
 <p>∠BCE = ∠CBF</p>
-<p>Now, in ⧍ABC, ∠B = ∠C</p>
+<p>Now, in ∆ABC, ∠B = ∠C</p>
 <p>AB = AC</p>
-<p>Hence, ⧍ABC is an isosceles triangle.</p>
+<p>Hence, ∆ABC is an isosceles ∆.</p>
 <p>&nbsp;</p>
 <p><strong>Question 5:</strong></p>
-<p>AB = AC in an isosceles triangle ABC. Draw AP perpendicular BC to show that ∠B= ∠C.</p>
+<p>AB = AC in an isosceles ∆ ABC. Draw AP perpendicular BC to show that ∠B= ∠C.</p>
 <p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-3-5.png" alt="8" width="400" height="300" /></p>
 <p><strong>Solution:</strong></p>
-<p>Draw AP perpendicular BC. In ⧍ABP and ⧍ACP, we have</p>
+<p>Draw AP perpendicular BC. In ∆ABP and ∆ACP, we have</p>
 <p>AB = AC</p>
 <p>∠APB = ∠APC</p>
 <p>AB = AP [Common]</p>
-<p>⧍ABP = ⧍ACP [By RHS congruence rule]</p>
+<p>∆ABP = ∆ACP [By RHS congruence rule]</p>
 <p>Also, ∠B = ∠C Proved. [CPCT]</p>
 <p>&nbsp;</p>
 
 
+<p><strong><em>We will try to make use of side opposite to larger angle is greater and sum of two sides of ∆ is greater than third sides<br/>
+<p>As only these two theorems are listed in ncert accompanied with other results ,we should be able to solve the questions</em></strong></p>
+
+
+<p><strong>Exercise 7.4</strong></p>
+<p><strong>Question 1:</strong></p>
+<p><strong><em>Show that in a right-angled ∆, the hypotenuse is the longest side.</em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-4-1.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p><strong> </strong>           ABC is a right angle ∆, right angled at B.</p>
+<p>Now ∠ A + ∠ B  + ∠ C = \(180^{o} \)</p>
+<p>Now ∠ A +  ∠ C = \(90^{o}\) </p>
+<p>Angles A and C are less than 90<sup>o</sup></p>
+<p>Now,    ∠ B &gt; ∠ A</p>
+<p>AC &gt; BC       ...(1)</p>
+<p>(Side opposite to greater angle is longer)</p>
+<p>Again, ∠ B &gt; ∠ C</p>
+<p>AC &gt; AB    .....(2)</p>
+<p>(Side opposite to greater angle are longer)</p>
+<p>Hence, from (1) and (2), we can say that AC (hypotenuse) is the longest side.</p>
+<p>Hence proved.</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 2:</strong></p>
+<p><strong><em>In the figure, sides AB and AC of ∆ ABC\) are extended to points P and Q  respectively. Also, \(∠ PBC &lt; ∠ QCB\) . Show that AC &gt; AB.</em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-4-2.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p>This is simple</p>
+<p>∠ ABC + ∠ PBC = 180^{o} (Linear pair) </p>
+<p>Similarly,∠ ACB + ∠ BCQ = 180^{o} </p>
+<p>so ∠ ABC + ∠ PBC = ∠ ACB + ∠ BCQ </p>
+<p>It is given that ∠ PBC < ∠ QCB</p>
+<p>so ∠ ABC > ∠ ACB</p>
+<p>AC > AB(side opposite to larger angle is greater)</p>
+
+
+<p><strong>Question 3:</strong></p>
+<p><strong><em>In Fig. 7.49, ∠ B < ∠ A and ∠ C < ∠ D. Show that AD < BC.</em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-4-3.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p>∠ B < ∠ A (Given)</p>
+<p>BO > AO …(1)</p>
+<p>(Side opposite to greater angle is longer)</p>
+<p>∠ C < ∠ D (Given)</p>
+<p>CO > DO …(2)</p>
+<p>(Same reason)</p>
+<p>Adding (i) and (ii)</p>
+<p>BO + CO &gt; AO + DO</p>
+<p>BC > AD</p>
+<p>AD < BC</p>
+<p>Hence Proved.</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 4:</strong></p>
+<p><strong><em>AB and CD are respectively the smallest and longest side of a quadrilateral ABCD (see fig.) Show that ∠ A > ∠  C and ∠ B > ∠ D.</em></strong></p>
+<p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-4-4.png" alt="8" width="400" height="300" /></p>
+<p>Join AC.</p>
+<p>Mark the angles as shown in the figure..</p>
+<p>In ∆ ABC ,</p>
+<p>BC > AB (AB is the shortest side)</p>
+<p>∠ 2 > ∠ 4 …(1)</p>
+<p>[Angle opposite to longer side is greater]</p>
+<p>In ∆ ADC </p>
+<p>CD > AD (CD is the longest side)</p>
+<p>∠ 1 > ∠ 3   …(2)</p>
+<p>[Angle opposite to longer side is greater]</p>
+<p>Adding (i) and (ii), we have</p>
+<p>∠ 2 + ∠ 1 > ∠ 4 + ∠ 3</p>
+<p> ∠ A > ∠ C </p>
+<p>Similarly, by joining BD, we can prove that</p>
+<p>∠ B > ∠ D</p>
+
+
+<p><strong>Question 5:</strong></p>
+<p><strong><em>In the figure, PR > PQ and PS bisects ∠ QPR .Prove that ∠ PSR > ∠ PSQ</em></strong></p>
+<p><strong>Solution:</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-4-5.png" alt="8" width="400" height="300" /></p>
+<p><strong><em>Now this is a question almost 90% students will just by heart it so  that they can answer it in exams correctly<br/>
+But what happens in exam is they forget one step and then they are not able to solve that question even if you give them 3 hours</em></strong></p>
+
+<p>So we have to prrove ∠ PSR > ∠ PSQ</p>
+<p>Few general observations are that ∠ PSR is an exterior angle which is equal to some of interior angle</p>
+<p>And   ∠ PSQ is also an interior angle which is equal to sum of interior angles</p>
+<p>∠ PSR  = ∠ QPS +  ∠ PQS  ...(1)</p>
+<p>∠ PSQ  = ∠ SPR +  ∠ PRS   ...(2)</p>
+
+<p>Since ∠ PQS and ∠ SPR are equal</p>
+
+<p>∠ PSQ  = ∠ QPS + ∠ PRS   ...(3)</p>
+
+<p>Also PR > PQ so ∠ PQS > ∠ PRS </p>
+<p>In 1 and 3 the right hand side have both ∠ QPS ,since ∠ PQS > ∠ PRS</p>
+<p>∠ PSR > ∠ PSQ <strong>Proved</strong></p>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p><strong>Question 6:</strong></p>
+<p><strong><em>Show that of all the segments drawn from a given point not on it, the perpendicular line segment is the shortest.            </em></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/9/0/triangles/9-0-7-4-6.png" alt="8" width="400" height="300" /></p>
+<p><strong>Solution:</strong></p>
+<p>We have a line I and O is the point not on I</p>
+<p>\(OP \perp i\)<p>
+<p>We have to prove that OP &lt; OQ, OP &lt; OR and OP &lt; OS.</p>
+<p>In ∆ OPQ , ∠ P = 90</p>
+<p>Therefore, ∠ Q  is an acute angle i.e, ∠ Q < 90</p>
+<p>∠ Q < ∠ P</p>
+<p>Hence, OP &lt; OQ (Side opposite to greater angle is longer)</p>
+<p>Similarly, we can prove that OP is shorter than OR, OS, etc.</p>
+<p>Hence proved</p>
 
 
 

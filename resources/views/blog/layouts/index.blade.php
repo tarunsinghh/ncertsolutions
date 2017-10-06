@@ -29,7 +29,7 @@
                     
           
           <a href="/solutions/real-numbers">
-              <p class="post-title">Real Numbers</p>
+              <h4 class="post-title">Real Numbers</h4>
           </a>
 
            
