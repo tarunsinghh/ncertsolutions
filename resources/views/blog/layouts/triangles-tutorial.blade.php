@@ -96,7 +96,7 @@ You cant proove SSS congruent if you show 3 sides of a triangle are equal to any
 <p><img class="alignnone wp-image-2112" src="/triangles-tutorial-sas.gif" alt="8" width="400" height="300" /></p>
 <p>In this if MP is  equal to QS,and PN  is equal to SR,then MPN should be equal to QSR</p>
 <p>If you have PMN = SQR and MP =QS,PN = SR,then this is not not SAS congruence condition,you are doing it wrong<br/>
-Since we are using MP and PN the angle formed by MP and PN is MPN should be equal to angle formed by side QS ans SR which is SQR</strong></p>
+Since we are using MP and PN the angle formed by MP and PN is MPN should be equal to angle formed by side QS ans SR which is QSR</strong></p>
 
 
 
