@@ -62,7 +62,7 @@ Route::post('contact', 'ContactController@sendContactInfo');
 
 
 
-get('rss', 'BlogController@rss');
+//get('rss', 'BlogController@rss');
 get('sitemap.xml', 'BlogController@siteMap');
 
 // Admin area
@@ -88,7 +88,7 @@ post('/auth/login', 'Auth\AuthController@postLogin');
 get('/auth/logout', 'Auth\AuthController@getLogout');
 
 // After this line
-get('rss', 'BlogController@rss');
+//get('rss', 'BlogController@rss');
 
 
 // Catch-all URL is last | Not Found Page

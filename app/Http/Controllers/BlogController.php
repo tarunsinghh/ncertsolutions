@@ -116,11 +116,10 @@ public function tutorials($param)
 
   public function siteMap(SiteMap $siteMap)
   {
-
-    $map = $siteMap->getSiteMap();
-
-    return response($map)
-      ->header('Content-type', 'text/xml');
+echo "here";die();
+return;
+   $content = View::make('sitemap', ['doctors' => $doctors, 'patients' => $patients]);
+    return Response::make($content)->header('Content-Type', 'text/xml;charset=utf-8');
   }
 
 
