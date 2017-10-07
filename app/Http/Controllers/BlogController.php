@@ -116,7 +116,7 @@ public function tutorials($param)
 
   public function siteMap(SiteMap $siteMap)
   {
-echo "here";die();
+//echo "here";die();
 return;
    $content = View::make('sitemap', ['doctors' => $doctors, 'patients' => $patients]);
     return Response::make($content)->header('Content-Type', 'text/xml;charset=utf-8');
@@ -128,7 +128,7 @@ return;
   {
 
 
-    echo $param;
+   // echo $param;
 
 
   //  echo "inside maths tps controller";
