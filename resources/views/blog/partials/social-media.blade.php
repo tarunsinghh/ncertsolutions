@@ -6,6 +6,7 @@
 
 <div class="span12 footer-col footer-sub">
                     <div class="row no-margin">
+                    
                         
                         <div class="span6">
                             <span class="right">

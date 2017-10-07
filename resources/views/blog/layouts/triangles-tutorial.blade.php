@@ -16,7 +16,7 @@
 <p><strong><em>In the SAS congruence rule, the pair of equal angles has to be the included angle between the pairs of corresponding pair of equal sides and
 if this is not so, the two triangles may not be congruent.</em></strong></p>
 
-<p><strong>The angle needs  to be the angle between the two sides which are equal not just any angle</p>
+<p><strong>The angle needs  to be the angle between the two sides which are equal not just any angle</strong></p>
 
 <p>Now we will talk about the RHS congruence rule which is:</p>
 
@@ -76,6 +76,50 @@ It is because these results give us SSA rule which is not always valid or true f
 congruence of triangles. The angle is not included between the equal pairs of
 sides hence not necessary congruent.]
 </em></strong></p>
+
+
+
+<h3><strong>When to use which congruence rule --</strong></h3>
+
+<p><strong>1.SSS Congruence rule - This is the most simple one ,if all sides of a triangle are equal to corresponding sides of other triangle ,then the triangles are SSS congruent<br/>
+You cant proove SSS congruent if you show 3 sides of a triangle are equal to any 3 sides of other triangle,the sides should be coresponding sides</strong</p>
+<p><img class="alignnone wp-image-2112" src="/triangles-tutorial-sss-1.gif" alt="8" width="400" height="300" /></p>
+<p>In this AB should be equal to DE,not DF or EF,BC should be equal to DF not EF</p>
+
+
+
+<p><strong>2.SAS Congruence rule - This requires little attention ,if 2 sides of a triangle are equal to corresponding sides of other triangle  and the included angle of these two sides is equal to the included angle of other two sides of traingle,then the triangles are SAS congruent<br/>
+You cant proove SSS congruent if you show 3 sides of a triangle are equal to any 3 sides of other triangle,the sides should be coresponding sides</strong</p>
+
+<p><strong>The mistakes students do is they equal two sides and then they equal any angle,the angle cant be any angle,the angle has to be the angle formed by those two sides</strong></p>
+
+<p><img class="alignnone wp-image-2112" src="/triangles-tutorial-sas.gif" alt="8" width="400" height="300" /></p>
+<p>In this if MP is  equal to QS,and PN  is equal to SR,then MPN should be equal to QSR</p>
+<p>If you have PMN = SQR and MP =QS,PN = SR,then this is not not SAS congruence condition,you are doing it wrong<br/>
+Since we are using MP and PN the angle formed by MP and PN is MPN should be equal to angle formed by side QS ans SR which is SQR</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @stop
