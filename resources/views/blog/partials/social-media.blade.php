@@ -6,14 +6,7 @@
 
 <div class="span12 footer-col footer-sub">
                     <div class="row no-margin">
-                    <script type ="text/javascript">
-
-console.log($('.navbar-toggle'));
-
-
-$('.navbar-toggle').removeClass("collapsed");
-
-console.log("hi");
+                   
 
                         
                         <div class="span6">
@@ -47,13 +40,3 @@ console.log("hi");
 
 </ul>
 
-
-<script type ="text/javascript">
-
-console.log($('.navbar-toggle'));
-
-
-$('.navbar-toggle').removeClass("collapsed");
-
-console.log("hi");
-</script>
