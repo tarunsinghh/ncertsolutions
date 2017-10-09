@@ -146,7 +146,7 @@ repeated?</em></strong></p>
 <p><strong><em>Solution:</em></strong></p>
 <p>Number of 4 digit numbers if no digit repeated = \( 5\times 4\times 3\times 2 = 120        \)</p>
 <p>Now there are two ways to find even numbers one is like question 3 or we can use the fact that every number is either odd or even<br/>
-Alternatively,out of 120 half will be even,half will be odd ,so no of even numbers  = 60       </p>
+Alternatively,out of 120 half will be even,half will be odd ,so no of even numbers  = 60 </p>
 
 
 <p><strong><em>5. From a committee of 8 persons, in how many ways can we choose a chairman
@@ -256,7 +256,7 @@ word MONDAY, assuming that no letter is repeated, if.
 <p>i)if 4 letters are used at a time means we have to form a word having length 4,word of 4 letters</p>
 <p>This is simple MONDAY has 6 words so we have 6 choices for first location ,5 choices for second and so on</p>
 <p>So no of ways if 4 letters are used = \(   6\times 5\times 4\times 3 = 360     \)
-<p>ii)if all letters are used then its like previous part,no of ways = \(6 \times 5\times 4\times 3\times 2\times 1 = 6!)</p>
+<p>ii)if all letters are used then its like previous part,no of ways = \(6 \times 5\times 4\times 3\times 2\times 1 = 6! \)</p>
 <p>iii)all letters are used but first letter is a vowel - this is little tricky,so for first letter is vowel</p>
 <p>We have O and A as choice so 2 ways,then 5 ways,then 4 and so on so no of ways = \( 2\times 5\times 4\times 3\times 2\times 1 = 240 \)</p>
 
@@ -372,8 +372,93 @@ So \(   \frac{10!}{2!} \)</p>
  
 
 
+  EXERCISE – 7.4</strong></p>
+<p><strong> </strong></p>
+<p><strong>Q-1: If \(^{ n }C_{ 8 } = ^{ n }C_{ 2 }\), find the value of \(^{ n }C_{ 2 }\)</strong></p>
+<p><strong> </strong></p>
+<p><strong>Solution:</strong></p>
+<p>We know that, if \(^{ n }C_{ x } = \;^{ n }C_{ y }\)</p>
+<p>So, x = y or n = x + y</p>
+<p>Hence, \(^{ n }C_{ 8 } = \;^{ n }C_{ 2 }\)</p>
+<p><strong>n = 8 + 2 = 10</strong></p>
+<p>Therefore, \(^{ n }C_{ 2 } = \;^{ 11 }C_{ 2 } \)=\( \frac{ 10! }{ 2!\left ( 10 \;-\; 2 \right )!} \) = \( \frac{ 10\; \times \;9\; \times \;8! }{ 2\; \times \;1 \;\times \;8! } \) = 45 \)</p>
 
 
+
+
+<p><strong>Q-2: Find the value of ‘n’ if:</strong></p>
+<p><strong>(i) \(^{ 2n }C_{ 3 } : \;^{ n }C_{ 3 }\) = 12 : 1             </strong></p>
+<p><strong>(ii) \(^{ 2n }C_{ 3 } : \;^{ n }C_{ 3 }\) = 11 : 1</strong></p>
+<p><strong>Solution:</strong></p>
+<p> \( \frac{ ^{2n }C_{ 3 } }{ ^{ n }C_{ 3 } } = \frac{ 12 }{ 1 }  \)</p>
+<p> \( \frac{ 2n\times (2n -1)\times (2n -2)\times 3\times 2\times 1 } { 3\times 2\times 1\times n\times (n -1)\times (n -2) } = \frac{ 12 }{ 1 }  \)</p>
+
+<p> \( (2n -1)  = 3n - 6  \)</p>
+<p> \( n  = 5  \)</p>
+
+
+<p><strong>(i) \(^{ 2n }C_{ 3 } : \;^{ n }C_{ 3 }\) = 11 : 1             </strong></p>
+<p><strong>Solution:</strong></p>
+<p>This is exactly similar to previous question</p>
+<p>so we can dircetly write \( 4(2n -1)  = 11(n - 2)  \)</p>
+<p>n = 6 </p>
+
+<p><strong>Q-3: Find total number of chords which can be drawn through 21 points on the circle.</strong></p>
+
+<p><strong>Solution:</strong></p>
+<p><strong>2 points</strong> are required to draw one chord on a circle.</p>
+<p>Now, in order to obtain the number of chords which can be drawn through the given <strong>21 points</strong> on the circle, we need to count <strong>total number of the combinations</strong>.</p>
+<p>Hence, there can be several numbers of chords as there are combinations of <strong>21 points</strong> which can be taken <strong>2 at a time.</strong></p>
+<p><strong>Therefore, number of chords required = \(^{ 21 }C_{ 2 } = \frac{ 21! }{ 2!\left ( 21\; -\; 2 \right )! } = \frac{ 21! }{ 2! \;19! } = \frac{ 21 \;\times \;20 }{ 2 }\) = 210</strong></p>
+
+
+<p><strong><em>Question 4:In how many ways can a team of 3 boys and 3 girls be selected from 5 boys and
+4 girls?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>So we have to select 3 boys from 5 boys and 3 girls from 4 girls</p>
+<p>Total no of ways = \(  ^{ 5 }C_{ 3 }\times  ^{ 4 }C_{ 3 } = 40  \)</p>
+
+
+<p><strong><em>Question 5:Find the number of ways of selecting 9 balls from 6 red balls, 5 white balls and 5
+blue balls if each selection consists of 3 balls of each colour.</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>Since we have to select 3 balls of each colour so total no of ways = \( ^{ 6 }C_{ 3 }\times ^{ 5 }C_{ 3 }\times ^{ 5 }C_{ 3 }  \)</p>
+<p> = \(  (\frac{6\times 5\times 4}{3\times 2\times 1})\times  (\frac{5\times 4}{2\times 1})\times (\frac{5\times 4}{2\times 1})               \)</p>
+<p> = \(  20\times  10\times 10 = 2000               \)</p>
+
+<p><strong><em>Question 6:Determine the number of 5 card combinations out of a deck of 52 cards if there
+is exactly one ace in each combination.</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>So the only restriction is out of 5 cards 1  should be ace ,other 4 can be any cards</p>
+<p>There are 4 aces so we can select one ace out of them in \( ^{ 4 }C_{ 1 }        \)</p>
+<p>Now there is a small attention you need to pay,you cant select from 51 cards now because it will contain aces too</p>
+<p>So you can only noe select from 48 cards that will guarantee that you will not select one more ace</p>
+<p>So total no of ways = \(  ^{ 4 }C_{ 1 }\times ^{ 48 }C_{ 4 }  =  778320 \)</p>
+
+
+
+<p><strong><em>Question 7:In how many ways can one select a cricket team of eleven from 17 players in
+which only 5 players can bowl if each cricket team of 11 must include exactly 4 bowlers?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>So out of 17 ,5 can bowl so we have to select 4 out of 5 and then we have to select from remaining 12,not 13 because doing so we might select one more bowler which is needed </p>
+<p>so total no of ways = \(  ^{ 5 }C_{ 4 }\times ^{ 12 }C_{ 7 }  =   3960             \)          </p>
+<p>           </p>
+
+
+<p><strong><em>Question 8:A bag contains 5 black and 6 red balls. Determine the number of ways in which
+2 black and 3 red balls can be selected?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>so we have to  select 2 out of 5 and 3 out of 6               </p>                 
+<p>Total no of ways = \(  ^{ 5 }C_{ 2 }\times ^{ 6 }C_{ 3 }  = 200 \)</p>
+
+
+
+
+<p><strong><em>Question 9:In how many ways can a student choose a programme of 5 courses if 9 courses
+are available and 2 specific courses are compulsory for every student?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>So 2 choices are compulsory,we are left with 7 courses and we have to choose 5-2 = 3</p>
+<p>Total number of ways = \( ^{ 7 }C_{ 3 } =   35                \)</p>
 
 
 
