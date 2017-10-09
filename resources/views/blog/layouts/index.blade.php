@@ -10,15 +10,15 @@
 @stop
 
 @section('content')
-<br/>
-<br/>
+
 
   <div class="container">
     <div class="row">
      <div class="rowchapter">
       <div class="col-lg-2 col-lg-offset-2 col-md-2 col-md-offset-1">
 
-            
+            <h2 class="post-title">Ncert Solutions for classes 6,7,8,9,10,11,12</h3>
+
          
               <h3 class="post-title">Class10 Maths Solutions </h3>
         
@@ -29,7 +29,7 @@
                     
           
           <a href="/solutions/real-numbers">
-              <h4 class="post-title">Real Numbers</h4>
+              <h4 class="post-title">Real Numberse</h4>
           </a>
 
            

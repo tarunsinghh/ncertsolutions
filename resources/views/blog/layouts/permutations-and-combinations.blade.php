@@ -309,22 +309,6 @@ which is \(    \frac{8!}{4! 2!}        \)</p>
 <p>How we can directly find it,we can but it will consist of so many cases,that we will show later,
 until then you try it!!,It will strong your understanding a lot</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p><strong><em>11. In how many ways can the letters of the word PERMUTATIONS be arranged if the
 (i) words start with P and end with S,
 (ii) vowels are all together,
@@ -460,6 +444,38 @@ are available and 2 specific courses are compulsory for every student?</em></str
 <p>So 2 choices are compulsory,we are left with 7 courses and we have to choose 5-2 = 3</p>
 <p>Total number of ways = \( ^{ 7 }C_{ 3 } =   35                \)</p>
 
+
+<p><strong><em>Exercise 7.5</em></strong></p>
+<p><strong><em>Now comes the beauty of PnC questions,all questions will have some tricky unique part,and students who have really understood it will enjoy it so much</em></strong></p>
+
+
+<p><strong><em>1. How many words, with or without meaning, each of 2 vowels and 3 consonants
+can be formed from the letters of the word DAUGHTER ?
+</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>DAUGHTER has AUE 3 vowels and DGHTR 5 consonants</p>
+<p>So for making a word with 2 vowels and 3 consonants first we need to pick 2 vowels out of 3 vowels and 3 consonants out of 5 consonants of DAUGHTER</p>
+<p>And then we will find how many words we can make from it</p>
+<p>So we can choose 2 vowels and 3 consonants in \(^{ 3 }C_{ 2 }\times ^{ 5 }C_{ 3 }  \)</p>
+<p>Now none of the letter is repeated so we can make 5! words from a choosen set of 2 vowels and 3 consonants</p>
+<p>Suppose we choose AU and DGH ,then we can arrange them in 5! ways</p>
+<p>Words form can be AUDGH,AUDHG ....and so on</p>
+<p>If we choose another set AE and DGR,then we can have words like</p>
+<p>AEDGR,AERDG,AEDRG and so on ...</p>
+<p>So for each word choosen there are 5! ways to arrange which will form new words</p>
+<p>So total no of ways = \( ^{ 3 }C_{ 2 }\times ^{ 5 }C_{ 3 }\times 5! = 3600   \)</p>
+
+
+<p><strong><em>2. How many words, with or without meaning, can be formed using all the letters of
+the word EQUATION at a time so that the vowels and consonants occur together?
+</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>EUAIO are vowels and QTN are consonants</p>
+<p>As you can see there are 2 ways in which we can arrange them as (EUAIO)(QTN) or (QTN)(EUAIO)</p>
+<p>Now the vowels and consonants can rearrange among themselves ,what it means is </p>
+<p>(UEAIO)(TNQ) is also allowed permutation in which vowels and consnants are occuring together</p>
+<p>So vowels can rearrange in 5! and consonants can rearrange in 3! ways</p>
+<p>So total no of ways = \(  2\times 5!\times 3! = 1440                  \)</p>
 
 
 

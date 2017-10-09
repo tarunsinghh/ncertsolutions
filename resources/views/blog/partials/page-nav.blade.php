@@ -10,7 +10,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
           </button>
-          <a href="#" class="navbar-brand">Ncert Solved</a>
+          <a href="#" class="navbar-brand">Ncert Solutions</a>
       </div>
       <!-- Collection of nav links, forms, and other content for toggling -->
       <div id="navbarCollapse" class="navbar-collapse collapse in" aria-expanded="true" style="">
