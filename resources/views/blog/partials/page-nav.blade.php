@@ -81,14 +81,19 @@
 
 <script type ="text/javascript">
 
+console.log($('.navbar-toggle'));
 
-console.log(document.querySelector('.navbar-toggle'));
+
+$('.navbar-toggle').removeClass("collapsed");
+
+console.log("hi");
+/*console.log(document.querySelector('.navbar-toggle'));
 
 
 
 $(document).on('click','.navbar-toggle',function(e) {
 
-  if($("#navbar-main").hasClass("in") ) {
+  if($("#navbar-main").addClass("collapsed") ) {
 
       console.log("ddd");
         
@@ -105,7 +110,7 @@ $(document).on('click','.navbar-toggle',function(e) {
 
 
 });
-console.log( "ready!" );
+//console.log( "ready!" );
 //console.log(document.querySelector('.navbar-toggle'));
 
 /*
