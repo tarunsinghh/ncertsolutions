@@ -17,10 +17,10 @@
      <div class="rowchapter">
       <div class="col-lg-2 col-lg-offset-2 col-md-2 col-md-offset-1">
 
-            <h2 class="post-title">Ncert Solutions for classes 6,7,8,9,10,11,12</h3>
+            <h2 class="post-title">Ncert Solutions for classes 6,7,8,9,10,11,12</h2>
 
          
-              <h3 class="post-title">Class10 Maths Solutions </h3>
+              <h3 style="color:blue" class="post-title">Class10 Maths Solutions </h3>
         
           
 
@@ -141,6 +141,100 @@
           <a href="/solutions/probability">
               <h4 class="post-title">Probability</h4>
           </a>
+
+           
+
+              
+               
+          
+          
+      </div>
+      <div class="col-lg-2 col-lg-offset-2 col-md-2 col-md-offset-1">
+
+
+         
+              <h3 style="color:blue" class="post-title">Class9 Maths Solutions </h3>
+        
+          
+
+
+
+                    
+          
+          <a href="/solutions/triangles">
+              <h4 class="post-title">Triangles</h4>
+          </a>
+
+           
+
+              
+               
+          
+                    
+          
+         
+           
+
+              
+               
+          
+          
+      </div>
+      <div class="col-lg-2 col-lg-offset-2 col-md-2 col-md-offset-1">
+
+
+              <h3 style="color:blue" class="post-title">Class11 Maths Solutions </h3>
+        
+          
+
+
+
+                    
+          
+          <a href="/solutions/permutations-and-combinations">
+              <h4 class="post-title">Permutations and Combinations</h4>
+          </a>
+
+           
+
+              
+               
+          
+                    
+          
+         
+
+           
+
+              
+               
+          
+                    
+          
+         
+
+              
+               
+          
+                    
+          
+        
+
+           
+
+              
+               
+          
+                    
+        
+           
+
+              
+               
+          
+                    
+          
+      
 
            
 
