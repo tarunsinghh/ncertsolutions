@@ -195,6 +195,10 @@
               <h4 class="post-title">Permutations and Combinations</h4>
           </a>
 
+           <a href="/solutions/probability-11">
+              <h4 class="post-title">Probabillity</h4>
+          </a>
+
            
 
               
