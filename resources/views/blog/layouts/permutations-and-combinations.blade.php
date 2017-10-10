@@ -558,8 +558,6 @@ join.In how many ways can the excursion party be chosen ?</em></strong></p>
 <p>No if ways when all 3 will<strong> NOT </strong> go ,we have to select 10 from remaining 22 = \( ^{ 22 }C_{ 10 }          \) </p>
 <p>so total no of ways,add them up = \(  ^{ 22 }C_{ 7 }  + ^{ 22 }C_{ 10 }              \)</p>
 
-
-
 <p><strong><em>11.In how many ways can the letters of the word ASSASSINATION be arranged
 so that all the S’s are together ?</em></strong></p>
 <p><strong><em>Solution:</em></strong></p>

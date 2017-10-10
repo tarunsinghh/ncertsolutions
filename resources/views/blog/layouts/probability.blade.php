@@ -129,7 +129,7 @@ out of the box at random. What is the probability that the marble taken out will
 
 
 
-<p><strong><em>Question 10:A piggy bank contains hundred 50p coins, fifty ` 1 coins, twenty ` 2 coins and ten ` 5
+<p><strong><em>Question 10:A piggy bank contains hundred 50p coins, fifty 1 coins, twenty 2 coins and ten 5
 coins. If it is equally likely that one of the coins will fall out when the bank is turned upside down, what is the probability that the coin (i) will be a 50 p coin ? (ii) will not be a  5 coin?
 </em></strong></p>
 <p><strong>Solution:</strong></p>
