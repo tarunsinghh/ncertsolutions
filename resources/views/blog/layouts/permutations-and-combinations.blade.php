@@ -477,6 +477,111 @@ the word EQUATION at a time so that the vowels and consonants occur together?
 <p>So vowels can rearrange in 5! and consonants can rearrange in 3! ways</p>
 <p>So total no of ways = \(  2\times 5!\times 3! = 1440                  \)</p>
 
+<p><strong><em>3.A committee of 7 has to be formed from 9 boys and 4 girls. In how many ways
+can this be done when the committee consists of:
+(i) exactly 3 girls ? (ii) atleast 3 girls ?
+(iii) atmost 3 girls ??
+</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>i)Exactly 3 girls:so we have to select 3 girls and 4 boys,no of ways = \(  ^{ 4 }C_{ 3 }\times  ^{ 9 }C_{ 4 }  = 504          \)</p>
+
+<p>ii)so we can select 3 girls or 4 girls</p>
+<p>No of ways = \( { 4 }C_{ 3 }\times  ^{ 9 }C_{ 4 } + { 4 }C_{ 4 }\times  ^{ 9 }C_{ 3 }  = 504 + 84 = 588 \)</p>
+
+
+<p>iii)at most 3 girls - no girls(sad :() + 1 girl + 2 girls + 3 girls</p>
+<p>No of ways = \(  ^{ 9 }C_{ 7 } + ^{ 9 }C_{ 6 }\times ^{ 4 }C_{ 1 } + ^{ 9 }C_{ 5 }\times ^{ 4 }C_{ 2 } + ^{ 9 }C_{ 4 }\times ^{ 4 }C_{ 3 }          = 1632  \)
+
+<p><strong><em>4.If the different permutations of all the letter of the word EXAMINATION are listed as in a dictionary, how many words are there in this list before the first
+word starting with E ?
+</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>This is one of its type of question,its lengthy but its not difficult</p>
+<p>We have examination EXAMINATION,A is 2 times,I 2 times,N 2 times</p>
+<p>The lexicographic order of letters in 	EXAMINATION is A,E,I,M,N,O,T,X
+<p>So we have to find just words starting with A,now A place is fixed,rest are 10 letters out of which I ,N occurs two times             </p>
+<p>So no of ways = \( \frac{ 10! } {2!\times 2! } = 907200 \) </p>
+
+
+
+
+<p><strong><em>6.The English alphabet has 5 vowels and 21 consonants. How many words with
+two different vowels and 2 different consonants can be formed from the alphabet ? </em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>so we have to form words with 2 vowels and 2 consonants and vowels sould be different and also consonants should be different</p>
+<p>So we have to choose 2 vowels out of 5 and 2 consonants out of 21 and then can rearrange themselves in 4! ways</p>
+<p>So total no of ways = \( ^{ 5 }C_{ 2 }\times ^{ 21 }C_{ 2 }\times 4! = 50400  \)</p>
+<p></p>
+
+
+<p><strong><em>7.In an examination, a question paper consists of 12 questions divided into two
+parts i.e., Part I and Part II, containing 5 and 7 questions, respectively. A student is required to attempt 8 questions in all, selecting at least 3 from each part. In
+how many ways can a student select the questions ?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>This is also easy,</p>
+<p>Part 1 (5) and Part 2(7)</p>
+<p>8 questions needed to be done and atleast 3 from each</p>
+<p>So choices can be 3 from part 1 and 5 part 2</p>
+<p>4 from part1 and 4 part2</p>
+<p>5 from part1 and 3 part2</p>
+
+<p>So no of  ways = \( ^{ 5 }C_{ 3 }\times ^{ 7 }C_{ 5 } +  ^{ 5 }C_{ 4 }\times ^{ 7 }C_{ 4 } + ^{ 5 }C_{ 5 }\times ^{ 7 }C_{ 3 } = 420  \)</p>
+
+
+
+<p><strong><em>8.Determine the number of 5-card combinations out of a deck of 52 cards if each
+selection of 5 cards has exactly one king?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>Its simmple like we did in 7.4 where we need only one ace</p>
+<p>We have to select one king out of 4 and then other 4 cards we will have to select from 48 cards not 51 because if we select from other 51 it will include 3 kings too so we might select one or more kings</p>
+<p>Total no of ways = \( ^{ 4 }C_{ 1 }\times ^{ 48 }C_{ 4 } =                   \)</p>
+<p></p>
+<p></p>
+
+
+
+<p><strong><em>9.It is required to seat 5 men and 4 women in a row so that the women occupy the
+even places. How many such arrangements are possible ?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>So there are 9 places,lets draw them</p>
+<p>1,2,3,4,5,6,7,8,9 </p>
+<p>So there are 4 places fixed for women they can rearrange themselves in 4! positions</p>
+<p>And 5 men then can sit in 5 positions(1,3,5,7,9 positions) in 5! ways</p>
+<p>So total no of ways = \(  4!\times 5!  =  2880  \)</p>
+
+<p><strong><em>10.From a class of 25 students, 10 are to be chosen for an excursion party. There
+are 3 students who decide that either all of them will join or none of them will
+join.In how many ways can the excursion party be chosen ?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>This is a good question but its not very tricky,so we have just two cases either there are 3 students who are sure to go or they all three will not go</p>
+<p>No if ways when all 3 will  go ,we have to select 7 from remaining 22 = \( ^{ 22 }C_{ 7 }          \) </p>
+<p>No if ways when all 3 will<strong> NOT </strong> go ,we have to select 10 from remaining 22 = \( ^{ 22 }C_{ 10 }          \) </p>
+<p>so total no of ways,add them up = \(  ^{ 22 }C_{ 7 }  + ^{ 22 }C_{ 10 }              \)</p>
+
+
+
+<p><strong><em>11.In how many ways can the letters of the word ASSASSINATION be arranged
+so that all the S’s are together ?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>There are 3 A,4 S,2 I,2 N and other reapeats only one time</p>
+<p>Now we can think of  S as one letter and then we have 10 letters if we count S as 1 letter</p>
+<p>This is similar to MISSISSIPPI question in exercise 7.3 where I discussed 2 ways you can think of questions in which it is askwd like these letters occur together </p>
+<p> so 10 letters out of which A repeats 3 times,I 2 times and N 2 times </p>
+<p>No of ways = \(  \frac{10!}{3! 2! 2! }  = 151200  \)  </p>
+
+
+<p><strong><em>The best Question award goes to last question of exercise 7.3 in which it is asked there are 4 letters between P and S</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
