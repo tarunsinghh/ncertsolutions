@@ -167,6 +167,7 @@ return;
       '11'=>array (
 
         array('Permutations and Combinations','permutations-and-combinations'),
+        array('Probability','probability-11')
       )
 
     );
