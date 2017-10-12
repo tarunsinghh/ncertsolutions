@@ -2687,3 +2687,36 @@ body {
     font-family: 'Lora', 'Times New Roman', serif;
     font-size: 20px;
 }
+
+p a:before {
+    position: absolute;
+    left: 0;
+    width: 100%
+}
+
+
+
+p a:before {
+    content: "" !important;
+    height: 2px !important;
+    bottom: 0 !important;
+    background-color: #51a9e8 !important;
+    visibility: hidden !important;
+    -webkit-transform: scaleX(0) !important;
+    transform: scaleX(0) !important;
+    transition: all .3s ease-in-out 0s !important;
+}
+
+p a:hover:before {
+    visibility: visible !important;
+    -webkit-transform: scaleX(1) !important;
+    transform: scaleX(1) !important;
+}
+
+
+.tag-link, .tag-subtitle {
+    text-align: center !important;
+    margin: 0 !important;
+    font-family: 'Source Sans Pro',sans-serif !important;
+    text-transform: uppercase !important;
+}

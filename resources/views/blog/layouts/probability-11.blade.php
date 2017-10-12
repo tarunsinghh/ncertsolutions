@@ -442,6 +442,488 @@ Describe the events
 
 
 
+<p style="text-align: center;"><strong>Exercise 16.3</strong></p>
+<p><strong>Question 1</strong></p>
+<p><strong>Which of the following can not be valid assignment of probabilities for outcomes
+of sample Space S = { ω 1 , ω 2 , ω 3 , ω 4 , ω 5 , ω 6 , ω 7 }</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="46"><strong>Assignment</strong></td>
+<td width="84"><strong>\(\omega_{7}\)</strong></td>
+<td width="84"><strong>\(\omega_{6}\)</strong></td>
+<td width="84"><strong>\(\omega_{5}\)</strong></td>
+<td width="84"><strong>\(\omega_{4}\)</strong></td>
+<td width="84"><strong>\(\omega_{5}\)</strong></td>
+<td width="84"><strong>\(\omega_{6}\)</strong></td>
+<td width="87"><strong>\(\omega_{7}\)</strong></td>
+</tr>
+<tr>
+<td width="46"><strong>(a)</strong></td>
+<td width="84"><strong>0.1</strong></td>
+<td width="84"><strong>0.01</strong></td>
+<td width="84"><strong>0.05</strong></td>
+<td width="84"><strong>0.03</strong></td>
+<td width="84"><strong>0.01</strong></td>
+<td width="84"><strong>0.2</strong></td>
+<td width="87"><strong>0.6</strong></td>
+</tr>
+<tr>
+<td width="46"><strong>(b)</strong></td>
+<td width="84"><strong>\(\frac{1}{7}\)</strong></td>
+<td width="84"><strong>\(\frac{1}{7}\)</strong></td>
+<td width="84"><strong>\(\frac{1}{7}\)</strong></td>
+<td width="84"><strong>\(\frac{1}{7}\)</strong></td>
+<td width="84"><strong>\(\frac{1}{7}\)</strong></td>
+<td width="84"><strong>\(\frac{1}{7}\)</strong></td>
+<td width="87"><strong>\(\frac{1}{7}\)</strong></td>
+</tr>
+<tr>
+<td width="46"><strong>(c)</strong></td>
+<td width="84"><strong>0.1</strong></td>
+<td width="84"><strong>0.2</strong></td>
+<td width="84"><strong>0.3</strong></td>
+<td width="84"><strong>0.4</strong></td>
+<td width="84"><strong>0.5</strong></td>
+<td width="84"><strong>0.6</strong></td>
+<td width="87"><strong>0.7</strong></td>
+</tr>
+<tr>
+<td width="46"><strong>(d)</strong></td>
+<td width="84"><strong>-0.1</strong></td>
+<td width="84"><strong>0.2</strong></td>
+<td width="84"><strong>0.3</strong></td>
+<td width="84"><strong>0.4</strong></td>
+<td width="84"><strong>-0.2</strong></td>
+<td width="84"><strong>0.1</strong></td>
+<td width="87"><strong>0.3</strong></td>
+</tr>
+<tr>
+<td width="46"><strong>(e)</strong></td>
+<td width="84"><strong>\(\frac{1}{14}\)</strong></td>
+<td width="84"><strong>\(\frac{2}{14}\)</strong></td>
+<td width="84"><strong>\(\frac{3}{14}\)</strong></td>
+<td width="84"><strong>\(\frac{4}{14}\)</strong></td>
+<td width="84"><strong>\(\frac{5}{14}\)</strong></td>
+<td width="84"><strong>\(\frac{6}{14}\)</strong></td>
+<td width="87"><strong>\(\frac{15}{14}\)</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong></p>
+<p><strong>Solution:</strong></p>
+<p>(a)</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="91">ω<sub>1</sub></td>
+<td style="text-align: center;" width="91">ω<sub>2</sub></td>
+<td style="text-align: center;" width="91">ω<sub>3</sub></td>
+<td style="text-align: center;" width="91">ω<sub>4</sub></td>
+<td style="text-align: center;" width="91">ω<sub>5</sub></td>
+<td style="text-align: center;" width="91">ω<sub>6</sub></td>
+<td style="text-align: center;" width="91">ω<sub>7</sub></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="91">0.1</td>
+<td style="text-align: center;" width="91">0.01</td>
+<td style="text-align: center;" width="91">0.05</td>
+<td style="text-align: center;" width="91">0.03</td>
+<td style="text-align: center;" width="91">0.01</td>
+<td style="text-align: center;" width="91">0.2</td>
+<td style="text-align: center;" width="91">0.6</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Each of the numbers such as \(p(\omega_{7}),p(\omega_{6})&#8230;&#8230;..p(\omega_{7})\) are positive in nature and are less than 1.</p>
+<p>= \(p(\omega_{1})+ p(\omega_{2})+p(\omega_{3})+p(\omega_{4})+p(\omega_{5})+p(\omega_{6})+p(\omega_{7})  \)</p>
+<p>=  0.6 + 0.2  + 0.01  + 0.03 +  0.05 + 0.01 + 0.1 </p>
+<p>= 1</p>
+<p>The assignment is valid.</p>
+<p>&nbsp;</p>
+<p>(b)</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="91">ω<sub>1</sub></td>
+<td style="text-align: center;" width="91">ω<sub>2</sub></td>
+<td style="text-align: center;" width="91">ω<sub>3</sub></td>
+<td style="text-align: center;" width="91">ω<sub>4</sub></td>
+<td style="text-align: center;" width="91">ω<sub>5</sub></td>
+<td style="text-align: center;" width="91">ω<sub>6</sub></td>
+<td style="text-align: center;" width="91">ω<sub>7</sub></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="91">\(\frac{1}{7}\)</td>
+<td style="text-align: center;" width="91">\(\frac{1}{7}\)</td>
+<td style="text-align: center;" width="91">\(\frac{1}{7}\)</td>
+<td style="text-align: center;" width="91">\(\frac{1}{7}\)</td>
+<td style="text-align: center;" width="91">\(\frac{1}{7}\)</td>
+<td style="text-align: center;" width="91">\(\frac{1}{7}\)</td>
+<td style="text-align: center;" width="91">\(\frac{1}{7}\)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Each of the numbers such as \(p(\omega_{7}),p(\omega {2})&#8230;&#8230;..p(\omega {7})\) are positive in nature and are less than 1.</p>
+<p>= \(p(\omega_{1})+p(\omega_{2})+p(\omega_{3})+p(\omega_{4})+ p(\omega_{5})+p(\omega_{6})+p(\omega_{7})\)</p>
+<p>= \(\frac{1}{7}\) + \(\frac{1}{7}\) + \(\frac{1}{7}\) + \(\frac{1}{7}\) + \(\frac{1}{7}\) + \(\frac{1}{7}\) + \(\frac{1}{7}\)</p>
+<p>= 7 (\(\frac{1}{7}\))</p>
+<p>= 1</p>
+<p>The assignment is valid.</p>
+<p>&nbsp;</p>
+<p>(c)</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="91">ω<sub>1</sub></td>
+<td style="text-align: center;" width="91">ω<sub>2</sub></td>
+<td style="text-align: center;" width="91">ω<sub>3</sub></td>
+<td style="text-align: center;" width="91">ω<sub>4</sub></td>
+<td style="text-align: center;" width="91">ω<sub>5</sub></td>
+<td style="text-align: center;" width="91">ω<sub>6</sub></td>
+<td style="text-align: center;" width="91">ω<sub>7</sub></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="91">0.1</td>
+<td style="text-align: center;" width="91">0.2</td>
+<td style="text-align: center;" width="91">0.3</td>
+<td style="text-align: center;" width="91">0.4</td>
+<td style="text-align: center;" width="91">0.5</td>
+<td style="text-align: center;" width="91">0.6</td>
+<td style="text-align: center;" width="91">0.7</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Each of the numbers such as \(p(\omega_{7}),p(\omega {2})&#8230;&#8230;..p(\omega {7})\) are positive in nature and are less than 1.</p>
+<p>= \(p(\omega_{1})+p(\omega_{2})+p(\omega_{3})+p(\omega_{4})+ p(\omega_{5})+p(\omega_{6})+p(\omega_{7})\)</p>
+<p>=0.7 + 0.6  + 0.5 +  0.5 + 0.4 + 0.3  +  0.2  +  0.1 </p>
+<p>= 2.8</p>
+<p>≠ 1</p>
+<p>The assignment is not valid.</p>
+<p>&nbsp;</p>
+<p>(d)</p>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="91">ω<sub>1</sub></td>
+<td style="text-align: center;" width="91">ω<sub>2</sub></td>
+<td style="text-align: center;" width="91">ω<sub>3</sub></td>
+<td style="text-align: center;" width="91">ω<sub>4</sub></td>
+<td style="text-align: center;" width="91">ω<sub>5</sub></td>
+<td style="text-align: center;" width="91">ω<sub>6</sub></td>
+<td style="text-align: center;" width="91">ω<sub>7</sub></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="91">-0.1</td>
+<td style="text-align: center;" width="91">0.2</td>
+<td style="text-align: center;" width="91">0.3</td>
+<td style="text-align: center;" width="91">0.4</td>
+<td style="text-align: center;" width="91">-0.2</td>
+<td style="text-align: center;" width="91">0.1</td>
+<td style="text-align: center;" width="91">0.3</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>From the above table it is evident that \(p(\omega_{7})\) &amp; \(p(\omega_{5})\) are negative.</p>
+<p>Therefore,</p>
+<p>The assignment is not valid.</p>
+<p>&nbsp;</p>
+<p>(e)</p>
+<table style="height: 95px;" width="1156">
+<tbody>
+<tr>
+<td style="text-align: center;" width="115">ω<sub>1</sub></td>
+<td style="text-align: center;" width="130">    ω<sub>2</sub></td>
+<td style="text-align: center;" colspan="2" width="104">     ω<sub>3</sub></td>
+<td style="text-align: center;" width="89">        ω<sub>4</sub></td>
+<td style="text-align: center;" colspan="2" width="72">          ω<sub>5</sub></td>
+<td style="text-align: center;" colspan="2" width="72">            ω<sub>6</sub></td>
+<td style="text-align: center;" colspan="2" width="72">           ω<sub>7</sub></td>
+<td style="text-align: center;" width="1"></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="115">\(\frac{1}{14}\)</td>
+<td style="text-align: center;" colspan="2" width="132">\(\frac{2}{14}\)</td>
+<td style="text-align: center;" width="102">\(\frac{3}{14}\)</td>
+<td style="text-align: center;" colspan="2" width="90">\(\frac{4}{14}\)</td>
+<td style="text-align: center;" colspan="2" width="72">\(\frac{5}{14}\)</td>
+<td style="text-align: center;" colspan="2" width="72">\(\frac{6}{14}\)</td>
+<td style="text-align: center;" colspan="2" width="72">\(\frac{7}{14}\)</td>
+</tr>
+<tr>
+<td width="208"></td>
+<td width="205"></td>
+<td width="3"></td>
+<td width="208"></td>
+<td width="205"></td>
+<td width="4"></td>
+<td width="204"></td>
+<td width="4"></td>
+<td width="204"></td>
+<td width="4"></td>
+<td width="206"></td>
+<td width="3"></td>
+</tr>
+</tbody>
+</table>
+<p>\(p(\omega_{7})\) = \(\frac{15}{14}\) ˃ 1</p>
+<p>The assignment is not valid.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong><em>2.A coin is tossed twice, what is the probability that atleast one tail occurs?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>You dont need to always list all the elements in sample space,what we should know is the no <br/>
+of elements in Sample Space</p>
+<p>E= atleast one tail occurs</p>
+<p>S = coin is tossed twice</p>
+<p>No of elements in S =\(2\times 2 = 4 \)</p>
+<p>No of elements in E = n(S) - no of cases in which no tail occurs = 4 -1 {HH} = 7
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{3}{4} \)</p>
+
+<p><strong><em>3.A die is thrown, find the probability of following events:
+(i) A prime number will appear,
+(ii) A number greater than or equal to 3 will appear,
+(iii) A number less than or equal to one will appear,
+(iv) A number more than 6 will appear,
+(v) A number less than 6 will appear.</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>i)E = prime no will appear ,n(E) = 3 {2,3,5}</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{3}{6} = \frac{1}{2} \)</p>
+
+<p>ii)Let E = A number greater than or equal to 3 will appear,n(E) = 4 {3,4,5,6}</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{4}{6} = \frac{2}{3} \)</p>
+
+
+<p>iii)Let E = A number less than or equal to one will appear,n(E) = 1 {1}</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{1}{6} = \frac{1}{6} \)</p>
+
+<p>iv)Let E =A number more than 6 will appear,n(E) = 0 </p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{0}{6} = 0 \)</p>
+
+<p>v)Let E = A number less than 6 will appear,n(E) = 5 {1,2,3,4,5} </p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{5}{6}  \)</p>
+
+<p><strong><em>4.A card is selected from a pack of 52 cards.
+(a) How many points are there in the sample space?
+(b) Calculate the probability that the card is an ace of spades.
+(c) Calculate the probability that the card is (i) an ace (ii) black card..</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>i)A card is selected,there are 52 cards,so no of points in sample space = 52</p>
+
+<p>ii)We have 13 cards of spade ,out of which one is a ace of spade</p>
+<p>Let E =the card drawn is an ace of spades,n(E) = 1 </p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{1}{52}  \)</p>
+
+<p>iii)E =the card drawn is an ace,n(E) = 4 (We have one ace each of spade,hear,club,diamond) </p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{4}{52} = \frac{1}{13} \)</p>
+
+<p>E =the card drawn is black,n(E) = 26 (13 cards of spade and 13 cards of club) </p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{26}{52} = \frac{1}{2} \)</p>
+
+
+
+<p><strong><em>5.A fair coin with 1 marked on one face and 6 on the other and a fair die are both
+tossed. find the probability that the sum of numbers that turn up is (i) 3 (ii) 12.</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>E = sum of number is 3,n(E) = 1 ( (1 on coin,2 on dice)) </p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{1}{12}  \)</p>
+
+<p>E = sum of number is 1,n(E) = 1 ( (6 on coin,6 on dice)) </p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{1}{12}  \)</p>
+
+
+<p><strong><em>6.There are four men and six women on the city council. If one council member is
+selected for a committee at random, how likely is it that it is a woman?</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>S= selecting a member from 4 men and 6 women,n(S) = \( ^{ 4 + 6 }C_{ 1 } 10 \)</p>
+<p>E = member selected is a woman,n(E) = 6</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{6}{10}  \)</p>
+
+
+<p><strong><em>7.A fair coin is tossed four times, and a person win Re 1 for each head and lose
+Rs 1.50 for each tail that turns up.From the sample space calculate how many different amounts of money you can
+have after four tosses and the probability of having each of these amounts.</em></strong></p>
+<p><strong><em>Solution:</em></strong></p>
+<p>S= selecting a member from 4 men and 6 women,n(S) = \( ^{ 4 + 6 }C_{ 1 } 10 \)</p>
+<p>E = member selected is a woman,n(E) = 6</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{6}{10}  \)</p>
+
+
+<p><strong><em>8.Three coins are tossed once. Find the probability of getting
+(i) 3 heads
+(ii) 2 heads
+(iii) atleast 2 heads
+(iv) atmost 2 heads
+(v) no head
+(vi) 3 tails
+(vii) exactly two tails
+(viii) no tail
+(ix) atmost two tails.
+</em></strong></p> 
+<p><strong><em>Solution:</em></strong></p>
+
+
+<p><strong><em>9.If  \( \frac{2}{11} \) is the probability of an event, what is the probability of the event ‘not A’.
+</em></strong></p> 
+<p><strong><em>Solution:</em></strong></p>
+<p>We know p(A) + P(not A) = P(S) =1,so  P(not A) = \(  1 - \frac{2}{11} = \frac{9}{11}  \)</p>
+
+
+<p><strong><em>10.A letter is chosen at random from the word ‘ASSASSINATION’. Find the
+probability that letter is (i) a vowel (ii) a consonant
+</em></strong></p> 
+<p><strong><em>Solution:</em></strong></p>
+<p>Let E = letter choosen is vowel,n(E) = 6{Vowels in ASSASSINATION = AASSII0 }</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{6}{13}  \)</p>
+
+<p>Let E = letter choosen is consonant,n(E) = 7{Consonants in ASSASSINATION = SSSSNTN }</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{7}{13}  \)</p>
+
+
+
+
+<p><strong><em>11.In a lottery, a person choses six different natural numbers at random from 1 to 20,
+and if these six numbers match with the six numbers already fixed by the lottery
+committee, he wins the prize. What is the probability of winning the prize in the
+game? [Hint order of the numbers is not important.]
+</em></strong></p> 
+<p><strong><em>Solution:</em></strong></p>
+<p>The sample space is all six digit numbers you can form from 1 to 20</p>
+<p>n(S) = \( ^{ 20 }C_{ 6 }  \)</p>
+<p>Now E = persons six numbers match with the six numbers already fixed by the lottery</p>
+<p>n(E) = there is only one way for it so = 1</p>
+<p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{1}{^{ 20 }C_{ 6 }} = \frac{1}{38760}  \)</p>
+
+
+
+<p><strong><em>12.Check whether the following probabilities P(A) and P(B) are consistently defined
+(i) P(A) = 0.5, P(B) = 0.7, P(A ∩ B)  = 0.6
+(ii) P(A) = 0.5, P(B) = 0.4, P(A ∪ B) = 0.8
+</em></strong></p> 
+<p><strong><em>Solution:</em></strong></p>
+<p>From (i) P(A ∩ B) = .6 ,now A ∩ B cant be greter than either A or B ,if A and B are equal then A ∩ B is also equal to A  or B but in no way it can be greater than either A or B,so invalid since  P(A ∩ B)  = 0.6 >  P(A) </p>
+<p>From (ii) P(A ∪ B) = .8 > P(A) and P(B),also   P(A ∩ B) = .5 + .4 - .6 = 0.8 = .1 < P(A) AND P(B) so valid </p>
+
+
+<p><strong>Question 13</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="61"><strong> </strong></td>
+<td width="162"><strong>P(B)</strong></td>
+<td width="160"><strong>P(C) </strong></td>
+<td width="128"><strong>\(P(B\cap R)\)</strong></td>
+<td width="128"><strong>\(P(B\cup R)\)</strong></td>
+</tr>
+<tr>
+<td width="61"><strong>(i)</strong></td>
+<td width="162"><strong>\(\frac{1}{3}\)</strong></td>
+<td width="160"><strong>\(\frac{1}{5}\)</strong></td>
+<td width="128"><strong>\(\frac{1}{15}\)</strong></td>
+<td width="128"><strong>….</strong></td>
+</tr>
+<tr>
+<td width="61"><strong>(ii)</strong></td>
+<td width="162"><strong>0.35</strong></td>
+<td width="160"><strong>     ……………</strong></td>
+<td width="128"><strong>0.25</strong></td>
+<td width="128"><strong>0.6</strong></td>
+</tr>
+<tr>
+<td width="61"><strong>(iii)</strong></td>
+<td width="162"><strong>0.5</strong></td>
+<td width="160"><strong>0.35</strong></td>
+<td width="128"><strong>   ………</strong></td>
+<td width="128"><strong>0.7</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sol:</strong></p>
+<p>(i) \(P(B\cup R) = P(B) + P(C) &#8211; P(B\cap R )\)</p>
+<p>= \(P(B\cap R ) = \frac{1}{3} + \frac{1}{5} &#8211; \frac{1}{15}\)</p>
+<p>= \(\frac{7}{15}\)</p>
+<p>(ii) \(P(B\cup R) = P(B) + P(C) &#8211; P(B\cap R )\)</p>
+<p>= 0.6 = 0.35 + P(C) – 0.25</p>
+<p>= P(C) = 0.6 – 0.35 +0.25</p>
+<p>= P(C) = 0.5</p>
+<p>(iii) \(P(B\cup R) = P(B) + P(C) &#8211; P(B\cup R )\)</p>
+<p>= \(P(B\cap R ) = 0.5 +0.35 &#8211; 0.7\)</p>
+<p>= \(P(B\cap R ) = 0.15\)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Question 14</strong></p>
+<p><strong>P(A) = \(\frac{3}{5}\) and P(B) =  \(\frac{1}{5}\). find the value of P( A or B ) if A and B are mutually exclusive events.</strong></p>
+<p><strong>Sol:</strong></p>
+<p>According to the question Q and R are mutually exclusive events .</p>
+<p>P(A or B) = P(A) + P(B)</p>
+<p>= P( A or B ) = \(\frac{3}{5}\) + \(\frac{3}{5}\)</p>
+<p>= \(\frac{4}{5}\)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 15</strong></p>
+<p><strong>If E and F are events such that P(E) = \( \frac{1}{4} \), P(F) =\( \frac{1}{2} \) and P(E and F) =  \( \frac{1}{8} \), find
+(i) P(E or F), (ii) P(not E and not F).</strong></p>
+
+<p><strong>Sol:</strong></p>
+<p>(a) P(E or F) = P(E) + P(F) – P( E and F)</p>
+<p>= P(E or F) = \(\frac{1}{4} + \frac{1}{2} &#8211; \frac{1}{8}\) = \(\frac{5}{8}\)</p>
+<p>(b) P( E or F) = P(\(E\cup F\)) = \(\frac{1}{8}\)</p>
+<p>=    P( not E and not F)  = P(\(E\cup F\))’</p>
+<p>P( not E and not F) = 1 – P(E and F)</p>
+<p>=    P( not E and not F)  = 1 &#8211;  P(\(E\cup F\))</p>
+<p>= 1 &#8211;  \(\frac{5}{8}\)</p>
+<p>=  \(\frac{3}{8}\)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 16</strong></p>
+<p><strong>Events E and F are such that P(not E or not F) = 0.25, State whether E and F are
+mutually exclusive.</strong></p>
+<p><strong>Sol:</strong></p>
+<p>Given, P ( not E or not F ) = 0.25</p>
+<p>= P(\(E’ \cup F’\)) = 0.25</p>
+<p>= P(\(E’ \cap F’\)) = 0.25</p>
+<p>= P(\(E\cup F\)) = 1- P(\(E\cup F\))’</p>
+<p>=   P(\(E\cup F\)) = 1- 0.25</p>
+<p>=     P(\(E\cup F\)) = 0.75</p>
+<p>P(\(E\cup F\)) ≠ \(\phi\)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 17</strong></p>
+<p><strong>A and B are events such that P(A) = 0.42, P(B) = 0.48 and P(A and B) = 0.16.
+Determine (i) P(not A), (ii) P(not B) and (iii) P(A or B) Find:</strong></p>
+<p><strong>Sol:</strong></p>
+<p>(a) P(not A) = 1 – P(B) = 1 – 0.42 = 0.58</p>
+<p>(b) P(not B) = 1 – P(C) = 1 – 0.42 = 0.52</p>
+<p>(c) P( A or B) = P(A) + P(B) – P( A and B)</p>
+<p>= 0.42 + 0.48 – 0.16 = 0.74</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 
 
