@@ -195,7 +195,7 @@
           </a>
 
            <a href="/solutions/probability-11">
-              <h4 class="post-title">Probabillity<p class="tag-link"> Tagged in <a href="#">Getting Started</a></p></h4>
+              <h4 class="post-title">Probabillity</h4>
           </a>
 
            
