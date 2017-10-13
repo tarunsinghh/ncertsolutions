@@ -12,6 +12,10 @@
   gtag('config', 'UA-108004650-1');
 </script>
 
+
+
+
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +25,7 @@
     <link rel="alternate" type="application/rss+xml" href="{{ url('rss') }}" title="RSS Feed {{ config('blog.title') }}">
 
     {{-- Styles --}}
-    <link href="/assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/style1.1.css" rel="stylesheet">
 
 
 
@@ -33,6 +37,25 @@
     tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
   });</script>
         <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <script>
+jQuery(document).ready(function() {
+
+  console.log("kk");
+    jQuery(".azc_tsh_toggle_container").hide();
+    jQuery(".azc_tsh_toggle").click(function() {
+        jQuery(this).toggleClass("azc_tsh_toggle_active").next().slideToggle('fast');
+        return false;
+    });
+});
+jQuery(document).ready(function() {
+    jQuery(".azc_tsh_toggle_container_open").show();
+    jQuery(".azc_tsh_toggle_open_active").click(function() {
+        jQuery(this).toggleClass("azc_tsh_toggle_open").next().slideToggle('fast');
+        return false;
+    });
+});
+
+</script>
 
         <script type="text/javascript" src="../../../MathJax/MathJax.js"></script>
            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">

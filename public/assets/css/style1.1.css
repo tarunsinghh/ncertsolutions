@@ -2720,3 +2720,19 @@ p a:hover:before {
     font-family: 'Source Sans Pro',sans-serif !important;
     text-transform: uppercase !important;
 }
+
+
+.azc_tsh_toggle, .azc_tsh_toggle_open, .azc_tsh_toggle_active, .azc_tsh_toggle_open_active {
+    margin: 5px 0px 0px 0px !important;
+    border: 1px solid #007fff;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 10px 10px 10px 30px;
+        padding-left: 30px;
+    background-repeat: no-repeat;
+    background-position: 10px 10px;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    margin-left: 14px !important
+}
