@@ -26,7 +26,7 @@ experiment.</strong></p>
 
 <p><strong><em>2. A die is thrown two times.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Aossible outcomes when a die is rolled: {1, 2,3,4,5,6}</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Aossible outcomes when a die is rolled: {1, 2,3,4,5,6}</p>
 <p>Total number of elements in the sample space  when two dice are rolled = 6\times 6 = \(6^{2}=36\)</p>
 <p>Sample space = { (1,1) , (1,2) , (1,3) , (1,4) , (1,5) , (1,6) ,  (5,1) , (5,2) ,( 5,3) , (5,4) , (5,5), (5,6) , (3,1) , (3,2) , (3,3) , (3,4) , (3,5) , (3,6) , (4,1) , (4,2) , (4,3) , (4,4) , (4,5) ,(4,6) , (2,1) , (2,2) , (2,3) , (2,4) ,(2,5) , (2,6) , (6,1) , (6,2) , (6,3) , (6,4) , (6,5) , (6,6)  }</p>
 </div>
@@ -35,7 +35,7 @@ experiment.</strong></p>
 
 <p><strong><em>3. A coin is tossed four times.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
 <p>According to the question, a coin is tossed 4 times,no  possible outcomes are = \(2^{4}=16\)</p>
 <p>Sample space = {TTTT, TTTH ,TTHT ,TTHH , THTT ,THTH ,THHT ,THHH ,HTTT ,HTTH , HTHT , HTHH , HHTT ,HHTH , HHHT ,HHHH }</p>
 </div>
@@ -44,7 +44,7 @@ experiment.</strong></p>
 <p><strong><em>4. A coin is tossed and a die is thrown.
 </em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
 <p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Thus, sample space of a coin and a die when thrown together</p>
 <p>D = { H1 ,H2 ,H3 ,H4 ,H5 ,H6 ,T1 , T2 , T3 , T4 ,T5 , T6  }</p>
@@ -55,7 +55,7 @@ experiment.</strong></p>
 <p><strong><em>5. A coin is tossed and then a die is rolled only in case a head is shown on the coin.
 </em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>We all know that a unbiased coin has a head (H) and a tail (T)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We all know that a unbiased coin has a head (H) and a tail (T)</p>
 <p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Dice will be rolled only when head will come,if tail comes then prcoess ends there</p>
 <p>Thus, sample space of a coin and a die when thrown together</p>
@@ -68,7 +68,7 @@ experiment.</strong></p>
 <p><strong><em>6.2 boys and 2 girls are in Coom X, and 1 boy and 3 girls in Coom Y. Dpecify the
 sample space for the experiment in which a room is selected and then a person.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>This is little tricky</p>
 <p>Let us consider 2 girls and 2 boys in room no. x be G<sub>1</sub>,G<sub>2</sub> &amp; B<sub>1</sub>,B<sub>2 </sub>.</p>
 <p>Also, 3 girls and 1 boy in room no. y be G<sub>3</sub>,G<sub>4</sub> &amp; G<sub>5</sub>,B<sub>3 </sub>.</p>
@@ -83,7 +83,7 @@ sample space for the experiment in which a room is selected and then a person.</
 bag. One die is selected at random and rolled, its colour and the number on its
 uppermost face is noted. Describe the sample space.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Aossible outcomes when a die is thrown: 1,2,3,4,5 and 6.</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Aossible outcomes when a die is thrown: 1,2,3,4,5 and 6.</p>
 <p>Let us consider red, white and blue coloured dices be C , W and B respectively.</p>
 <p>According to the question, sample space when a die is rolled = {  C1 ,C2,C3,C4,C5,C6, W1 , W2 , W3 , W4 , W5 , W6 , B1 , B2 , B3 , B4 , B5 , B6 }</p>
 <p>Total elements in sample space = 6+6+6 (one each for each colour)</p>
@@ -100,7 +100,7 @@ or girl in the order of their births?ACOBABILITY
 (ii)What is the sample space if we are interested in the number of girls in the
 family?</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>(i) Sample space depending the order of birth of a boy or a girl = { BB , BG , GB , GG }</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>(i) Sample space depending the order of birth of a boy or a girl = { BB , BG , GB , GG }</p>
 <p>No of elements in sample space = \( 2\times 2 = 4        \)</p>
 
 <p>(ii) According to the question, it is said that a family can have only two children . it can eitherbe a boy and a girl , both of them are girls or both of them are boys.</p>
@@ -114,7 +114,7 @@ family?</em></strong></p>
 <p><strong><em>9.A box contains 1 red and 3 identical white balls. Two balls are drawn at random
 in succession without replacement. Write the sample space for this experiment?</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>According to the question it is given that the experimental setup contains a box containing a red ball and three identical white balls.</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>According to the question it is given that the experimental setup contains a box containing a red ball and three identical white balls.</p>
 <p>Sample space of the event of drawing 2 balls at random in succession without replacement is = {WW, WC, CW}</p>
 <p>Although there are 3 white balls we are not 3 elements for choosing 2 white balls in succession,because we care about different outcomes,white balls are identical so there is only once case WW</p>
 </div>
@@ -125,7 +125,7 @@ in succession without replacement. Write the sample space for this experiment?</
 head occurs. If a tail occurs on the first toss, then a die is rolled once. Find the
 sample space?</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
 <p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Sample space of the experimental setup = {,HT , HH ,T1 , T2 , T3 , T4 , T5 , T6  }</p>
@@ -141,7 +141,7 @@ sample space?</em></strong></p>
 classified as defective (D) or non – defective(N). Write the sample space of this
 experiment?</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>According to the question, it is given that 3 bulbs are selected at a random from a bag of bulbs. Depending upon the series of tests each bulb is termed as either non defective or defective.</p>
 <p>Sample space of the series of events = { NNN ,NND ,NDN ,NDD , DNN , DND , DDN , DDD}</p>
 <p>No of elements in sample space = \(2\times 2\times 2 = 8 \)</p>
@@ -155,7 +155,7 @@ experiment?</em></strong></p>
 an even number, the die is thrown again. What is the sample space for the
 experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
 <p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Sample space of the experiment = {H1, H21 , H22 , H23 , H24 , H25 , H26 , H3 , H41 , H42 , H43 , H44 , H45 , H46 , H5 , H61 , H62 , H63 , H64 , H65 , H66, T }</p>
 <p>No of elements in sample space = \( 1 + 3 + 3\times 6 =22 \)</p>
@@ -168,7 +168,7 @@ are put in a box and mixed thoroughly. A person draws two slips from the box,
 one after the other, without replacement. Describe the sample space for the
 experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>If 3 appears on the first slip of paper , then the possibilities that the numbers appearing in the next slip of paper will be 1,2 and 4. If 4 appears on the first slip of paper , then the possibilities that the numbers appearing in the next slip of paper will be 1,2 and 3.</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>If 3 appears on the first slip of paper , then the possibilities that the numbers appearing in the next slip of paper will be 1,2 and 4. If 4 appears on the first slip of paper , then the possibilities that the numbers appearing in the next slip of paper will be 1,2 and 3.</p>
 <p>Sample space of the experiment = { (4,1) , (4,2) , (4,3) , (3,1) , (3,2) , (3,4) , (2,1) , (2,3)  , (2,4) , (1,2) , (1,3) , (1,4) }</p>
 </div>
 <p>&nbsp;</p>
@@ -178,7 +178,7 @@ experiment?<em></strong></p>
 on the die is even. If the number on the die is odd, the coin is tossed twice. Write
 the sample space for this experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
 <p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>sample space of the conducted experiment = { 5TT , 5TH , 5HT , 5HH ,3TT , 3TH , 3HT , 3HH , 1TT , 1TH ,1HT , 1HH , 6T , 6H , 4T , 4H , 2T , 2H }</p>
@@ -190,7 +190,7 @@ the sample space for this experiment?<em></strong></p>
 and 3 black balls. If it shows head, we throw a die. Find the sample space for this
 experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>According to the question, it is given that a box contains 2 red and 3 black balls and they are named as C<sub>1</sub>,C<sub>2</sub> and B<sub>1</sub>,B<sub>2</sub>,B<sub>3</sub></p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>According to the question, it is given that a box contains 2 red and 3 black balls and they are named as C<sub>1</sub>,C<sub>2</sub> and B<sub>1</sub>,B<sub>2</sub>,B<sub>3</sub></p>
 <p>Sample space of the experiment = { H1 , H2 , H3 , H4 , H5 ,H6, TB<sub>1</sub> , TB<sub>2 ,</sub>TB<sub>3</sub> , TC<sub>1 , </sub>TC <sub>2</sub>}</p>
 </div>
 <p>&nbsp;</p>
@@ -199,7 +199,7 @@ experiment?<em></strong></p>
 <p><strong><em>16.A die is thrown repeatedly untill a six comes up. What is the sample space for
 this experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>In this experiment 6 might come up in the 1<sup>st</sup> throw, 2<sup>nd</sup> throw, 3<sup>rd</sup> throw and so on …….</p>
 <p>Therefore , the sample space of the experiment = { 6 , (1,6) , (2,6)  , (3,6) , (4,6) , (5,6) , ( 1,1,6) , (1,2,6)  ……… (1,5,6) , (2,1,6) ,  (2,2,6) ……………. (2,5,6) ………(5,1,6) , (5,2,6) and so on infinte... }</p>
 </div>
@@ -218,7 +218,7 @@ this experiment?<em></strong></p>
 <p><strong>A die is rolled. Let E be the event “die shows 4” and F be the event “die shows
 even number”. Are E and F mutually exclusive?</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>The sample space when dice is rolled is  = {1 , 2, 3 , 4 , 5 , 6}</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>The sample space when dice is rolled is  = {1 , 2, 3 , 4 , 5 , 6}</p>
 <p>According to the question,</p>
 <p>A= {4} and B= {6, 4, 2}</p>
 <p>It is observed from the above mentioned sample space of E and F is</p>
@@ -238,7 +238,7 @@ even number”. Are E and F mutually exclusive?</strong></p>
 
 <p><strong>Also find A ∪ B, A ∩ B, B ∪ C, E ∩ F, D ∩ E, A – C, D – E, E ∩ F′, F′</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>(a) A = {1, 2, 3, 4, 5, 6}</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>(a) A = {1, 2, 3, 4, 5, 6}</p>
 <p>(b) B = \(\phi\)</p>
 <p>(c) C = {3,6}</p>
 <p>(d) D = {1, 2, 3}</p>
@@ -267,7 +267,7 @@ C: the sum is at least 7 and a multiple of 3.
 Which pairs of these events are mutually exclusive?</strong></p>
 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Sample space when a pair of dice is rolled (D) = { (x,y) : x,y = 1,2,3,4,5,6 }</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Sample space when a pair of dice is rolled (D) = { (x,y) : x,y = 1,2,3,4,5,6 }</p>
 <p>= { (1,1) , (1,2)  , (1,3) , (1,4) , (1,5) , (1,6)</p>
 <p>(2,1) , (2,2)  , (2,3) , (2,4) , (2,5) , (2,6)</p>
 <p>(3,1) , (3,2)  , (3,3) , (3,4) , (3,5) , (3,6)</p>
@@ -297,7 +297,7 @@ show and D denote the event ‘a head shows on the first coin”. Which events a
 (ii) simple?
 (iii) Compound?</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Sample space of the experiment when 3 coins are tossed together.</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Sample space of the experiment when 3 coins are tossed together.</p>
 <p>D = {HHH, HHT, HTH,HTT,THH, THT,TTH,TTT}</p>
 <p>A = {HHH}</p>
 <p>B = {HHT, HTH, THH}</p>
@@ -330,7 +330,7 @@ called a simple (or elementary) event. Therefore A and C  simple events.</p>
 (iv) Two events which are mutually exclusive but not exhaustive.
 (v) Three events which are mutually exclusive but not exhaustive.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Sample space when 3 coins are tossed all together = {TTT, TTH, THT, THH, HTT, HTH, HHT, HHH}</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Sample space when 3 coins are tossed all together = {TTT, TTH, THT, THH, HTT, HTH, HHT, HHH}</p>
 <p>(a) 2 events are said to be mutually exclusive:</p>
 <p>A = odd no of HEAD</p>
 <p>B = even no of HEAD</p>
@@ -389,7 +389,7 @@ Describe the events
 (vii) B and C
 (viii) A ∩ B′ ∩ C′</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 
 
 
@@ -448,7 +448,7 @@ Describe the events
 <p><strong>(e) B’ and A are mutually exclusive events.</strong></p>
 <p><strong> (f) A’ , B’ &amp; C are mutually exhaustive and exclusive.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>A = {(6,1) , (6,2)  , (6,3) , (6,4) , (6,5) , (6,6) , (2,1) , (2,2)  , (2,3) , (2,4) , (2,5) , (2,6) , (4,1) , (4,2)  , (4,3) , (4,4) , (4,5) , (4,6)}</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>A = {(6,1) , (6,2)  , (6,3) , (6,4) , (6,5) , (6,6) , (2,1) , (2,2)  , (2,3) , (2,4) , (2,5) , (2,6) , (4,1) , (4,2)  , (4,3) , (4,4) , (4,5) , (4,6)}</p>
 <p>&nbsp;</p>
 <p>B= {(5,1) , (5,2)  , (5,3) , (5,4) , (5,5) , (5,6) , (3,1) , (3,2)  , (3,3) , (3,4) , (3,5) , (3,6) , (1,1) , (1,2)  , (1,3) , (1,4) , (1,5) , (1,6)}</p>
 <p>&nbsp;</p>
@@ -552,7 +552,7 @@ of sample Space S = { ω 1 , ω 2 , ω 3 , ω 4 , ω 5 , ω 6 , ω 7 }</strong><
 </table>
 <p><strong> </strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>(a)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>(a)</p>
 <table>
 <tbody>
 <tr>
@@ -719,7 +719,7 @@ of sample Space S = { ω 1 , ω 2 , ω 3 , ω 4 , ω 5 , ω 6 , ω 7 }</strong><
 
 <p><strong><em>2.A coin is tossed twice, what is the probability that atleast one tail occurs?</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>You dont need to always list all the elements in sample space,what we should know is the no <br/>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>You dont need to always list all the elements in sample space,what we should know is the no <br/>
 of elements in Sample Space</p>
 <p>E= atleast one tail occurs</p>
 <p>S = coin is tossed twice</p>
@@ -768,7 +768,7 @@ of elements in Sample Space</p>
 <p><strong>(d) Number more than 6</strong></p>
 <p><strong>(e) Number less than 6</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Sample space: { 6 , 5 , 4 , 3 , 2 , 1 }</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Sample space: { 6 , 5 , 4 , 3 , 2 , 1 }</p>
 <p>(a) Let us consider event P be the event of occurrence of prime number</p>
 <p>P = { 5 , 3 , 2 }</p>
 <p>=\(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
@@ -812,7 +812,7 @@ of elements in Sample Space</p>
 (b) Calculate the probability that the card is an ace of spades.
 (c) Calculate the probability that the card is (i) an ace (ii) black card..</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>i)A card is selected,there are 52 cards,so no of points in sample space = 52</p>
 
 <p>ii)We have 13 cards of spade ,out of which one is a ace of spade</p>
@@ -837,7 +837,7 @@ of elements in Sample Space</p>
 <p><strong><em>5.A fair coin with 1 marked on one face and 6 on the other and a fair die are both
 tossed. find the probability that the sum of numbers that turn up is (i) 3 (ii) 12.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>E = sum of number is 3,n(E) = 1 ( (1 on coin,2 on dice)) </p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>E = sum of number is 3,n(E) = 1 ( (1 on coin,2 on dice)) </p>
 <p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
 <p>= \( \frac{1}{12}  \)</p>
 
@@ -853,7 +853,7 @@ tossed. find the probability that the sum of numbers that turn up is (i) 3 (ii) 
 <p><strong><em>6.There are four men and six women on the city council. If one council member is
 selected for a committee at random, how likely is it that it is a woman?</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>S= selecting a member from 4 men and 6 women,n(S) = \( ^{ 4 + 6 }C_{ 1 } 10 \)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>S= selecting a member from 4 men and 6 women,n(S) = \( ^{ 4 + 6 }C_{ 1 } 10 \)</p>
 <p>E = member selected is a woman,n(E) = 6</p>
 <p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
 <p>= \( \frac{6}{10}  \)</p>
@@ -867,7 +867,7 @@ selected for a committee at random, how likely is it that it is a woman?</em></s
 Rs 1.50 for each tail that turns up.From the sample space calculate how many different amounts of money you can
 have after four tosses and the probability of having each of these amounts.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>S= selecting a member from 4 men and 6 women,n(S) = \( ^{ 4 + 6 }C_{ 1 } 10 \)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>S= selecting a member from 4 men and 6 women,n(S) = \( ^{ 4 + 6 }C_{ 1 } 10 \)</p>
 <p>E = member selected is a woman,n(E) = 6</p>
 <p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
 <p>= \( \frac{6}{10}  \)</p>
@@ -889,7 +889,7 @@ have after four tosses and the probability of having each of these amounts.</em>
 (ix) atmost two tails.
 </em></strong></p> 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 p>According to the question , an experiment consists of tossing up of three coins .</p>
 <p>Sample space of total number of possible events = { HHH , HHT , HTH , THH , HTT , THT , TTH , TTT }</p>
 <p>So, the total number of possible outcomes = n(s) = 8</p>
@@ -927,7 +927,7 @@ p>According to the question , an experiment consists of tossing up of three coin
 <p><strong><em>9.If  \( \frac{2}{11} \) is the probability of an event, what is the probability of the event ‘not A’.
 </em></strong></p> 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>We know p(A) + P(not A) = P(S) =1,so  P(not A) = \(  1 - \frac{2}{11} = \frac{9}{11}  \)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We know p(A) + P(not A) = P(S) =1,so  P(not A) = \(  1 - \frac{2}{11} = \frac{9}{11}  \)</p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -938,7 +938,7 @@ p>According to the question , an experiment consists of tossing up of three coin
 probability that letter is (i) a vowel (ii) a consonant
 </em></strong></p> 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Let E = letter choosen is vowel,n(E) = 6{Vowels in ASSASSINATION = AASSII0 }</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Let E = letter choosen is vowel,n(E) = 6{Vowels in ASSASSINATION = AASSII0 }</p>
 <p>Therefore, P(E) = \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
 <p>= \( \frac{6}{13}  \)</p>
 
@@ -957,7 +957,7 @@ committee, he wins the prize. What is the probability of winning the prize in th
 game? [Hint order of the numbers is not important.]
 </em></strong></p> 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>The sample space is all six digit numbers you can form from 1 to 20</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>The sample space is all six digit numbers you can form from 1 to 20</p>
 <p>n(S) = \( ^{ 20 }C_{ 6 }  \)</p>
 <p>Now E = persons six numbers match with the six numbers already fixed by the lottery</p>
 <p>n(E) = there is only one way for it so = 1</p>
@@ -973,7 +973,7 @@ game? [Hint order of the numbers is not important.]
 (ii) P(A) = 0.5, P(B) = 0.4, P(A ∪ B) = 0.8
 </em></strong></p> 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>From (i) P(A ∩ B) = .6 ,now A ∩ B cant be greter than either A or B ,if A and B are equal then A ∩ B is also equal to A  or B but in no way it can be greater than either A or B,so invalid since  P(A ∩ B)  = 0.6 >  P(A) </p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>From (i) P(A ∩ B) = .6 ,now A ∩ B cant be greter than either A or B ,if A and B are equal then A ∩ B is also equal to A  or B but in no way it can be greater than either A or B,so invalid since  P(A ∩ B)  = 0.6 >  P(A) </p>
 <p>From (ii) P(A ∪ B) = .8 > P(A) and P(B),also   P(A ∩ B) = .5 + .4 - .6 = 0.8 = .1 < P(A) AND P(B) so valid </p>
 </div>
 <p>&nbsp;</p>
@@ -1013,7 +1013,7 @@ game? [Hint order of the numbers is not important.]
 </tbody>
 </table>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>(i) \(P(A\cup B) = P(A) + P(B) &#8211; P(A\cap B )\)</p>
 <p>= \(P(A\cap B ) = \frac{1}{3} + \frac{1}{5} &#8211; \frac{1}{15}\)</p>
 <p>= \(\frac{7}{15}\)</p>
@@ -1046,7 +1046,7 @@ game? [Hint order of the numbers is not important.]
 <p><strong>Given P(A) = \(  \frac{3}{5} \) and P(B) =  \(\frac{1}{5} \). Find P(A or B), if A and B are mutually exclusive
 events.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>Since A and B are mutually exclusive events</p>
 <p>P(A or B) = P(A) + P(B) </p>
 <p>\(  \frac{3}{5} + \frac{1}{5} =   \frac{4}{5} \)</p>
@@ -1061,7 +1061,7 @@ events.</strong></p>
 (i) P(E or F), (ii) P(not E and not F).</strong></p>
 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>(a) P(E or F) = P(E) + P(F) – P( E and F)</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>(a) P(E or F) = P(E) + P(F) – P( E and F)</p>
 <p>= P(E or F) = \(\frac{1}{4} + \frac{1}{2} &#8211; \frac{1}{8}\) = \(\frac{5}{8}\)</p>
 <p>(b) P( E or F) = P(\(E\cup F\)) = \(\frac{1}{8}\)</p>
 <p>=    P( not E and not F)  = P(\(E\cup F\))’</p>
@@ -1077,7 +1077,7 @@ events.</strong></p>
 <p><strong>Events E and F are such that P(not E or not F) = 0.25, State whether E and F are
 mutually exclusive.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Given, P ( not E or not F ) = 0.25</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Given, P ( not E or not F ) = 0.25</p>
 <p>= P(\(E’ \cup F’\)) = 0.25</p>
 <p>= P(\(E’ \cap F’\)) = 0.25</p>
 <p>= P(\(E\cup F\)) = 1- P(\(E\cup F\))’</p>
@@ -1092,7 +1092,7 @@ mutually exclusive.</strong></p>
 <p><strong>A and B are events such that P(A) = 0.42, P(B) = 0.48 and P(A and B) = 0.16.
 Determine (i) P(not A), (ii) P(not B) and (iii) P(A or B) Find:</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>(a) P(not A) = 1 – P(B) = 1 – 0.42 = 0.58</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>(a) P(not A) = 1 – P(B) = 1 – 0.42 = 0.58</p>
 <p>(b) P(not B) = 1 – P(C) = 1 – 0.42 = 0.52</p>
 <p>(c) P( A or B) = P(A) + P(B) – P( A and B)</p>
 <p>= 0.42 + 0.48 – 0.16 = 0.74</p>
@@ -1107,7 +1107,7 @@ Biology. 10% of the class study both Mathematics and Biology. If a student is
 selected at random from the class, find the probability that he will be studying
 Mathematics or Biology.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>You will need a little knowledge of set intersection,as recommended please visit here <a href="www.ncertsolved.com/tutorials/sets-tutorial"></a></p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>You will need a little knowledge of set intersection,as recommended please visit here <a href="www.ncertsolved.com/tutorials/sets-tutorial"></a></p>
 <p>so if there are 100 students,40 study mathematics,30 s tudy biology and 10 students both maths and biology</p>
 <p>so no of students who study maths or biology = 40 + 30 - 10(because the person who studies both biology and maths have been counted twice,once in who study maths and once who study biology so need to subtract once)     </p>
 <p> Also you can think of venn diagram,but what is written in tutorial and said above is the basic thinking behind venn diagram too,so its imprtant that you understand that</p>
@@ -1124,7 +1124,7 @@ of a randomly chosen student passing the first examination is 0.8 and the probab
 of passing the second examination is 0.7. The probability of passing atleast one of
 them is 0.95. What is the probability of passing both?</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p> probability of passing atleast one of them means it will include cases where student passed first examination + 
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p> probability of passing atleast one of them means it will include cases where student passed first examination + 
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -1136,7 +1136,7 @@ Hindi is 0.5 and the probability of passing neither is 0.1. If the probability o
 passing the English examination is 0.75, what is the probability of passing the
 Hindi examination?.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br><p>Let A = student pass english,B = student pass hindi</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Let A = student pass english,B = student pass hindi</p>
 <p>We are given P(A and B) =  .5 </p>
 <p>P(not A and not B) = 0.1</p>
 <p>p(not A and not B) = 1 - P(A or B) </p>
@@ -1161,7 +1161,7 @@ probability that
 (ii)The student has opted neither NCC nor NSS.
 (iii)The student has opted NSS but not NCC?.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;"><br>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 
 
 <p>If you have understood the sets tutorial then you can do it in mind,and then you can check with venn diagram,you have done exsactly right</p>
