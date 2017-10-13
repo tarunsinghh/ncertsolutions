@@ -26,7 +26,7 @@ experiment.</strong></p>
 
 <p><strong><em>2. A die is thrown two times.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Aossible outcomes when a die is rolled: {1, 2,3,4,5,6}</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Possible outcomes when a die is rolled: {1, 2,3,4,5,6}</p>
 <p>Total number of elements in the sample space  when two dice are rolled = 6\times 6 = \(6^{2}=36\)</p>
 <p>Sample space = { (1,1) , (1,2) , (1,3) , (1,4) , (1,5) , (1,6) ,  (5,1) , (5,2) ,( 5,3) , (5,4) , (5,5), (5,6) , (3,1) , (3,2) , (3,3) , (3,4) , (3,5) , (3,6) , (4,1) , (4,2) , (4,3) , (4,4) , (4,5) ,(4,6) , (2,1) , (2,2) , (2,3) , (2,4) ,(2,5) , (2,6) , (6,1) , (6,2) , (6,3) , (6,4) , (6,5) , (6,6)  }</p>
 </div>
@@ -45,7 +45,7 @@ experiment.</strong></p>
 </em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
-<p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
+<p>Possible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Thus, sample space of a coin and a die when thrown together</p>
 <p>D = { H1 ,H2 ,H3 ,H4 ,H5 ,H6 ,T1 , T2 , T3 , T4 ,T5 , T6  }</p>
 </div>
@@ -56,7 +56,7 @@ experiment.</strong></p>
 </em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We all know that a unbiased coin has a head (H) and a tail (T)</p>
-<p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
+<p>Possible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Dice will be rolled only when head will come,if tail comes then prcoess ends there</p>
 <p>Thus, sample space of a coin and a die when thrown together</p>
 <p>D = { H1 , H2 , H3 ,H4 ,H5 ,H6 , T }</p>
@@ -83,7 +83,7 @@ sample space for the experiment in which a room is selected and then a person.</
 bag. One die is selected at random and rolled, its colour and the number on its
 uppermost face is noted. Describe the sample space.</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Aossible outcomes when a die is thrown: 1,2,3,4,5 and 6.</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Possible outcomes when a die is thrown: 1,2,3,4,5 and 6.</p>
 <p>Let us consider red, white and blue coloured dices be C , W and B respectively.</p>
 <p>According to the question, sample space when a die is rolled = {  C1 ,C2,C3,C4,C5,C6, W1 , W2 , W3 , W4 , W5 , W6 , B1 , B2 , B3 , B4 , B5 , B6 }</p>
 <p>Total elements in sample space = 6+6+6 (one each for each colour)</p>
@@ -127,7 +127,7 @@ sample space?</em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
-<p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
+<p>Possible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Sample space of the experimental setup = {,HT , HH ,T1 , T2 , T3 , T4 , T5 , T6  }</p>
 </div>
 <p>&nbsp;</p>
@@ -156,7 +156,7 @@ an even number, the die is thrown again. What is the sample space for the
 experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
-<p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
+<p>Possible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>Sample space of the experiment = {H1, H21 , H22 , H23 , H24 , H25 , H26 , H3 , H41 , H42 , H43 , H44 , H45 , H46 , H5 , H61 , H62 , H63 , H64 , H65 , H66, T }</p>
 <p>No of elements in sample space = \( 1 + 3 + 3\times 6 =22 \)</p>
 </div>
@@ -180,7 +180,7 @@ the sample space for this experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>We all know that an unbiased coin has a head (H) &amp; a tail (T)</p>
-<p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
+<p>Possible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>sample space of the conducted experiment = { 5TT , 5TH , 5HT , 5HH ,3TT , 3TH , 3HT , 3HH , 1TT , 1TH ,1HT , 1HH , 6T , 6H , 4T , 4H , 2T , 2H }</p>
 </div>
 <p>&nbsp;</p>
@@ -199,7 +199,7 @@ experiment?<em></strong></p>
 <p><strong><em>16.A die is thrown repeatedly untill a six comes up. What is the sample space for
 this experiment?<em></strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Aossible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p>Possible outcomes when a die is thrown: 1, 2,3,4,5 and 6</p>
 <p>In this experiment 6 might come up in the 1<sup>st</sup> throw, 2<sup>nd</sup> throw, 3<sup>rd</sup> throw and so on …….</p>
 <p>Therefore , the sample space of the experiment = { 6 , (1,6) , (2,6)  , (3,6) , (4,6) , (5,6) , ( 1,1,6) , (1,2,6)  ……… (1,5,6) , (2,1,6) ,  (2,2,6) ……………. (2,5,6) ………(5,1,6) , (5,2,6) and so on infinte... }</p>
 </div>
@@ -1124,7 +1124,17 @@ of a randomly chosen student passing the first examination is 0.8 and the probab
 of passing the second examination is 0.7. The probability of passing atleast one of
 them is 0.95. What is the probability of passing both?</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
-<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br><p> probability of passing atleast one of them means it will include cases where student passed first examination + 
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Probability of passing atleast one of them can be confusing for some students</p>
+<p>Lets say a students pass only  first exam,will he come in passing atleast one of them</p>
+<p>The answer will be yes,as he had passed on of the exam</p>
+<p>Now Lets say a students pass only  exam,will he come in passing atleast one of them</p>
+<p>The answer will be yes,as he had passed on of the exam</p>
+<p>Now there will be some students who passed both first and second exam ,will they be included in passing atleast one of them</p>
+<p>The answer will be yes,as they  had passed atleast one exam</p>
+<p>so P(passing at least one ) is simply another way of saying P(passing exam 1 or exam 2)</p>
+<p>Using P(A or B) = P(A) + P(B) - P(A and B)</p>
+<p>P(A and B) = P(A) + P(B) - P(A or B) = .8 + .7 -.95 = .55 </p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
