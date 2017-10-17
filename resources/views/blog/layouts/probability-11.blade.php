@@ -1374,7 +1374,7 @@ envelope address,so its better to list all combinations</p>
 <p>&nbsp;</p>
 
 
-<p><strong>Question 6:<br/>
+<p><strong>Question 7:<br/>
 A and B are two events such that P(A)  = 0.54, P(B) = 0.69 and P(A ∩ B) = 0.35.
 Find (i) P(A ∪ B) (ii) P(A  ́ ∩ B  ́ ) (iii) P(A ∩ B') (iv) P(B ∩ A')</strong></p>
 
@@ -1400,7 +1400,7 @@ P(B ∩  A') = P(B) - P( A ∩  B ) = .69 - .35 = .34 </p>
 
 
 
-<p><strong>Question 7:<br/>
+<p><strong>Question 8:<br/>
 From the employees of a company, 5 persons are selected to represent them in
 the managing committee of the company. Particulars of five persons are as follows:
 S. No.      Name     Sex       Age in years
@@ -1468,8 +1468,8 @@ If 4-digit numbers greater than 5,000 are randomly formed from the digits
 
 
 
-<p><strong>Question 9:<br/>
-10. The number lock of a suitcase has 4 wheels, each labelled with ten digits i.e.,
+<p><strong>Question 10:<br/>
+The number lock of a suitcase has 4 wheels, each labelled with ten digits i.e.,
 from 0 to 9. The lock opens with a sequence of four digits with no repeats. What
 is the probability of a person getting the right sequence to open the suitcase?
 </strong></p>
