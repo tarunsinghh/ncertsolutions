@@ -1194,14 +1194,294 @@ are selecting from 60 students,so we might select student who not play any NSS o
 <p>&nbsp;</p>
 
 
+<p><strong>Question 1:<br/>
+A box contains 10 red marbles, 20 blue marbles and 30 green marbles. 5 marbles
+are drawn from the box, what is the probability that
+(i) all will be blue? (ii) atleast one will be green?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>So there are 10 R,20 B,30 G marbles,total marbles = 10 + 20 + 30 = 60</p>
+<p>So total no of outcomes = no of ways of choosing 5 balls out of 60 </p>
+<p>i)All will be blue- for all 5 balls taken out to be blue</p>
+<p>No of ways = choosing 5 out of 20 = </p>
+<p>P(5 balls selected will be all blue) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{^{ 20}C_{ 5 }}{^{ 60 }C_{ 5 }}   \)</p> </p><p></p>
+<p>ii)atleast onewill be green </p>
+<p>We have two methods to solve it,one is simple and time saving and beautiful and other is straightforwawrd
+but needs a little attention and a bit lengthy but you should know both approach and verify that both
+approach are giving same answers</p>
+<p>The first is you find probabilty of not choosing a green ball and then subtract it from 1     </p>
+<p>P(not choosing a green ball) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \( \frac{^{ 30}C_{ 5 }}{^{ 60 }C_{ 5 }}   \)</p> </p><p></p>
+<p>Probability of choosing of atleast one green ball = \( 1 - P(choosing a green ball) \)</p>
+<p>= \( 1 -   \frac { ^{ 30 }C_{ 5 } }    {^{ 60 }C_{ 5 }}         \)         </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 2:<br/>
+4 cards are drawn from a well – shuffled deck of 52 cards. What is the probability
+of obtaining 3 diamonds and one spade?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>We have Spade,Heart,Club,Diamond each have 13 cards </p>
+<p>So favorable no of outcomes = choosing 3 out of 13 and 1 out of 13 = \( ^{ 13 }C_{ 3 }\times ^{ 13 }C_{ 1 }  \)</p>
+<p>P(not choosing a green ball) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \(  \frac { ^{ 13 }C_{ 3 }\times ^{ 13 }C_{ 1 }  }    {^{ 52 }C_{ 4 }}         \)         </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 3:<br/>
+A die has two faces each with number ‘1’ , three faces each with number ‘2’ and
+one face with number ‘3’. If die is rolled once, determine
+(i) P(2)
+(ii)P(1 or 3)
+(iii)P(not 3)?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>i)P(2)</p>
+<p>Favorable outcomes = 3 {three faces each with number ‘2’}</p>
+<p>P(2) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \(  \frac {3} {6} = \frac{1}{2}           \)         </p>
+
+<p>ii)P(1 or 3)
+<p>Favorable outcomes = 3 {two faces each with number 1 and one face with number 3}</p>
+<p>P(1 or 3) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \(  \frac {3} {6} = \frac{1}{2} \) </p>
+
+(iii)P(not 3)?
+
+<p>ii)P(not 3)
+<p>P(not 3) = 1 - P(3)</p>
+<p>Favorable outcomes for 3 = 1 { and one face with number 3}</p>
+<p>P(3) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \(  \frac {1} {6} \) </p>
+<p>P(not 3) = 1 - P(3)</p>
+<p>= \( 1-   \frac {1} {6}=  \frac{5}{6} \) </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
 
+<p><strong>Question 4:<br/>
+In a certain lottery 10,000 tickets are sold and ten equal prizes are awarded.
+What is the probability of not getting a prize if you buy (a) one ticket (b) two
+tickets (c) 10 tickets ?
+</strong></p>
+
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+
+<p>There are some things to be understand.There are 10000 lottery tickets ,out of which 10 has prizes,10 out of 
+10000 lottery tickets has prizes</p>
+<p>No of favorable outcomes for not getting a prize when you bought just one ticket = 10000 - 10 = 9990               </p>
+<p>P(not getting a prize when you bought just one ticket) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \(  \frac{9990}{10000} \)  </p>
+
+
+<p>Now part b and c are kind of same                </p>
+<p>Total no of ways of choosing two tickets =                </p>
+<p>No of ways of choosing two tickets so that you dont win prize on any of them = you need to pick from 9990 tickets</p>
+<p>P(not getting prize when bought 2 tickets) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \(  \frac{^{ 9990 }C_{ 2 }}{^{ 10000 }C_{ 2 }} \)  </p>
+<p>iii)Similarly,
+<p>P(not getting prize when bought 10 tickets) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>= \(  \frac{^{ 9990 }C_{ 10 }}{^{ 10000 }C_{ 10 }} \)  </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
+<p><strong>Question 5:<br/>
+Out of 100 students, two sections of 40 and 60 are formed. If you and your friend
+are among the 100 students, what is the probability that
+(a) you both enter the same section?
+(b) you both enter the different sections?
+</strong></p>
 
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+
+<p>This is a very good question </p>
+<p>Lets talk about the total no of outcomes here</p>
+<p>We have to form two sections of 40 students and 60 students are formed</p>
+<p>How many ways this could be done</p>
+<p>Lets simplify it to there are only 10 students and two sections are to be formed of 4 and 6 students</p>
+<p>Question is still the same ? How many ways ?</p>
+<p>Lets select 4 students out of 10 </p>
+<p>Lets first name the students : S1,S2,S3,S4,S5,S6,S7,S8,S9,S10</p>
+<p>So lets select 4 students out of 10</p>
+<p>S1,S2,S3,S4</p>
+<p>S4,S7,S8,S9</p>
+<p>Now if we select S4,S7,S8,S9 then we have this section of 4 students </p>
+<p>Then other section of 6  students will have S1,S2,S3,S5,S6,S10</p>
+<p>So total no of outcomes = select 40 out of 100 or select 60 out of 100</p>
+<p>Now lets talk about favorable outcome:both enter same section</p>
+<p>So you can think this like you and your friend are put aside ,then we can select 38 more from 98 students</p>
+<p>Similarly for section of 60 students</p>
+<p>This will give you all the combinations of you and your friend in one group</p>
+
+<p>P(both enter same section) =  \(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>\(\frac{No.\,of\,favourable\,outcomes}{Total\,no.\,of\,outcomes}\)</p>
+<p>\(\frac{ ^{98 }C_{ 38 } + ^{98 }C_{ 58 } } { ^{100 }C_{40} }\)</p>
+<p>\( \frac{39\times 40 + 60\times 59}{100\times 99}       \)</p>
+<p>\(frac{17}{33} \)</p>
+<p>P(enter different section ) =  1- P(same section) = \(  1  - \frac{17}{33}  = \frac{16}{33}  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 6:<br/>
+Three letters are dictated to three persons and an envelope is addressed to each
+of them, the letters are inserted into the envelopes at random so that each envelope
+contains exactly one letter. Find the probability that at least one letter is in its
+proper envelope.</strong></p>
+
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is a very good question,the key is to panic ,some questions where you dont have a clue you can solve it
+basic counting</p>
+
+<p>Since we have to found fo atleast one letter in its correct envelope </p>
+<p>We will find out as we used to do 1 - P(all are in different envelope)</p>
+
+<p>Now for envelope 1,if the letter is of 2 and 3,then its of different address</p>
+
+<p>Now if we consider envelope 2 it may happen its address was given to 1,then it has 2 ways -we can put address  
+of 1 or 3,if it was not given,instead address 3 was given to first envelope then we have only one way to put first
+envelope address,so its better to list all combinations</p>
+
+<p>Lets say 123 denotes the correct combination that means first has first,secind has secind and third has its third address
+<p>231</p>
+<p>312</p>
+<p>Total no of ways  = 3!</p>
+<p>P(all envelopes get different address) =  1 - P(all are in different envelopes)</p>
+<p>\(  1 - \frac{2}{6} = \frac{4}{6}   = \frac{2}{3}                   \)</p>
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 6:<br/>
+A and B are two events such that P(A)  = 0.54, P(B) = 0.69 and P(A ∩ B) = 0.35.
+Find (i) P(A ∪ B) (ii) P(A  ́ ∩ B  ́ ) (iii) P(A ∩ B') (iv) P(B ∩ A')</strong></p>
+
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>i)We know that    P(A ∪ B) =  P(A)  + P(B) - P(A ∩ B)  </p>
+<p> P(A ∪ B) =  0.54 + 0.69 - 0.35 </p>
+<p> P(A ∪ B) =  1.23  - 0.35 = 0.85 </p>
+
+<p>ii) P(A' ∩  B')  = P(A ∪ B)' = 1 - P(A ∪ B) =  1 - 0.85 = 0.15 </p>
+<p>iii) P(A ∩  B') Now this is litte tricky ,T
+
+A ∩  B' contains elements which are in A but not in B i.e A-B ,A ∩  B' is another of writing A-B.
+
+P(A ∩  B') = P(A) - P(A ∩  B) = .54 - .35 = .19 </p>
+
+<p>iv)Similarly 
+P(B ∩  A') = P(B) - P( A ∩  B ) = .69 - .35 = .34 </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 7:<br/>
+From the employees of a company, 5 persons are selected to represent them in
+the managing committee of the company. Particulars of five persons are as follows:
+S. No.      Name     Sex       Age in years
+
+1.          Harish   M            30
+2.          Rohan    M            33
+3.          Sheetal  F            46
+4.          Alis     F            28
+5.          Salim    M            41
+
+A person is selected at random from this group to act as a spokesperson.What is
+the probability that the spokesperson will be either male or over 35 years?</strong></p>
+
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>This one is easy,we have 4 cases {Harish,Rohan,Sheetal,Salim}</p>
+<p>P(either male or over 35 years)  = \frac{4}{5}    </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 9:<br/>
+If 4-digit numbers greater than 5,000 are randomly formed from the digits
+0, 1, 3, 5, and 7, what is the probability of forming a number divisible by 5  when,
+(i) the digits are repeated? (ii) the repetition of digits is not allowed?
+
+</strong></p>
+
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+
+<p>This is a good question,needs attention .
+
+<p>Lets the digits are _ _ _ _ _ </p>
+<p>4 digits number greater than 5000 when digits can repeat = total no of outcomes = \(2\times 5\times 5\times 5 \)</p>
+<p>one number will be 5000 in tem so total =249 </p>
+
+
+
+<p>i)Digits are repeated
+<p>Units place have two options 0,5 rest all have 5 so \(  5\times 5\times 2\times 2 = 100          \)</p>
+<p>one no will be 5000,so favorable outcomes = 99.</p>
+<p>Probabilty(divisible by 5 when digits can repeat) = \(  \frac{99}{249}   \)</p>
+
+<p>ii)Digits can repeat</p>
+<p>Total numbers greater than 5000 = \( 2\times 4\times 3\times 2 = 48       \)          </p>
+
+
+<p>When 5 digit is 5 then we can have only 0 as units digit </p>
+<p>So total numbers = \( 3\times 2 = 6 \)</p>
+
+
+<p>Next we have to calculate all numbers starting with 7</p>
+<p>So then we can have  0 ,5 at units place and for other places we have 5 choices</p>
+<p>so total  numbers  =
+\( 2\times 3\times  2 = 12          \)</p>
+
+<p>P(forming a 4 digit number divisible by 5 when digits cant repeat) = \( \frac{18}{48}  = \frac{3}{8}  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 9:<br/>
+10. The number lock of a suitcase has 4 wheels, each labelled with ten digits i.e.,
+from 0 to 9. The lock opens with a sequence of four digits with no repeats. What
+is the probability of a person getting the right sequence to open the suitcase?
+</strong></p>
+
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>total ways = \( 10\times 9\times 8\times 7 = 5040 \)</p>
+<p>out of those 5040 there will be only one way in which person gets the right sequence</p>
+<p>so P(GETTING RIGHT SEQUENCE) = \(   \frac{1}{5040} \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <div id="disqus_thread"></div>
 <script>
@@ -1226,8 +1506,6 @@ are selecting from 60 students,so we might select student who not play any NSS o
     })();
 </script>
 <noscript>Alease enable JavaDcript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-
 
 
 
