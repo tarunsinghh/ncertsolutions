@@ -155,16 +155,190 @@ height 2.5 m, with base dimensions 4 m × 3 m?. </strong></p>
 
 
 
+<p><strong><em>Exercise 13.2</em></strong></p>
+
+<p><strong>Question 1:<br/>
+The curved surface area of a right circular cylinder of height 14 cm is 88 cm 2 . Find the
+diameter of the base of the cylinder. </strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+
+<p>This is simple</p>
+<p>\(  2\times \pi\times r\times 14 = 88           \)</p>
+<p>\(    r\times 14 = 14           \)</p>
+<p>\(    r = 1,d = 2 cm      \)</p>
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
 
 
 
+<p><strong>Question 2:<br/>
+It is required to make a closed cylindrical tank of height 1 m and base diameter 140 cm
+from a metal sheet. How many square metres of the sheet are required for the same?. </strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Since we have to make close cylinder,along with curved surface we need area of two circles bottom and upper part </p>
+<p>r = 70 cm       </p>
+<p>Total area of closed cylinder = \(  2\pi\times r\times h + 2\pi\times r^{2}   \)</p>
+<p> = \( 2\times \frac{22}{7} (   70\times 1 + 70\times 70 ) \)</p>
+<p> = \( 2\times 22 (   710 ) \)</p>
+<p> = 7.48 \( m^{2}   \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 3:<br/>
+3. A metal pipe is 77 cm long. The inner diameter of a cross
+section is 4 cm, the outer diameter being 4.4 cm
+(see Fig. 13.11). Find its
+(i) inner curved surface area,
+(ii) outer curved surface area,
+(iii) total surface area.</strong></p>
+<h3 class="azc_tsh_toggle style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Inner curved surface area = \(  2\pi\times 2\times 77   =   968 cm^{2}             \)</p>
+<p>Outer curved surface area = \(  2\pi\times 2.2\times 77  = 1064.8 cm^{2}                \)</p>
+<p>Total surface area will include area of inner region and area of outer region</p>
+<p>Total surface area = \( curved surface area of inner and outer region + area of outer circular end - area of inner circular ends \)</p>
+<p>= \(  968 + 1064.8 + 2\times \pi (2.2^{2} - 2^{2}) = 2032.8 + 5.28 = 2038.08 cm^{2} \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 3:<br/>
+The diameter of a roller is 84 cm and its length is 120 cm. It takes 500 complete
+revolutions to move once over to level a playground. Find the area of the playground
+in \( m^{2} \) </strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>In one revolution it will area equal to its curved surface area </p>
+<p>Curved surface area of roller = \( 2\times \pi\times 42\times 120 = 31680 cm^{2}               \)</p>
+<p>Area of playground = \(  500\times 31680 = 15840000 cm^{2} = 1584 m^{2}  \) </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 4:<br/>
+A cylindrical pillar is 50 cm in diameter and 3.5 m in height. Find the cost of painting
+the curved surface of the pillar at the rate of 12.50 per m 2 .</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p> Curved surface area of pillar = \(  2\times \pi\times .2\times 3.5 =    5.5 m^{2}                   \)</p>
+<p>Cost of painting the curved surface area of pillar = \(  5.5\times 12.50 = 68.75 Rs  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 5:<br/>
+Curved surface area of a right circular cylinder is 4.4 m 2 . If the radius of the base of the
+cylinder is 0.7 m, find its height..</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>We dont need area of base,we only need area of 4 front parts and upper part      </p>
+<p>Tarpulin required = \(   2(2.5\times 4 + 2.5\times 3 ) + 4\times 3  = 2(10 + 7.5 ) + 12 = 2(17.5) = 35 + 12 = 47 cm^{2}              \)    </p>
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 6:<br/>
+7. The inner diameter of a circular well is 3.5 m. It is 10 m deep. Find
+(i) its inner curved surface area,
+(ii) the cost of plastering this curved surface at the rate of  40 per m 2 .</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Inner curved surface area = \(  2\times \pi\times 1.75\times 10 = 110 m^{2}                   \)</p>
+<p>Cost of plastering the curved surface = \(  110\times 40 = 4400 Rs \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 7:<br/>
+In a hot water heating system, there is a cylindrical pipe of length 28 m and diameter
+5 cm. Find the total radiating surface in the system.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>Total radiating surface = curved surface area = \( 2\times \pi\times \frac{5}{200}\times 28 = 4.4 m^{2} \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
 
+<p><strong>Question 8:<br/>
+Find
+(i) the lateral or curved surface area of a closed cylindrical petrol storage tank that is
+4.2 m in diameter and 4.5 m high.
+1
+(ii) how much steel was actually used, if 
+of the steel actually used was wasted in
+making the tank. .</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>i) Curved surface area = \(  2\times \pi\times 2.1\times 4.5 = 59.4 m^{2}  \)</p>
+<p>ii) Now \(  \frac{1}{12} of the steel actually used was wasted in making the tank         \)</p>
+<p>So total sheet used was \frac{11}{12} of the total steel</p>
+<p>Let the total used steel be A </p>
+<p>\(  \frac{11}{12}\times A = total surface area of tank                            \)</p>
+<p> \(  \frac{11}{12}\times A = \frac{59.4\times 12}{11} =   59.4 + 2\times \pi ( 2.1^{2})                  \)</p>
+<p>\(   A = \frac{87.12\times 12}{11} = 95.04 m^{2}   \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 9:<br/>
+Find In Fig. 13.12, you see the frame of a lampshade. It is to be
+covered with a decorative cloth. The frame has a base
+diameter of 20 cm and height of 30 cm. A margin of 2.5 cm
+is to be given for folding it over the top and bottom of the
+frame. Find how much cloth is required for covering the
+lampshade.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>So we will first cover lampshade and then we will turn the cloth and then cover 2.5 cm more </p>
+<p>Now for margin it has same radius as of lampshade ,its also same cylinder ,so we will be using 
+same \( 2\times \pi\times r\times h  \),but what is the height of the cylinder,its 2.5 cm</p>
+<p>So area of cloth required = \( 2\times \pi\times r\times 30 +   2\times \pi\times r\times 2.5 \)</p>
+<p>= \( 2\times \pi\times r(30 + 2.5\times 2) = 2200 cm^{2}                        \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 10:<br/>
+11. The students of a Vidyalaya were asked to participate in a competition for making and
+decorating penholders in the shape of a cylinder with a base, using cardboard. Each
+penholder was to be of radius 3 cm and height 10.5 cm. The Vidyalaya was to supply
+the competitors with cardboard. If there were 35 competitors, how much cardboard
+was required to be bought for the competition?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>For making penholder we need to include the base area too,rest is simple</p>
+<p>Area of one penholder = \( 2\times \pi\times 3\times 10.5 + 2\times \pi\times 3^{2} = \frac{1584}{7} cm^{2}         \)</p>
+<p>Area of cardboard required = \( 35\times \frac{1584}{7} = 7920 cm^{2}  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 @stop
