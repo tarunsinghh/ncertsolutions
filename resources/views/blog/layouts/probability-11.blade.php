@@ -1194,6 +1194,9 @@ are selecting from 60 students,so we might select student who not play any NSS o
 <p>&nbsp;</p>
 
 
+<p style="text-align: center;"><strong>Miscelleneous Exercise on chapter 16</strong></p>
+
+
 <p><strong>Question 1:<br/>
 A box contains 10 red marbles, 20 blue marbles and 30 green marbles. 5 marbles
 are drawn from the box, what is the probability that

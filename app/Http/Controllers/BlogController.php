@@ -162,7 +162,9 @@ return;
        ),
       '9'=>array (
 
-        array('Triangles','triangles')
+        array('Triangles','triangles'),
+        array('Surface Areas and Volumes','surface-areas-and-volumes-9')
+
       ),
       '11'=>array (
 
