@@ -431,9 +431,6 @@ The slant height and base diameter of a conical tomb are 25 m and 14 m respectiv
 Find the cost of white-washing its curved surface at the rate of  210 per 100 m 2 ..</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
-<p>For making penholder we need to include the base area too,rest is simple</p>
-<p>Area of one penholder = \( 2\times \pi\times 3\times 10.5 + 2\times \pi\times 3^{2} = \frac{1584}{7} cm^{2}         \)</p>
-<p>Area of cardboard required = \( 35\times \frac{1584}{7} = 7920 cm^{2}  \)</p>
 <p>Curved surface area = \( \pi\times 7\times 25 = 550 m^{2} \)</p>
 <p>Cost of white washing = \(  \frac{210}{100}\times 550 = 1155 Rs \)</p>
 </div>
@@ -447,9 +444,6 @@ Find the cost of white-washing its curved surface at the rate of  210 per 100 m 
 24 cm. Find the area of the sheet required to make 10 such caps.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
-<p>For making penholder we need to include the base area too,rest is simple</p>
-<p>Area of one penholder = \( 2\times \pi\times 3\times 10.5 + 2\times \pi\times 3^{2} = \frac{1584}{7} cm^{2}         \)</p>
-<p>Area of cardboard required = \( 35\times \frac{1584}{7} = 7920 cm^{2}  \)</p>
 <p>We only have to consider curved surace area</p>
 <p>Area of sheet required for making 10 caps = \( 10\times \pi\times 7\times \sqrt{7^{2} + 24^{2}}  \)</p>
 <p>= \(  10\times \pi\times 7\times 25 = 5500 cm^{2} \)</p>
