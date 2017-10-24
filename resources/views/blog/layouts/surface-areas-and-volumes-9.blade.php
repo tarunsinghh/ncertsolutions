@@ -341,5 +341,165 @@ was required to be bought for the competition?</strong></p>
 <p>&nbsp;</p>
 
 
+<p><strong><em>Exercise 13.3</em></strong></p>
+
+
+
+<p><strong>Question 1:<br/>
+Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm. Find its curved
+surface area.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Curved surface area of cone =  \(  \pi\times rl + \pi\times r^{2}                 \)</p>
+<p>\(  \pi\times 5.25\times 10                 \)</p>
+<p> = 165 cm^{2} </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 2:<br/>
+Find the total surface area of a cone, if its slant height is 21 m and diameter of its base
+is 24 m.?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>Total surface area of cone = curved surface area + area of base</p>
+<p>= \(  \pi\times rl + \pi\times r^{2}                 \)</p>
+<p>\(  \pi\times 12\times 21 + \pi\times 12^{2}                 \)</p>
+<p> = 1244.57 cm^{2} </p>
+
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 3:<br/>
+3. Curved surface area of a cone is 308 cm 2 and its slant height is 14 cm. Find
+(i) radius of the base and (ii) total surface area of the cone.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Curved surface area of cone = \(  \pi\times r\times l                 \)</p>
+<p>308 = \(  \pi\times r\times 14                       \)</p>
+<p> r = \frac{308}{44} = 7 cm             </p>
+<p>Total surface area = curved surface area + area of base </p>
+<p>= \(  308 + \pi\times 49 = 462 cm^{2}  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 4:<br/>
+A conical tent is 10 m high and the radius of its base is 24 m. Find
+(i) slant height of the tent.
+(ii) cost of the canvas required to make the tent, if the cost of 1 m 2 canvas is 70.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Slant height = \(  \sqrt{10^{2} + 24^{2}} = \sqrt{676} = 26 m \)</p>
+<p>Now tent will only be used around the curved surface,so curved surface area of cone = \(  \pi\times 12\times 26      \)</p>
+<p>= \(  \frac{13728}{7} m^{2}                    \)</p>
+<p>Cost of making canvas = \( \frac{13728}{7}\times 70 = 137280 Rs \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 5:<br/>
+What length of tarpaulin 3 m wide will be required to make conical tent of height 8 m
+and base radius 6 m? Assume that the extra length of material that will be required for
+stitching margins and wastage in cutting is approximately 20 cm (Use π = 3.14).</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Slant height = \(  \sqrt{8^{2} + 6^{2}} = \sqrt{100} = 10 m \)</p>
+<p>Curved surface area of cone = \( \pi\times r\times l      \)</p>
+<p>= \( \pi\times 6\times 10 = 188.4 m^{2} \)</p>
+<p>Let l is the length required to cover that tent,out of l .02 m will be used for margin</p>
+<p>so, \(  3\times (l - 0.02) = 188.4                  \)  </p>
+<p>\(  3l  = 188.46,l = 62.82 m                  \)  </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 6:<br/>
+The slant height and base diameter of a conical tomb are 25 m and 14 m respectively.
+Find the cost of white-washing its curved surface at the rate of  210 per 100 m 2 ..</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>For making penholder we need to include the base area too,rest is simple</p>
+<p>Area of one penholder = \( 2\times \pi\times 3\times 10.5 + 2\times \pi\times 3^{2} = \frac{1584}{7} cm^{2}         \)</p>
+<p>Area of cardboard required = \( 35\times \frac{1584}{7} = 7920 cm^{2}  \)</p>
+<p>Curved surface area = \( \pi\times 7\times 25 = 550 m^{2} \)</p>
+<p>Cost of white washing = \(  \frac{210}{100}\times 550 = 1155 Rs \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 7:<br/>
+7. A joker’s cap is in the form of a right circular cone of base radius 7 cm and height
+24 cm. Find the area of the sheet required to make 10 such caps.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>For making penholder we need to include the base area too,rest is simple</p>
+<p>Area of one penholder = \( 2\times \pi\times 3\times 10.5 + 2\times \pi\times 3^{2} = \frac{1584}{7} cm^{2}         \)</p>
+<p>Area of cardboard required = \( 35\times \frac{1584}{7} = 7920 cm^{2}  \)</p>
+<p>We only have to consider curved surace area</p>
+<p>Area of sheet required for making 10 caps = \( 10\times \pi\times 7\times \sqrt{7^{2} + 24^{2}}  \)</p>
+<p>= \(  10\times \pi\times 7\times 25 = 5500 cm^{2} \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 8:<br/>
+8. A bus stop is barricaded from the remaining part of the road, by using 50 hollow
+cones made of recycled cardboard. Each cone has a base diameter of 40 cm and height
+1 m. If the outer side of each of the cones is to be painted and the cost of painting is
+12 per m 2 , what will be the cost of painting all these cones? (Use π = 3.14 and take
+1.04 = 1.02).</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>Since we have to paint outside of cone ,only curved surface area will be used</p>
+<p>Curved surface area of 50 hollow cones = \( 50\times \pi\times .20\times \sqrt{.2^{2} + 1^{2}}                       \)</p>
+<p>= \( 50\times \pi\times .20\times \sqrt{ .04 + 1}                             \)</p>
+<p>= \( 50\times \pi\times .20\times 1.02 = 50\times .64056 = 32.028 m^{2}   \)</p>
+<p>Cost of painting all 50 cones = \(  32.028\times 12 = 384.336 Rs              \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @stop
+
+
+
+
+
+
+
 
