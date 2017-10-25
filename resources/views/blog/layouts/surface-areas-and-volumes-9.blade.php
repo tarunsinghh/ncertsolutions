@@ -628,6 +628,165 @@ radius r.Find
 <p>&nbsp;</p>
 
 
+
+
+<p><strong><em>Exercise 13.5</em></strong></p>
+
+
+
+<p><strong>Question 1:<br/>
+A matchbox measures 4 cm × 2.5 cm × 1.5 cm. What will be the volume of a packet
+containing 12 such boxes?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of one matchbox = \( 4\times 2.5\times 1.5 = 15  cm^{3}          \)</p>
+<p>Volume of 12 such boxes = \(12\times 15 = 180 cm^{3}  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 2:<br/>
+A cuboidal water tank is 6 m long, 5 m wide and 4.5 m deep. How many litres of water
+can it hold? (1 m 3 = 1000 l).</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of water tank = \( 6\times 5\times 4.5 = 30\times 4.5 = 135 m^{3}             \)</p>
+<p>Now 1 \( m^{3} \) =  1000l </p>
+<p>So,Volume of water tank can hold = \(  135\times 1000 = 135000 l              \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 3:<br/>
+A cuboidal vessel is 10 m long and 8 m wide. How high must it be made to hold 380
+cubic metres of a liquid?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of vessel = \( lbh \)</p>
+<p>380 = \( 10\times 8\times h \)</p>
+<p>80h = 380 </p>
+<p>h = \( \frac{380}{80} \) = 4.75 m</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 4:<br/>
+Find the cost of digging a cuboidal pit 8 m long, 6 m broad and 3 m deep at the rate of
+30 per m3.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of cuboidal pit = \( 8\times 6\times 3 = 144 m^{3}               \)</p>
+<p>Cost of digging the pit = \(  30\times 144 = 4320 Rs  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 5:<br/>
+The capacity of a cuboidal tank is 50000 litres of water. Find the breadth of the tank,
+if its length and depth are respectively 2.5 m and 10 m.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of cuboidal tank = \(  lbh                  \)</p>
+<p>Now 1  \( m^{3} \) = 1000 l </p>
+<p>50 \( m^{3} \) = 25b </p>
+<p>breadth = 2 m </p> 
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 6:<br/>
+A village, having a population of 4000, requires 150 litres of water per head per day. It
+has a tank measuring 20 m × 15 m × 6 m. For how many days will the water of this tank
+last?.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of tank = \(   20\times 15\times 6 = 1800 m^{3} = 1800000 l                 \)</p>
+<p>Required capacity per day for 4000 = \(  4000\times 150 = 600000 l               \)           </p>
+<p>No of days it will last = \( \frac{1800000}{600000}  \) = 3 days               </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 7:<br/>
+A godown measures 40 m × 25 m × 15 m. Find the maximum number of wooden crates
+each measuring 1.5 m × 1.25 m × 0.5 m that can be stored in the godown.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of godawn = \(  40\times 25\times 15 = 10000 m^{3}           \) </p>
+<p>Volume of wooden crates = \( 1.5\times 1.25\times .5 = .9375 m^{3}            \) </p>
+<p>Maximum number of wooden crates that can be stored = \frac{10000}{.9375} = 1066.66 </p>
+<p>That means we can store maximum 1066 wooden crates </p>
+
+
+
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 8:<br/>
+A solid cube of side 12 cm is cut into eight cubes of equal volume. What will be the
+side of the new cube? Also, find the ratio between their surface areas..</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of cube with side 12 cm = \( 12\times 12\times 12 = 1728 cm^{3}               \)</p>
+<p>Volume of new cube = \(  \frac{1}{8}\times 1728 = 216 m^{3}  \)</p>
+<p>Let side of new cube = a               </p>  
+<p>\(  a^{3} = 216 ,a = 6  \)</p>
+<p>Ratio of surface area = \(  \frac{6\times 12^{2}}{6\times 6^{2}} = \frac{144}{36} = 4:1                      \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 9:<br/>
+A river 3 m deep and 40 m wide is flowing at the rate of 2 km per hour. How much water
+will fall into the sea in a minute?.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This question students solve but they dont get the feeling or you can say they dont fully understand it</p>
+<p>Lets consider a pipe connected to some wawter source,a tank or underground source </p>
+<p>Now lets say the length of pipe is l and area of cross section(circular end) is A </p>
+<p>Now when the water source or tank is closed there is no water in the pipe</p>
+<p>But when we open the tap of tank or water source,the water starts coming into pipe</p>
+<p>Now lets say pipe length is l and when we open the tap,water starts coming out from pipe which is length l after t seconds</p>
+<p>Now the whole l length of pipe previously has no water,but now in t seconds the length l is now totally
+filled with water </p>
+<p>That means in t seconds we have A\times l volume of water got filled,this is the only thing you need to understand                </p>
+<p>Now river has cross section of \(  3\times 40 = 120  m^{2}             \) </p>
+<p>Now in 60 minutes 2000 m of river will have water</p>
+<p>Now in 1 minute \(  \frac{2000}{60} = \frac{100}{3} \) m water will flow  </p>
+<p>So the volume of water that will fall in sea = \(  3\times 40\times \frac{100}{3} = 4000 m^{3}   \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @stop
 
 
