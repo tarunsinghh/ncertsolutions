@@ -766,27 +766,139 @@ filled with water </p>
 <p>&nbsp;</p>
 
 
+<p><strong><em>Exercise 13.6</em></strong></p>
+
+
+<p><strong>Question 1:<br/>
+The circumference of the base of a cylindrical vessel is 132 cm and its height is 25 cm.
+How many litres of water can it hold? (1000 cm 3 = 1l)</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>circumference = \(  2\times \pi\times r = 132          \)</p>
+<p>r = 21 cm </p>
+<p>Volume of cylindrical veseel = \( \pi\times r^{2}\times h              \)</p>
+<p>= \( \pi\times 21^{2}\times 25 = 34560 cm^{3}                \)</p>
+<p>1 litre = \(   1000 cm^{3}          \)</p>
+<p>Volume of water it can hold = \(   \frac{34560}{1000} = 345.560 l          \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 2:<br/>
+The inner diameter of a cylindrical wooden pipe is 24 cm and its outer diameter is
+28 cm. The length of the pipe is 35 cm. Find the mass of the pipe, if 1 cm 3 of wood has
+a mass of 0.6 g.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>Volume of pipe = \(  \pi\times h( r_{1}^{2} - r_{2}^{2})        \)</p>
+<p> =  \(  \pi\times 35( 28^{2} - 24^{2})   = 5720 cm^{3}      \)                      </p>
+<p>Mass of pipe = \(  0.6\times 5720 = 3432 g = 3.432 kg                   \)</p>               
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
+<p><strong>Question 3:<br/>
+A soft drink is available in two packs – 
+(i) a tin can with a rectangular base of length
+5 cm and width 4 cm, having a height of 15 cm and (ii) a plastic cylinder with circular
+base of diameter 7 cm and height 10 cm. Which container has greater capacity and by
+how much?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of tin with rectangular base = \(  5\times 4\times 15 = 3000 cm^{3}              \)</p>
+<p>Volume of plastic cylinder with cicular base = \( \pi\times r^{2}\times h                       \)</p>
+<p>= \(  \pi\times (\frac{7}{2})^{2}\times 10 = 385 cm^{3}                           \)</p>
+<p>so volume of plastic cylinder with cylindrical base is greater than with rectangular base by 85 \( cm^{3}\) </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 4:<br/>
+4. If the lateral surface of a cylinder is 94.2 cm 2 and its height is 5 cm, then find
+(i) radius of its base
+(ii) its volume. (Use π = 3.14)</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Lateral surface area of cylinder = \( 2\times \pi\times r\times h                 \)</p>
+<p>94.2 = \( 2\times \pi\times r\times 5 \)</p>
+<p>r = 3 cm </p>
+
+<p>Volume of cylinder = \(  \pi\times r^{2}\times h            \)</p>
+<p> = \( \pi\times 3^{2}\times 5 = 141.3 cm^{3}                          \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
+<p><strong>Question 5:<br/>
+It costs 2200 to paint the inner curved surface of a cylindrical vessel 10 m deep. If
+the cost of painting is at the rate of 20 per m 2 , find
+(i) inner curved surface area of the vessel,
+(ii) radius of the base,
+(iii) capacity of the vessel.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Inner curved  surface area = \( 2\times \pi\times r\times h =  2\times \pi\times r\times 10 = \frac{2200}{20}                              \)</p>
+<p>\( 110 = 2\times \pi\times r\times 10                   \)</p>
+<p>r = 1.75 m </p>
+<p>Volume of vessel = \( \pi\times 1.75^{2}\times 10 = 96.25 m^{3}              \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 6:<br/>
+The capacity of a closed cylindrical vessel of height 1 m is 15.4 litres. How many
+square metres of metal sheet would be needed to make it?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>1000 l = 1 \(  m^{3}      \)</p>
+<p>Volume = \(  0.0154 m^{3}    = \pi\times r^{2}\times 1       \)</p>
+<p>r = 0.07 </p>
+
+<p>Since the cylinder is closed we have to take area of base too </p>
+<p>Area of metal sheet required = \( 2\times \pi\times 0.07\times 1 + 2 \times \pi\times 0.07^{2} = 0.4708 m^{2}                \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
+<p><strong>Question 7:<br/>
+A lead pencil consists of a cylinder of wood with a solid cylinder of graphite filled in
+the interior. The diameter of the pencil is 7 mm and the diameter of the graphite is 1 mm.
+If the length of the pencil is 14 cm, find the volume of the wood and that of the
+graphite.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of graphite = \( \pi\times r^{2}\times h = \pi\times .05^{2}\times 14 = 0.11 cm^{3}         \)</p>
+<p>Volume of wood in pencil = \(  \pi\times 14 (.35^{2} - .05^{2} ) = 5.28 cm^{3}                \)        </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
+<p><strong>Question 8:<br/>
+A patient in a hospital is given soup daily in a cylindrical bowl of diameter 7 cm. If the
+bowl is filled with soup to a height of 4 cm, how much soup the hospital has to prepare
+daily to serve 250 patients?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of soup in one cylindrical bowl = \( \pi\times 3.5^{2}\times 4  = 154 cm^{3}            \)</p>
+<p>Volume of soup for 250 patients = \(  250\times 154 = 38500 cm^{3}    = 38.5 litres       \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
-
-
-
-
-
-
-
+        
 @stop
 
 
