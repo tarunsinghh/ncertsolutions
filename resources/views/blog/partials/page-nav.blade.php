@@ -15,7 +15,7 @@
       <!-- Collection of nav links, forms, and other content for toggling -->
       <div id="navbarCollapse" class="navbar-collapse collapse in" aria-expanded="true" style="">
           <ul class="nav navbar-nav">
-              <li class="active"><a href="#">Home</a></li>
+              <li class="active"><a href="/">Home</a></li>
               <li class="dropdown">
                   <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Tutorials<b class="caret"></b></a>
                   <ul class="dropdown-menu">
