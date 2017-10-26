@@ -768,7 +768,6 @@ filled with water </p>
 
 <p><strong><em>Exercise 13.6</em></strong></p>
 
-
 <p><strong>Question 1:<br/>
 The circumference of the base of a cylindrical vessel is 132 cm and its height is 25 cm.
 How many litres of water can it hold? (1000 cm 3 = 1l)</strong></p>
@@ -898,7 +897,171 @@ daily to serve 250 patients?</strong></p>
 <p>&nbsp;</p>
 
 
-        
+    
+<p><strong><em>Exercise 13.8</em></strong></p>
+
+
+<p><strong>Question 1:<br/>
+Find the volume of the right circular cone with
+(i) radius 6 cm, height 7 cm
+(ii) radius 3.5 cm, height 12 cm</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>i)Volume pf right circular cone = \( \frac{1}{3}\times \pi\times 6^{2}\times 7  \)</p>
+<p>= \( 264 cm^{3}                 \)</p> 
+<p>ii)Volume of cone = \(  \frac{1}{3}\times \pi\times 3.5^{2}\times 12                     \)</p>
+<p>  = 154 \( cm^{3} \)          </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 2:<br/>
+2. Find the capacity in litres of a conical vessel with
+(i) radius 7 cm, slant height 25 cm
+(ii) height 12 cm, slant height 13 cm</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>i) h = \(  \sqrt{25^{2} - 7^{2}} = 24 cm                  \)</p>
+<p>Volume  of vessel = \( \frac{1}{3}\times \pi\times 7^{2}\times 24 = 1232 cm^{3} = 1.232 litres (1000 cm^{3} = 1 litre)                    \)</p>
+<p>ii)radius of veseel = \( \sqrt{13^{2} - 12^{2}} = 5 \) </p>
+<p>Volume = \( \frac{1}{3}\times \pi\times 5^{2}\times 12 = \frac{2200}{7} cm^{3} = \frac{2200}{7000}l = \frac{11}{35} litres \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 3:<br/>
+3. The height of a cone is 15 cm. If its volume is 1570 \( cm^{3}  \), find the radius of the base.
+(Use π = 3.14)</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of cone = \( \frac{1}{3}\times r^{2}\times 15                          \)</p>
+<p>1570 = \( \frac{1}{3}\times 3.14 r^{2}\times 15             \)</p>
+<p>r = 100 cm                                           </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p><strong>Question 4:<br/>
+4. If the volume of a right circular cone of height 9 cm is 48 π cm 3 , find the diameter of its
+base.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of cone = \( \frac{1}{3}\times \pi\times r^{2}\times 9                    \)</p>
+<p>\( 48\times \pi =   \frac{1}{3}\times \pi\times r^{2}\times 9                          \)</p>
+<p>r = 4 cm </p>
+<p>We have to find diamtre = 2r = 2\times 4 =  8 cm </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p><strong>Question 5:<br/>
+A conical pit of top diameter 3.5 m is 12 m deep. What is its capacity in kilolitres?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>This is also a cone,its just inverted,so the volume will remain same </p>
+<p>Volume of pit = \( \frac{1}{3}\times \pi\times r^{2}\times h                          \)</p>
+<p>= \( \frac{1}{3}\times \pi\times 1.75^{2}\times 12 = 38.5 m^{3}                  \)</p>
+<p>1 \( m^{3} \) = 1000 litre = 1 kl </p>
+<p> =  38.5 kilolitres </p>
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p><strong>Question 6:<br/>
+The volume of a right circular cone is 9856 cm 3 . If the diameter of the base is 28 cm,
+find
+(i) height of the cone
+(ii) slant height of the cone
+(iii) curved surface area of the cone.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Volume of cone  = \( \frac{1}{3}\times \pi\times 14^{2}\times h \) = 9586 cm^{3}            </p>
+<p>h = 48 cm           </p>
+
+
+<p>Slant height of cone = \( \sqrt{14^{2} +  24^{2}} = \sqrt{2500} \) = 50 cm </p>
+
+<p>Curved surface area of cone = \( \pi\times r\times l = \pi\times 14\times 50 = 200 cm^{2}                  \)</p>
+
+
+
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p><strong>Question 7:<br/>
+A right triangle ABC with sides 5 cm, 12 cm and 13 cm is revolved about the side 12 cm.
+Find the volume of the solid so obtained.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>When you will reach class 10 ,you will find the same question but in that the triangle is revolved around hypotenus
+so there are two cones formed and you need to use some triangle congruencce condition too</p>
+<p>But this one is very simple </p>
+<p>h = 12 cm ,r = 5 cm </p>
+<p>Volume of solid so obtained = \(  \frac{1}{3}\times \pi\times r^{2}\times h                \)</p>
+<p>= \(  \frac{1}{3}\times \pi\times 5^{2}\times 12 = 100\times \pi cm^{3}                           \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 8:<br/>
+If the triangle ABC in the Question 7 above is revolved about the side 5 cm, then find
+the volume of the solid so obtained. Find also the ratio of the volumes of the two
+solids obtained in Questions 7 and 8.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Now here the height will 5 cm and radius will become 12 cm            </p>
+<p>Volume of solid obtained = \( \frac{1}{3}\times \pi\times 12^{2}\times 5 = 240\pi cm^{3}             \)            </p>
+<p>Ratios of volumes by revolving around 12 cm to revolving around  5 cm  = \( \frac{100\times \pi}{240\times \pi} = \frac{5}{12}  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 9:<br/>
+A heap of wheat is in the form of a cone whose diameter is 10.5 m and height is 3 m.
+Find its volume. The heap is to be covered by canvas to protect it from rain. Find the
+area of the canvas required.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>r = 5.25 m ,h = 3m </p>
+<p>Volume = \(  \frac{1}{3}\times \pi\times 5.25^{2}\times 3 = 86.625 m^{3}                          \)</p>
+<p>Area of canvas required = \( \pi\times 5.25\times \sqrt{5.25^{2} + 3^{2}}                 \)</p>
+<p> = \(   99.825 m^{2}                        \)</p>
+
+</div>
+<p> </p>
+<p> </p>
+<p> </p>
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
 @stop
 
 
