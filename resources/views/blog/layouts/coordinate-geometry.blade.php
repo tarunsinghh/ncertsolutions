@@ -8,7 +8,7 @@
 
 <br/>
 <br/>
-<p  style= "color:red";><strong>If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</strong></p>
+<div class="alert alert-danger" role="alert"> If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</div>
 <p><strong>EXERCISE – 7.1</strong></p>
 <p><strong>Question 1:Find the distance between the following pairs of points :</strong></p>
 <p><strong>Solution:</strong></p>

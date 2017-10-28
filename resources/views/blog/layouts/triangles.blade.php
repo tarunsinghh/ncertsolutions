@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-<p  style= "color:red";><strong>If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</strong></strong></em>
+<div class="alert alert-danger" role="alert"> If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</div>
 
 
 <p><strong><em>Exercise 7.1</em></strong></p>

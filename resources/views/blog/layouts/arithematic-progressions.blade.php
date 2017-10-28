@@ -8,7 +8,7 @@
 
 <br/>
 <br/>
-<p  style= "color:red";><strong>If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</strong></p>
+<div class="alert alert-danger" role="alert"> If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</div>
 <p><strong>EXERCISE – 5.1</strong></p>
 <p><strong><em>Question 1:In which of the following situations, does the list of numbers involved make an arithmetic progression and why ?</em></strong></p>
 
