@@ -74,13 +74,9 @@ In Fig. 6.18, if LM || CB and LN || CD, prove that
 <p>\( \frac{AD}{AN} - 1 =  \frac{AB}{AM} - 1                     \)</p>
 <p>\( \frac{AD}{AN}  =  \frac{AB}{AM}                     \)</p>
 <p>\( \frac{AN}{AD}  =  \frac{AM}{AB}                     \)</p>
-
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
-
 
 
 
@@ -88,7 +84,6 @@ In Fig. 6.18, if LM || CB and LN || CD, prove that
 In Fig. 6.19, DE || AC and DF || AE. Prove that
 \( \frac{BF}{BE} = \frac {BE}{EC} \) </strong></p>
 <p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-2-4.png" alt="8" width="300" height="300" /></p>
-
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>DE || AC </p>
