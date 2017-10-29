@@ -77,7 +77,9 @@
 
            
 
-              
+              <a href="/solutions/triangles-10">
+              <h4 class="post-title">Triangles</h4>
+          </a>  
                
           
                     

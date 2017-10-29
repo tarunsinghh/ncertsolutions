@@ -153,6 +153,7 @@ return;
        array('Pair of Linear Equations in two variables','pair-of-linear-equations-in-two-variables'),
        array('Quadratic Equations','quadratic-equations'),
        array('Arithematic Progressions','arithematic-progressions'),
+       array('Triangles','triangles-10'),
        array('Coordinate Geomtery','coordinate-geometry'),
        array('Some Applications of Triginometry','some-applications-of-triginometry'),
        array('Circles','circles'),
