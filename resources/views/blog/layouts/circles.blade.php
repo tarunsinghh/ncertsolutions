@@ -8,7 +8,7 @@
 
 <br/>
 <br/>
-<p  style= "color:red";><strong>If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</strong></p>
+<div class="alert alert-danger" role="alert"> If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</div>
 
 <p><strong>EXERCISE 10.1</strong></p>
 
@@ -50,7 +50,7 @@ the centre is 25 cm. The radius of the circle is
 (A) 7 cm (B) 12 cm
 (C) 15 cm (D) 24.5 cm</em></strong></p>
 <p><img class="alignnone wp-image-2112" src="/10-1-2-1.png" alt="8" width="400" height="300" /></p>
-<p  style= "color:red";><strong>If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</strong></p><p><strong>Solution:</strong></p>
+<div class="alert alert-danger" role="alert"> If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</div><p><strong>Solution:</strong></p>
 <p>For solving this question we will make use of the theorem:Radius is perpendicular to the tangent at the point of contact to the circle</p>
 <p>Now we can simply apply pythagoras theorem</p>
 <p>\(  OQ^{2}   = OP^{2} + PQ^{2}           \)</p>

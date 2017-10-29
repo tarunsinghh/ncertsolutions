@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">s
+<html lang="en">
   <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108004650-1"></script>
@@ -84,7 +84,20 @@ jQuery(document).ready(function() {
     @include('blog.partials.page-nav')
 
     @yield('page-header')
-    @yield('content')
+    <div class="container">
+  <div class="row">
+    
+    <div class="col-md-10">
+      @yield('content')
+    </div>
+    <div class="col-md-2">
+      
+    </div>
+  </div>
+  <!-- Content here -->
+      
+</div>
+
 
     @include('blog.partials.page-footer')
 
