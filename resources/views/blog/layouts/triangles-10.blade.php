@@ -6,6 +6,9 @@
 						<br/>
 
 <div class="alert alert-danger" role="alert"> If you are seeing MATH PROCESSING ERROR,try ctrl + F5(hard refresh),if that doesnt solve ,clear the cache of your browser</div>
+
+
+<p><strong><em>Exercise 6.2</em></strong></p>
 						
 
 <p><strong>Question 1:<br/>
@@ -15,7 +18,6 @@ Fig. 6.17</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>i)It is given that DE || BC,then using basic proportionality theorem </p>
-
 
 <p>\( \frac{AD}{DB} = \frac{AE}{EC}   \)</p>
 <p>\(  \frac{1.5}{3} = \frac{1}{EC}                \)</p>
@@ -27,8 +29,6 @@ Fig. 6.17</strong></p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
 
 <p><strong>Question 2:<br/>
 E and F are points on the sides PQ and PR
@@ -237,8 +237,477 @@ The diagonals of a quadrilateral ABCD intersect each other at the point O such t
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+
+
+
+<p><strong><em>Exercise 6.3</em></strong></p>
+
+<p><strong>Question 1:<br/>
+State which pairs of triangles in Fig. 6.34 are similar. Write the similarity criterion used by
+you for answering the question and also write the pairs of similar triangles in the symbolic
+form.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-1-1.png" alt="8" width="400" height="300" /></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-1-2.png" alt="8" width="400" height="300" /></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-1-3.png" alt="8" width="400" height="300" /></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-1-4.png" alt="8" width="400" height="300" /></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-1-5.png" alt="8" width="400" height="300" /></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-1-6.png" alt="8" width="400" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>We have two rule for similarity of triangles,one is AAA similarity and other is SAS similarity</p>
+<p>Make sure you have read the proof of these AA and SAS rule from ncert</p>
+<p>(i)</p>
+<p>∠A=∠P = 60<sup>o </sup>(Given)</p>
+<p>∠B =∠Q = 80<sup>o</sup>(Given)</p>
+<p>∠C =∠R = 40<sup>o</sup>(given)</p>
+<p>∴ Δ ABC ~ ΔPQR (AAA similarity criteria)</p>
+
+<p>(ii)</p>
+<p>AC/PQ = BC/PR = AB/QR<br />
+∴  ΔACB ~ ΔQPR (SSS similarity criterion)</p>
+<p>&nbsp;</p>
+
+
+
+<p>(iii)<br/>
+The given triangles  are not similar as corresponding sides are not in proportion </p>
+
+<p>iv)</p>
+<p>∠M = ∠Q</p>
+<p>\(  \frac{MN}{PQ} = \frac{ML}{QR}  \)</p>
+<p>Since one angle and sides containing that angle are in proportion</p>
+<p>∴  ΔNML ~ ΔPQR (By SSS similarity criterion)</p>
+
+
+<p>v)The given triangles BAC ,DEF are not similar to as though <br/>
+<p>∠A = ∠F</p>
+<p>\( but  \frac{BA}{DF} = \frac{1}{2}  and \frac{AC}{FE} is not known asa length of AC is not known  \)</p>
+
+
+<p>vi)</p>
+<p>∠F = 180 - 150 = 30</p>
+<p>∠E = ∠Q = 80<sup>o </sup>(Given)</p>
+<p>∠F =∠R = 70<sup>o</sup>(Given)</p>
+<p>∠D =∠P = 30<sup>o</sup>(given)</p>
+<p>Therefore by AAA similarity ΔEFD ~ ΔQRP </p>
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+<p><strong>Question 2:<br/>
+In Fig. 6.35, Δ ODC ~ Δ OBA, ∠ BOC = 125° and ∠ CDO = 70°. Find ∠ DOC, ∠ DCO and
+∠ OAB.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-2.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p><strong><em> </em></strong>DOB is a straight line.<br />
+Thus, ∠DOC + ∠ COB = 180°<br />
+⇒ ∠DOC = 180° &#8211; 125°<br />
+= 55°</p>
+<p>In ΔDOC,<br />
+∠DCO+ ∠ CDO + ∠ DOC = 180°<br />
+(Sum of the measures of the angles of a triangle is 180º.)<br />
+⇒ ∠DCO + 70º + 55º = 180°<br />
+⇒ ∠DCO = 55°<br />
+Given that ΔODC ~ ΔOBA.</p>
+<p>∴ ∠OAB = ∠OCD  (Corresponding angles are equal in similar triangles)<br />
+⇒ ∠ OAB = 55°<br />
+∴ ∠OAB= ∠OCD   (Corresponding angles are equal in similar triangles)</p>
+<p>⇒ ∠OAB= 55°</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 3:<br/>
+Diagonals AC and BD of a trapezium ABCD with AB || DC intersect each other at the
+point O. Using a similarity criterion for two triangles, show that
+\(  \frac{OA}{OC} = \frac{OB}{OD}  \).</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-2-9.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>In ΔCOD and ΔAOB,<br />
+∠DCO = ∠ABO (Alternate interior angles as AB || DC)<br />
+∠CDO = ∠BAO (Alternate interior angles as AB || DC)<br />
+∠COD = ∠BOA (Vertically opposite angles)<br />
+∴ ΔCOD ~ ΔBOA (AAA similarity criterion)</p>
+<p>∴ CO/BO = OD/OA  (Corresponding sides are proportional)</p>
+<p>⇒ OA/OD = OB/OC</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 4:<br/>
+In fig 6.36  ∠ 1 = ∠ 2 and  \(  \frac{OA}{OC} = \frac{OB}{OD}  \).Show that Δ PQS ~ Δ TQR </p></strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-2-9.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>We have to prove Δ PQS ~ Δ TQR ,we are also given a ratio,so it should be clear we will be using SAS 
+congruence condition </p>
+<p>We are given one more condition also ,∠ 1 = ∠ 2 ,so we may want to use that information </p>
+<p>Now if you consider  Δ PQS  and  Δ TQR</p>
+<p>We have ∠ 1 = ∠ 1 (common)</p>
+<p>Now if we can prove that the ratio of sides including the angle 1 is also equal ,then we can 
+prove the traingles similarity by SAS congruence condition </p>
+<p>We want to proove </p>
+<p>\(   \frac{PQ}{TQ} = \frac{SQ}{RQ}                            \)</p>
+<p>We are given \(     \frac{QR}{QS} = \frac{QT}{PR}  \)</p>
+<p>\( \frac{QS}{QR} = \frac{PR}{QT} \)       </p>
+<p>\( \frac{QS}{QR} = \frac{PQ}{QT} \)   (Since ∠ 1 = ∠ 2 so PQ = PR)     </p>
+<p>So by SAS similarity condition Δ PQS ~ Δ TQR </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 5:<br/>
+S and T are points on sides PR and QR of
+Δ PQR such that ∠ P = ∠ RTS. Show that
+Δ RPQ ~ Δ RTS.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-5.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>In ΔRPQ and ΔRST,<br />
+∠R = ∠R (Common angle)<br />
+∠RTS = ∠QPS (Given)<br />
+∴ ΔRPQ ~ ΔRTS (By AA similarity criterion)</p>
+<p>Take care of symbolic notation,otherwise examiner may give you no marks at all</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 6:<br/>
+In Fig. 6.37, if Δ ABE ≅ Δ ACD, show that
+Δ ADE ~ Δ ABC.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-6.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Given, that ΔABE ≅ ΔACD.<br />
+∴ AB = AC [By cpct] &#8230; (i)<br />
+Also, AD = AE [By cpct] &#8230; (ii)<br />
+In ΔADE and ΔABC,</p>
+<p>AD/AB = AE/AC [Dividing equation (ii) by (i)]</p>
+<p>∠A = ∠A [Common angle]<br />
+∴ ΔADE ~ ΔABC [By SAS similarity criterion]</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 7:<br/>
+In Fig. 6.38, altitudes AD and CE of Δ ABC
+intersect each other at the point P. Show
+that:
+(i) Δ AEP ~ Δ CDP
+(ii) Δ ABD ~ Δ CBE
+(iii) Δ AEP ~ Δ ADB
+(iv) Δ PDC ~ Δ BEC.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-7.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i) In ΔAEP and ΔCDP,</p>
+<p>∠AEP = ∠CDP (Each 90°)</p>
+<p>∠APE = ∠CPD (Vertically opposite angles)</p>
+<p>Thus, by using AA similarity criterion,</p>
+<p>ΔAEP ~ ΔCDP</p>
+
+<p>(ii) In ΔABD and ΔCBE,</p>
+<p>∠ADB = ∠CEB (Each 90°)</p>
+
+<p>∠ABD = ∠CBE (Bommon)</p>
+<p>Hence, by using AA similarity criterion,</p>
+<p>ΔABD ~ ΔCBE</p>
+<p>(iii) In ΔAEP and ΔADB,</p>
+<p>∠AEP = ∠ADB (Each 90°)</p>
+
+<p>∠PAE = ∠DAB (Bommon)</p>
+<p>Hence, by using AA similarity criterion,</p>
+<p>ΔAEP ~ ΔADB</p>
+<p>(iv) In ΔPDC and ΔBEC,</p>
+<p>∠PDB = ∠BEB (Each 90°)</p>
+<p>∠PCD = ∠BCE (Bommon angle)</p>
+<p>Hence, by using AA similarity criterion,</p>
+<p>ΔPDC ~ ΔBEC</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 8:<br/>
+E is a point on the side AD produced of a
+parallelogram ABCD and BE intersects CD
+at F. Show that Δ ABE ~ Δ CFB..</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-8.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+In ΔABE and ΔCFB,
+∠A = ∠C (Opposite angles of a parallelogram)
+∠AEB = ∠CBF (Alternate interior angles as AE || BC)
+∴ ΔABE ~ ΔCFB (By AA similarity criterion)
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 9:<br/>
+In Fig. 6.39, ABC and AMP are two right
+triangles, right angled at B and M
+respectively. Prove that:
+(i) Δ ABC ~ Δ AMP
+(ii)
+CA BC
+
+PA MP.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-9.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+p>(i) In ΔABC and ΔAMP, we have</p>
+<p>∠A= ∠A (common angle)</p>
+<p>∠ABC = ∠AMP = 90° (each 90°)</p>
+<p>∴ ΔABC ~ ΔAMP (By AA similarity criterion)</p>
+<p>&nbsp;</p>
+<p>(ii) Since, ΔABC ~ ΔAMP (By AA similarity criterion)</p>
+<p>If two triangles are similar then the corresponding sides are equal,</p>
+<p>Hence, CA/PA = BC/MP</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 10:<br/>
+CD and GH are respectively the bisectors
+of ∠ ACB and ∠ EGF such that D and H lie
+on sides AB and FE of Δ ABC and Δ EFG
+respectively. If Δ ABC ~ Δ FEG, show that:
+(i)
+CD AC
+
+GH
+FG
+(ii) Δ DCB ~ Δ HGE
+(iii) Δ DCA ~ Δ HGF</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-10.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+(i) Given that ΔABC ~ ΔFEG
+∴ ∠A = ∠F, ∠B = ∠G, and ∠ACB = ∠FEG
+∠ACB = ∠FEG
+∴ ∠ACD = ∠FGH (Angle bisector)
+And, ∠DCB = ∠HEG (Angle bisector)
+In ΔDAC and ΔFEH,
+∠A = ∠F (Proved above)
+∠DCA = ∠FEH (Proved above)
+∴ ΔDAC ~ ΔFEH (By AA similarity criterion)
+
+⇒ CD/EH = AC/FE
+
+ 
+
+(ii) In ΔBCD and ΔHEG,
+∠BCD = ∠HE; (Proved above)
+∠B = ∠G (Proved above)
+∴ ΔBCD ~ ΔHEG (By AA similarity criterion)
+
+ 
+
+(iii) In ΔACD and ΔHFE
+∠DCA = ∠FEH (Proved above)
+∠A = ∠F (Proved above)
+∴ ΔACD ~ ΔHFE (By AA similarity criterion)
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 11:<br/>
+In Fig. 6.40, E is a point on side CB
+produced of an isosceles triangle ABC
+with AB = AC. If AD ⊥ BC and EF ⊥ AC,
+prove that Δ ABD ~ Δ ECF..</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-11.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>It is given that ABC is an isosceles triangle.<br />
+∴ AB = AC<br />
+⇒ ∠ABD = ∠ECF<br />
+In ΔABD and ΔECF,<br />
+∠ADB = ∠EFC (Each 90°)<br />
+∠BAD = ∠CEF (Proved above)<br />
+∴ ΔABD ~ ΔECF (By using AA similarity criterion)</p>
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 12:<br/>
+Sides AB and BC and median AD of a
+triangle ABC are respectively propor-
+tional to sides PQ and QR and median
+PM of Δ PQR (see Fig. 6.41). Show that
+Δ ABC ~ Δ PQR..</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-12.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>It is given that:</p>
+<p>ΔACB and ΔPQN, AB, CB and median AD of ΔACB are proportional to sides PQ, QN and median PM of ΔPQN</p>
+<p>Or, AB/PQ = BC/QR= AD/PM </p>
+<p>To Prove: ΔACB ~ ΔPQN</p>
+<p>&nbsp;</p>
+<p>Proof:\(    \frac{AB}{PQ} = \frac{BC}{QN} =\frac{AD}{PM} \)</p>
+<p>&nbsp;</p>
+<p>⇒\( \frac{AB}{PQ} =   \frac{AD}{PM} = \frac{\frac{1}{2}BC}{\frac{1}{2}QN} = \frac{BD}{QM}\) (D is the mid-point of BC and M is the midpoint of QN)</p>
+<p>⇒ ΔABD ~ ΔPQM [SSS similarity criterion]</p>
+<p>∴ ∠ABD = ∠PQM [Corresponding angles of two similar triangles are equal]</p>
+<p>⇒ ∠ABC = ∠PQN</p>
+<p>In ΔABC and ΔPQR</p>
+<p>AB/PQ = BC/QN ….(i)</p>
+<p>∠ABC = ∠PQR….. (ii)</p>
+<p>Hence, from equation   (i) and (ii), we get</p>
+<p>ΔABC ~ ΔPQR [By SAS similarity criterion]</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+<p><strong>Question 13:<br/>
+D is a point on the side BC of a triangle
+ABC such that ∠ ADC = ∠ BAC. Show
+that \( CA^{2} = CB.CD \)</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-13.png" alt="8" width="500" height="500" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>In ΔCAD and ΔABC,<br />
+∠CDA = ∠CAB (Given)<br />
+∠ACD = ∠BCA (Common angle)<br />
+∴ ΔADC ~ ΔBAC (By AA similarity criterion)<br />
+We know that corresponding sides of similar triangles are in proportion.</p>
+<p>∴ CA/BC =CD/AC</p>
+<p>⇒ CA<sup>2</sup> = CB.DC.</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 14:<br/>
+Sides AB and AC and median AD of a
+triangle ABC are respectively
+proportional to sides PQ and PR and
+median PM of another triangle PQR.
+Show that Δ ABC ~ Δ PQR..</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-14.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>It is given that:</p>
+<p>Two triangles ΔABC and ΔPQR in which AD and PM are medians such that AB/PQ = CA/PR = AD/PM</p>
+<p>To Prove: ΔABC ~ ΔPQR</p>
+<p>Construction: Produce AD  to E such that AD = DE. Connect CE. Similarly produce PM to L so that PM = ML, also connect RL.</p>
+<p>&nbsp;</p>
+<p>Proof:</p>
+<p>In ΔABD and ΔDCE, we have</p>
+<p>&nbsp;</p>
+<p>AD = DE                                   [By Construction]</p>
+<p>BD = DC                                   [∴ AP is the median]</p>
+<p>And, ∠ADB = ∠CDE                  [Vertically opp. angles]</p>
+<p>∴ ΔADB ≅ ΔCDE                       [By SAS criterion of congruence]</p>
+<p>⇒ AB = CE                                [CPCT] ….. (i)</p>
+<p>&nbsp;</p>
+<p>Also, in ΔPQM and ΔMLR, we have</p>
+<p>PM = ML                                     [By Construction]</p>
+<p>QM = MR                                    [∴ PM is the median]</p>
+<p>and, ∠PMQ = ∠LMR                   [Vertically opposite angles]</p>
+<p>∴ ΔPMQ = ΔMRL                         [By SAS criterion of congruence]</p>
+<p>⇒ PQ = RL                               [CPCT]  &#8230;. (ii)</p>
+<p>Low, AB/PQ = AC/PR = AD/PM</p>
+<p>⇒ CE/RL = AC/PR = AD/PM &#8230; [Erom (i) and (ii)]</p>
+<p>⇒ CE/RL = AC/PR = 2AD/2PM</p>
+<p>⇒ CE/RL = AC/PR = AE/PL     [∴ 2AD = AE and 2PM = PL]</p>
+<p>∴ ΔACE ~ ΔPRL                        [By SSS similarity criterion]</p>
+<p>Therefore, ∠DAC = ∠MPR</p>
+<p>Similarly, ∠BAC = ∠QPM</p>
+<p>∴ ∠BAC + ∠DAC = ∠QPM + ∠MPR</p>
+<p>⇒ ∠A = ∠P &#8230; (iii)</p>
+<p>Now, In ΔABC and ΔPQR, we have</p>
+<p>AB/PQ = AC/PR       (Given)</p>
+<p>∠A = ∠P [Erom (iii)]</p>
+<p>∴ ΔABC ~ ΔPQR                             [By SAS similarity criterion]</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 15:<br/>
+A vertical pole of length 6 m casts a shadow 4 m long on the ground and at the same time
+a tower casts a shadow 28 m long. Find the height of the tower.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Length of the vertical pole = 6m (Given)</p>
+<p>Shadow of the pole = 4 m (Given)</p>
+<p>Let Height of tower = <em>h</em> m</p>
+<p>Length of shadow of the tower = 28 m (Given)</p>
+<p>In ΔABC and ΔPRQ,</p>
+<p>∠C = ∠R (angular elevation of sum)</p>
+<p>∠B = ∠Q = 90°</p>
+<p>∴ ΔABC ~ ΔPRQ (By AA similarity criterion)</p>
+<p>∴ AB/PQ = BC/RQ (when two triangles are similar corresponding sides are proportional)</p>
+<p>∴ 6/<em>h</em> = 4/28</p>
+<p>⇒ <em>h</em> = 6×28/4</p>
+<p>⇒ <em>h</em> = 6 × 7</p>
+<p>⇒ <em>h </em>= 42 m</p>
+<p>Therefore, the height of the tower is 42 m.</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 16:<br/>
+If AD and PM are medians of triangles ABC and PQR, respectively where
+AB AD
+Δ ABC ~ Δ PQR, prove that PQ  PM</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-3-15.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>It is given that: ΔABC ~ ΔPQR </p>
+<p>We know that, the corresponding sides of similar triangles are in proportion</p>
+
+<p>∴ AB/PQ = AC/PR = BC/QR … (i)</p>
+<p>Also, ∠ A= ∠P, ∠B = ∠Q, ∠C = ∠R …(ii)</p>
+<p>As AD and PM are medians, their opposite sides will be divided by them<?p>
+
+<p>∴ BD = BC/2 and QM = QR/2 …(iii)</p>
+<p>From equations (i) and (iii), we have</p>
+<p>AB/PQ = BD/QM …(iv)</p>
+<p>In ΔABD and ΔPQM,</p>
+<p>∠B = ∠Q [Using equation (ii)]</p>
+<p>AB/PQ = BD/QM [Using equation (iv)]</p>
+<p>∴ ΔABD ~ ΔPQM (By SAS similarity criterion)</p>
+
+<p>⇒ AB/PQ = BD/QM = AD/PM.</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 @stop
-
-
-
-
