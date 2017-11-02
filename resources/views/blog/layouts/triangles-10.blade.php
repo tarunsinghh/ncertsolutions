@@ -710,4 +710,205 @@ AB AD
 <p>&nbsp;</p>
 
 
+<p><strong><em>Exercise 6.4</em></strong></p>
+
+
+<p><strong>Question 1:<br/>
+Let Δ ABC ~ Δ DEF and their areas be, respectively, 64 cm 2 and 121 cm 2 . If EF =
+15.4 cm, find BC.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Given,</p>
+<p>The area of a triangle ABC = 64 cm<sup>2</sup></p>
+<p>The area of a triangle DEF = 121 cm<sup>2</sup></p>
+<p>EF = 15.4 cm</p>
+<p>And ∆ ABC ~ ∆ DEF</p>
+<p>Therefore, area of triangle ABC/ Area of triangle DEF = AB<sup>2</sup> / DE<sup>2</sup></p>
+<p>= BC<sup>2</sup> / EF<sup>2</sup> = CA<sup>2</sup> / DF<sup>2</sup> &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; &#8211; (1)</p>
+<p>[If the two triangles are similar then the ratio of their areas are said to be equal to the square of the ratio of their corresponding sides]</p>
+<p>Therefore, 64 / 121 = BC<sup>2</sup> / EF<sup>2</sup></p>
+<p>=&gt; (8/11)<sup>2 </sup>= (BC`/15.4)<sup>2</sup></p>
+<p>=&gt; 8/11 = BC / 15.4</p>
+<p>=&gt; BC = 8 x 15.4 / 11</p>
+<p>=&gt; BC = 8 x 1.4</p>
+<p>BC = 11.2 cm</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 2:<br/>
+Diagonals of a trapezium ABCD with AB || DC intersect each other at the point O.
+If AB = 2 CD, find the ratio of the areas of triangles AOB and COD.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-2.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>ABCD is a trapezium having AB ǁ DC. The diagonals AB and CD intersect each other at a point O.</p>
+<p>In ∆ OAB and ∆ COD, we have</p>
+\(\angle OAB = \angle OCD (Alternate\:\, angles)\)<br/>
+\(\angle OBA = \angle ODC \, (Alternate\, angles)\)<br/>
+\(\angle AOB=\angle COD\, (Vertically\, opposite\, angle)\) <br/>
+<p>Therefore, ∆ ABO  ~ ∆ CDO [By AAA similarity criterion]</p>
+<p>Now, Area of (∆ABO) / Area of (∆CDO)</p>
+<p>= AB<sup>2</sup> / CD<sup>2 </sup>[If two triangles are similar then the ratio of their areas are equal to the square of the ratio of their corresponding sides]</p>
+<p>= (2CD)<sup>2 </sup>/ CD<sup>2 </sup>[Therefore, PQ=RS]</p>
+<p>Therefore, Area of (∆ PAQ)/ Area of (∆RAS)</p>
+<p>= 4AB<sup>2</sup>/ CD = 4/1</p>
+<p>Hence, the required ratio of the area of ∆ABO and ∆CDO = 4:1</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 3:<br/>
+In Fig. 6.44, ABC and DBC are two triangles on the
+same base BC. If AD intersects BC at O, show that
+\( \frac{ar (ABC)}{ar (DBC)} = \frac{A0}{DO} .</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-3.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>After seeing the question,we realize we have to proove something on ratio of area</br>
+We know a result for ratio of areas which is equal to the square of corresponding sides but for that the two triangles
+need to be similar </p>
+<p>There is only one thing we can make use of that traingles are on same base </p>
+<p>Draw perpeniculars AP and DM </p>
+<p>\(  \frac{ar (ABC)}{ar (DBC)}  = \frac {\frac{1}{2}\times BC\times AP } {\frac{1}{2}\times DM\times BC        }   \)</p>
+<p>\(   \frac{ar (ABC)}{ar (DBC)} = \frac{AP}{DM} \)  ... (1)</p>
+<p>Now in triangle APO and DMO </p>
+<p>APO = DMO = 90 </p>
+<p>AOP = DOM (Vertically opposite angles) </p>
+<p>APO DMO (By AA Similarity criterion) </p>
+<p>\(  \frac{AP}{DM} = \frac{AO}{DO} \)</p>
+<p>From 1,\frac{ar (ABC)}{ar (DBC)} = \frac{AO}{DO} \)  </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 4:<br/>
+If the areas of two similar triangles are equal, prove
+that they are congruent.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-3.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is simple too,we know ratio of area of traingles is equal to ratio of square of sides,since areas
+are equal then we have square of each side of triangle = square of another side of triangle,hence
+we can show that all corresponding sides of trinagles are equal </p>
+<p>\( \frac{area ABC}{area PQR} = (\frac{AB}{PQ})^{2} = (\frac{BC}{QR})^{2} = (\frac{AC}{PR})^{2} \)</p>
+<p>\( 1 =  (\frac{AB}{PQ})^{2} = (\frac{BC}{QR})^{2} = (\frac{AC}{PR})^{2}                  \)</p>
+<p>AB = PQ,BC = QR ,AC = PR </p>
+<p>Hence triangles are congruent </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 5:<br/>
+D, E and F are respectively the mid-points of sides AB, BC and CA of Δ ABC. Find the
+ratio of the areas of Δ DEF and Δ ABC.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-5.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+<p>This is a good question:                     </p>
+<p>D and E are mid points of ABC  </p>
+<p>Therefore \( \frac{AD}{DB}  = \frac{BE}{EC} = 1  \)</p>
+<p>So by basic proportionality theorem </p>
+<p>DE || AC </p>
+<p>In triangle BDE and BAC </p>
+<p>\( B = B (Common)                  \)</p> 
+<p>BED = BCA (Corresponding angles ) </p>
+<p>So by AA similarity criterion,trinagles BED BCA</p>
+<p>\(  \frac{BE}{BC} = \frac{DE}{AC} = \frac{1}{2}                             \)</p>
+<p>Also \( \frac{area BED}{area BCA} = (\frac{DE}{AC})^{2} =  = \frac{1}{4} \) </p>
+<p>Similarly \( \frac{area CEF}{area BCA}  = \frac{1}{4} \)  </p>
+<p>\( \frac{area ADE}{area BCA}  = \frac{1}{4} \)                         </p>
+<p>area of DEF = area of ABC - (area ADE + area BDE + area FEC) = area of ABC - \frac{3}{4}\times area of ABC = \frac{1}{4}\times area of ABC </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 6:<br/>
+Prove that the ratio of the areas of two similar triangles is equal to the square of the ratio
+of their corresponding medians.</strong></p>
+<p><img class="alignone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-6.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>We have done a similar kind of question in previous exercise,where we have prooved 
+that ratio of sides of similar traingles = equal to ratio of their corresponding medians ,after that its trivial</p>
+<p>Since AD is the median BD = \frac{1}{2}BC  </p>
+<p>Also PS is the median so QS = \frac{1}{2}QR </p>
+<p>Since triangles are similar \( \frac{AB}{PQ} = \frac{BC}{QR} = \frac{\frac{1}{2}\times BC }{\frac{1}{2}\times QR} = \frac{BD}{QS}  \)</p> 
+<p>In triangles ABD and PQS </p>
+<p>B = Q </p>
+<p>\( \frac{AB}{PQ} = \frac{BD}{QS}                        \)</p>
+<p>So by SAS similarity citerion </p>
+<p>ABD PQS </p>
+<p>\( \frac{AB}{PQ} = \frac{AD}{PS}  \)</p>
+<p>\( \frac{area ABC}{area  PQR} = (\frac{AB}{PQ})^{2} =   (\frac{AD}{PS})^{2}    \)</p>
+<p>Hence prooved </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p><strong>Question 7:<br/>
+Prove that the area of an equilateral triangle described on one side of a square is equal
+to half the area of the equilateral triangle described on one of its diagonals..</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-7.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is actually a very good question and at the same time simple too </p>
+<p>Let the side of square be a </p>
+<p>Then we have side of equialteral trianagle described on one side is a </p>
+<p>Length of  side of equilateral triangle on diagonal = \( \sqrt{a^{2} + a^{2}} = \sqrt{2}\times a                   \)</p>
+<p>All equilateral triangles are similar as all have angles of 60 </p>
+<p>ratio of area of described on side to described on diagonal = \( (\frac{a}{\sqrt{2a}})^{2} = 1:2                   \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p><strong>Question 8:<br/>
+Tick the correct answer and justify :
+ABC and BDE are two equilateral triangles such that D is the mid-point of BC. Ratio of
+the areas of triangles ABC and BDE is
+(A) 2 : 1
+(B) 1 : 2
+(C) 4 : 1
+(D) 1 : 4.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-9.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>It is given both are eui triangles so all angles are 60 </p>
+<p>Let length of side of triangle ABC is a </p>
+<p>Length of side of triangle BDE is  \(  \frac{a}{2} \)        </p>
+<p> Ratio of the areas of triangles ABC and BDE = \( (\frac{a}{\frac{a}{2}})^{2} = \frac{1}{4}  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 9:<br/>
+Tick the correct answer and justify :
+Sides of two similar triangles are in the ratio 4 : 9. Areas of these triangles are in the ratio
+(A) 2 : 3
+(B) 4 : 9
+(C) 81 : 16
+(D) 16 : 81.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-4-9.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is simple.Correct answer 16:81 </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 @stop
