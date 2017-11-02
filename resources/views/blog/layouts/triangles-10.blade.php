@@ -781,7 +781,7 @@ need to be similar </p>
 <p>AOP = DOM (Vertically opposite angles) </p>
 <p>APO DMO (By AA Similarity criterion) </p>
 <p>\(  \frac{AP}{DM} = \frac{AO}{DO} \)</p>
-<p>From 1,\frac{ar (ABC)}{ar (DBC)} = \frac{AO}{DO} \)  </p>
+<p>From 1, \( \frac{ar (ABC)}{ar (DBC)} = \frac{AO}{DO} \)  </p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -824,7 +824,7 @@ ratio of the areas of Δ DEF and Δ ABC.</strong></p>
 <p>Also \( \frac{area BED}{area BCA} = (\frac{DE}{AC})^{2} =  = \frac{1}{4} \) </p>
 <p>Similarly \( \frac{area CEF}{area BCA}  = \frac{1}{4} \)  </p>
 <p>\( \frac{area ADE}{area BCA}  = \frac{1}{4} \)                         </p>
-<p>area of DEF = area of ABC - (area ADE + area BDE + area FEC) = area of ABC - \frac{3}{4}\times area of ABC = \frac{1}{4}\times area of ABC </p>
+<p>area of DEF = area of ABC - (area ADE + area BDE + area FEC) = area of ABC - \( \frac{3}{4}\times area of ABC = \frac{1}{4}\times area of ABC \)</p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -838,8 +838,8 @@ of their corresponding medians.</strong></p>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>We have done a similar kind of question in previous exercise,where we have prooved 
 that ratio of sides of similar traingles = equal to ratio of their corresponding medians ,after that its trivial</p>
-<p>Since AD is the median BD = \frac{1}{2}BC  </p>
-<p>Also PS is the median so QS = \frac{1}{2}QR </p>
+<p>Since AD is the median BD = \( \frac{1}{2}BC \) </p>
+<p>Also PS is the median so QS = \( \frac{1}{2}QR \)</p>
 <p>Since triangles are similar \( \frac{AB}{PQ} = \frac{BC}{QR} = \frac{\frac{1}{2}\times BC }{\frac{1}{2}\times QR} = \frac{BD}{QS}  \)</p> 
 <p>In triangles ABD and PQS </p>
 <p>B = Q </p>
