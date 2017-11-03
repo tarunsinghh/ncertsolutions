@@ -719,8 +719,8 @@ Let Δ ABC ~ Δ DEF and their areas be, respectively, 64 cm 2 and 121 cm 2 . If 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>Given,</p>
-<p>The area of a triangle ABC = 64 cm<sup>2</sup></p>
-<p>The area of a triangle DEF = 121 cm<sup>2</sup></p>
+<p>The area of a ∆ ABC = 64 cm<sup>2</sup></p>
+<p>The area of a ∆ DEF = 121 cm<sup>2</sup></p>
 <p>EF = 15.4 cm</p>
 <p>And ∆ ABC ~ ∆ DEF</p>
 <p>Therefore, area of triangle ABC/ Area of triangle DEF = AB<sup>2</sup> / DE<sup>2</sup></p>
@@ -779,7 +779,7 @@ need to be similar </p>
 <p>Now in triangle APO and DMO </p>
 <p>APO = DMO = 90 </p>
 <p>AOP = DOM (Vertically opposite angles) </p>
-<p>APO DMO (By AA Similarity criterion) </p>
+<p>APO  ~ DMO (By AA Similarity criterion) </p>
 <p>\(  \frac{AP}{DM} = \frac{AO}{DO} \)</p>
 <p>From 1, \( \frac{ar (ABC)}{ar (DBC)} = \frac{AO}{DO} \)  </p>
 </div>
@@ -819,7 +819,7 @@ ratio of the areas of Δ DEF and Δ ABC.</strong></p>
 <p>In triangle BDE and BAC </p>
 <p>\( B = B (Common)                  \)</p> 
 <p>BED = BCA (Corresponding angles ) </p>
-<p>So by AA similarity criterion,trinagles BED BCA</p>
+<p>So by AA similarity criterion,trinagles BED ~  BCA</p>
 <p>\(  \frac{BE}{BC} = \frac{DE}{AC} = \frac{1}{2}                             \)</p>
 <p>Also \( \frac{area BED}{area BCA} = (\frac{DE}{AC})^{2} =  = \frac{1}{4} \) </p>
 <p>Similarly \( \frac{area CEF}{area BCA}  = \frac{1}{4} \)  </p>
@@ -837,7 +837,7 @@ of their corresponding medians.</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>We have done a similar kind of question in previous exercise,where we have prooved 
-that ratio of sides of similar traingles = equal to ratio of their corresponding medians ,after that its trivial</p>
+that ratio of sides of similar triangles = equal to ratio of their corresponding medians ,after that its trivial</p>
 <p>Since AD is the median BD = \( \frac{1}{2}BC \) </p>
 <p>Also PS is the median so QS = \( \frac{1}{2}QR \)</p>
 <p>Since triangles are similar \( \frac{AB}{PQ} = \frac{BC}{QR} = \frac{\frac{1}{2}\times BC }{\frac{1}{2}\times QR} = \frac{BD}{QS}  \)</p> 
@@ -887,9 +887,9 @@ the areas of triangles ABC and BDE is
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>It is given both are eui triangles so all angles are 60 </p>
-<p>Let length of side of triangle ABC is a </p>
-<p>Length of side of triangle BDE is  \(  \frac{a}{2} \)        </p>
-<p> Ratio of the areas of triangles ABC and BDE = \( (\frac{a}{\frac{a}{2}})^{2} = \frac{1}{4}  \)</p>
+<p>Let length of side of ∆ ABC is a </p>
+<p>Length of side of ∆ BDE is  \(  \frac{a}{2} \)        </p>
+<p> Ratio of the areas of ∆ ABC and BDE = \( (\frac{a}{\frac{a}{2}})^{2} = \frac{1}{4}  \)</p>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -906,6 +906,374 @@ Sides of two similar triangles are in the ratio 4 : 9. Areas of these triangles 
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>This is simple.Correct answer 16:81 </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 1:<br/>
+Sides of triangles are given below. Determine which of them are right triangles.
+In case of a right triangle, write the length of its hypotenuse.
+(i) 7 cm, 24 cm, 25 cm
+(ii) 3 cm, 8 cm, 6 cm
+(iii) 50 cm, 80 cm, 100 cm
+(iv) 13 cm, 12 cm, 5 cm.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-1.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>In right angle triangle,the hypotenuse is the largest side and square of its sum is equal to the sum of square of
+other two sides</p>
+<p>i) \(  25^{2} = 625,7^{2} + 24^{2} = 675,Since  7^{2} + 24^{2} = 25^{2}\) ,the triangle is right angle,hypotenuse length is 25 cm </p>
+<p>ii)\( 8^{2} = 64,3^{2} + 6^{2} = 9 + 36 = 45,Since  6^{2} + 3^{2} \ne 8^{2} \),its not a right triangle  </p>
+<p>iii) \( 100^{2} = 10000, 50^{2} + 80^{2} = 2500 + 6400 = 8900,Since  60^{2} + 80^{2} \ne 100^{2} \),its not a right triangle </p>
+<p>iv) \(  13^{2} = 169,12^{2} + 5^{2} = 169,Since  12^{2} + 5^{2} = 13^{2} \),the triangle is right angle,hypotenuse length is 13 cm</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 2:<br/>
+PQR is a triangle right angled at P and M is a point on QR such that PM ⊥ QR. Show that
+\( PM^{2} = QM . MR \).</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-2.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>The first impression  is can we use RHS congruence condition or some similarity of triangles</p>
+<p>∆ PMR is similar to triangle PQR and so is PMQ,can we use the ratio of sides of these triangles to any use </p>
+<p>But since we have square of PM ,we may try prooving similarity of triangles PMR and PMQ </p>
+<p>MPR = x </p>
+<p>then MQP = 180 - 90 - (90 - x) = x.
+<p>In triangles MPR and MQP </p>
+<p>PMR = PMQ = 90 </p>
+<p>MPR = PQM </p>
+<p>so by AA similarity  </p>
+<p>MPR  ~  MQP </p>
+<p>\( \frac{PM}{MR} = \frac{QM}{PM}   \)</p>
+<p>\(   PM^{2} = QM . MR \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 3:<br/>
+In Fig. 6.53, ABD is a triangle right angled at A
+and AC ⊥ BD. Show that
+(i) \( AB^{2} = BC . BD \)
+(ii)\( AC^{2} = BC . DC \)
+(iii)\( AD^{2} = BD . CD \)
+Fig. 6.53.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-3.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is similar to question 2,the approach is exactly similar,the second part is identical so we will skip it.
+<p>i)Since we have a term of \( AB^{2} \) ,consider  triangle ABC and ABD </p>
+<p>ACB = BAD </p>
+<p>B = B (common)</p>
+<p>By AA similarity condition </p>
+<p> ABC  ~  DBA     </p>
+<p>\( \frac{AB}{BC} = \frac{BD}{AB}   \)</p>
+<p>\(   AB^{2} = BC . BD \)</p>
+<p>ii)Similar to question 2<p>
+<p>iii)Similar to i) part,take traingles ACD and ABD and apply AA and then proove</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 4:<br/>
+ABC is an isosceles triangle right angled at C. Prove that \( AB^{2} = AC^{2} \)</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is a very simple question,you just need apply pythagoras </p>
+<p>Just a little attention or you can say common sense needed </p>
+<p>ABC is an isosceles triangle ,right angle at C so AC is hypotenuse,so we cant have any other side 
+equal to largest side in triangle </p>
+<p>so AC = CB </p>
+<p>Using pythagoras we have </p>
+<p>\(  AB^{2} = AC^{2} + CB^{2}  \)</p>
+<p>\(  AB^{2} = AC^{2} + AC^{2} = 2AC^{2} \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 5:<br/>
+ABC is an equilateral triangle of side 2a. Find each of its altitudes./strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-5.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is a good question,its simple too </p>
+<p>In right angle ∆ ABD and ACD (Since AD is an altitude) </p>
+<p> AB = AC             </p>
+<p> AD= AD (Common)       </p>
+<p>So by RHS congruence condition </p>
+<p>ABC ACD </p>
+<p>BD = DC </p> (By C.P.C.T)
+<p>BD + DC = 2a,BD + BD = 2a,2BD = 2a,BD = a </p>
+<p>In ∆ ABD,using pythagoras  </p>
+<p>\(  AB^{2} = AD^{2} + BD^{2}  \)</p>
+<p>\(  (2a)^{2} = AD^{2} + a^{2}                           \)</p>
+<p>\(  4a^{2} = AD^{2} + a^{2},AD = 3a^{2} = \sqrt{3}\times a                           \)</p>
+<p>Similarlt length of all other altitude also \(  \sqrt{3}\times a  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 6:<br/>
+ABC is an isosceles triangle with AC = BC. If \( AB^{2} = 2 AC^{2} \) , prove that ABC is a right
+triangle</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-6.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>\(  AB^{2} = 2 AC^{2}                    \)</p>
+<p>\(  AB^{2} =  AC^{2} + AC^{2}                    \)</p>
+<p>\(  AB^{2} =  AC^{2} + BC^{2}                    \)</p>
+<p>therefore ABC is a right triangle </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 7:<br/>
+Prove that the sum of the squares of the sides of a rhombus is equal to the sum of the
+squares of its diagonals.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-7.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This looks a difficult question but its easy to proove ,but you need to remember properties of rhombus </p>
+<p>In rhombus,diagonals bisect each other at right angles </p>
+<p>Rest is trivial,just apply pythagoras in all 4 triangles formed and add them </p>
+<p>In ∆ OAB </p>
+<p>\(   AB^{2} = OA^{2} + OB^{2}   \)</p>
+<p>In ∆ OBC </p>
+<p>\(   BC^{2} = OB^{2} + OC^{2}   \)</p>
+<p>In ∆ OCD </p>
+<p>\(   CD^{2} = OC^{2} + OD^{2}  \)</p>
+<p>In ∆ ODA </p>
+<p>\(   AD^{2} = OA^{2} + OD^{2}  \)</p>
+<p>Adding all of them </p>
+<p>\(  AB^{2} +  BC^{2} + CD^{2} + AD^{2} =  OA^{2} + OB^{2} +  OB^{2} + OC^{2}  + OC^{2} + OD^{2} + OA^{2} + OD^{2}   \)</p>
+<p>\(  AB^{2} +  BC^{2} + CD^{2} + AD^{2} =  2( OA^{2} + OB^{2} +  OC^{2} + OD^{2} )   \)</p>
+<p>\(  AB^{2} +  BC^{2} + CD^{2} + AD^{2} =  2( OA^{2} + OB^{2} +  OC^{2} + OD^{2} )   \)</p>
+<p>\(  AB^{2} +  BC^{2} + CD^{2} + AD^{2} =  2( (\frac{AC}{2})^{2} +  (\frac{AC}{2})^{2} + (\frac{BD}{2})^{2} + (\frac{BD}{2})^{2}  )   \)</p>
+<p>\(  AB^{2} +  BC^{2} + CD^{2} + AD^{2} = AC^{2} +  BD^{2}    \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 8:<br/>
+In Fig. 6.54, O is a point in the interior of a triangle
+ABC, OD ⊥ BC, OE ⊥ AC and OF ⊥ AB. Show that
+(i) OA 2 + OB 2 + OC 2 – OD 2 – OE 2 – OF 2 = AF 2 + BD 2 + CE 2 ,
+(ii) AF 2 + BD 2 + CE 2 = AE 2 + CD 2 + BF 2</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-8.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is simple too,we just have to apply pythagoras </p>
+<p>In ∆ AOF </p>
+<p>\(   AO^{2} = OF^{2} + AF^{2}   \)</p>
+<p>In ∆ BOD </p>
+<p>\(   OB^{2} = OD^{2} + BD^{2}   \)</p>
+<p>In ∆ COE </p>
+<p>\(   OC^{2} = OE^{2} + EC^{2}  \)</p>
+<p>Adding these </p>
+<p>\(    AO^{2}+ OB^{2} + OC^{2} = OE^{2} + EC^{2} + OD^{2} + BD^{2} +  OF^{2} + AF^{2}   \)</p>
+<p>\(    AO^{2}+ OB^{2} + OC^{2} - OD^{2} - OE^{2} - OF^{2} =  + EC^{2} +   BD^{2}   + AF^{2}   \)</p>
+<p>ii)From i) part</p>
+<p>\(   AF^{2} + BD^{2} + EC^{2} = AE^{2} + CD^{2} + BF^{2}                                \)   </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 9:<br/>
+A ladder 10 m long reaches a window 8 m above the
+ground. Find the distance of the foot of the ladder
+from base of the wall.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-10.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is just plain and simple pythagoras </p>
+<p>From the figure </p>
+<p>\(  10^{2} = 8^{2} + x^{2}                           \)</p>
+<p>\(  10^{2} - 8^{2} = x^{2}                           \)</p>
+<p>\(   x^{2} = 36 ,x = 6                           \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 10:<br/>
+A guy wire attached to a vertical pole of height 18 m
+is 24 m long and has a stake attached to the other
+end. How far from the base of the pole should the
+stake be driven so that the wire will be taut?.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-9.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Its also similar to previous question </p>
+<p>A guy wire is attached from top of pole to a point in ground to provide stability to the pole </p>
+<p>Its similar to various wires that are attached on ships </p>
+<p>Using pythagoras theorem </p>
+<p>\( 24^{2} = 18^{2} + x^{2}                     \)</p>
+<p>\( 24^{2} - 18^{2} = x^{2}                     \)</p>
+<p>\(  x^{2}  =   24^{2} - 18^{2} = 253 = 6\sqrt{7} m  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 11:<br/>
+An aeroplane leaves an airport and flies due north at a speed of 1000 km per hour. At the
+same time, another aeroplane leaves the same airport and flies due west at a speed of
+1200 km per hour. How far apart will be the two planes after \( 1\times\frac{1}{2} \)  hours??.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-11.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Distance covered by plane flying at speed of 1000 km per hour = \(  1.5\times 1000 = 1500                 \)</p> 
+<p>Distance travelled by plane flying at speed of 1200 km per hour = \(1.5\times 1200 = 1800          \)  </p>
+<p>Now since north and west and at right angle,we just need to use pythagoras theorem to fnd distance between them  </p>
+<p>Distance between them = \( 1500^{2} + 1800^{2} = 300\times \sqrt{61} \) </p>
+</div>
+<p>&nbsp;</p
+<p>&nbsp;</p>
+
+
+<p><strong>Question 12:<br/>
+Two poles of heights 6 m and 11 m stand on a
+plane ground. If the distance between the feet
+of the poles is 12 m, find the distance between
+their tops.?.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-12.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This question will become clear the moment you draw it                   </p>
+<p>Using pythagoras theorem                     </p>
+<p>Distnace between tops = \(  \sqrt{5^{2} + 12^{2}} = \sqrt{169} = 13  \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 13:<br/>
+D and E are points on the sides CA and CB
+respectively of a triangle ABC right angled at C.
+Prove that \( AE^{2} + BD^{2} = AB^{2} + DE^{2} \)</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-13.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Since we need to proove \( AE^{2} + BD^{2},lets find their values   \)</p>
+<p>\(  AE^{2} = AC^{2} + CF^{2}  \)</p>
+<p>\(  BD^{2} = CD^{2} + BC^{2}  \)</p>
+<p>\(  AE^{2} + BD^{2} = AC^{2} + CE^{2} + CD^{2} + BC^{2}  \)</p>
+<p>\(  AE^{2} + BD^{2} = AC^{2} + BC^{2} + CD^{2} + CE^{2}  \)</p>
+<p>\(  AE^{2} + BD^{2} = AB^{2} + DE^{2}  \) (Applying pythagoras in ∆ ACE and DCE )</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 14:<br/>
+The perpendicular from A on side BC of a
+Δ ABC intersects BC at D such that DB = 3 CD
+(see Fig. 6.55). Prove that \( 2AB^{2} = 2AC^{2} + BC^{2} \)</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-14.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>DB + CD = BC </p>
+<p>3CD + CD = BC </p>
+<p>CD = \( \frac{BC}{4}  \)</p>
+<p>BD = BC - CD = BC - \frac{BC}{4} = \frac{3BC}{4} </p>
+<p>Using pythagoras in ∆ ACD</p>
+<p>\( AC^{2} = AD^{2} + CD^{2}             \)</p>
+<p>\( AC^{2} = AD^{2} + (\frac{BC}{4})^{2}   \)    ...(1) </p>
+<p>Using pythagoras in ∆ ABD</p>
+<p>\( AB^{2} = AD^{2} + BD^{2}             \)</p>
+<p>\( AB^{2} = AD^{2} + (\frac{3BC}{4})^{2}   \)</p>
+<p>Now we dont need a term involving AD,so we will substitue AD value from 1 in 2 </p>
+<p>\( AB^{2} = AD^{2} + (\frac{3BC}{4})^{2}   \)</p>
+<p>\( AB^{2} = AC^{2} - (\frac{BC}{4})^{2} + (\frac{3BC}{4})^{2}   \)</p>
+<p>\( AB^{2} = AC^{2} + \frac{BC^{2}}{2}  \)</p>
+<p>\( 2AB^{2} = 2AC^{2} + BC^{2} \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 15:<br/>
+In an equilateral ∆ ABC, D is a point on side BC such that BD =
+\( \frac{1}{3}\times BC \) ,proove \(9 AD^{2} = 7AB^{2} \).</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-15.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is the best question of this exercise,I remember a person used to teach tutions when I was doing my 12,and
+then he was stuck in this question,and he was asking everybody in the neighbourhood to solve the question,
+so slowly slowly the question came to me and finally I gave a solution to the question </p>
+<p>Now this question is extension to the previous question ,but the problem is why so many stidents and teachers
+fail to solve  this question is we are not given perpendicular drawn,that we have to draw ourself and then 
+start the proceedings from there </p>
+<p>Draw a perpendicular AE to BC         </p>
+<p>Consider right angle ∆ ABE and ∆ ACE           </p>
+<p>AB = AC      </p>
+<p>AD = AD (Common) </p>
+<p>By RHS congruence condition </p>
+<p>ABE ≅  ACE</p>
+<p>BE = EC (By C.P.C.T) </p>
+<p>Now we need a relation between AD and AB </p>
+<p>In triangle ADE </p>
+<p>\(  AD^{2} = AE^{2} + DE^{2}                          \) ....(1)</p>
+<p>In triange ABE </p>
+<p>\(  AB^{2} = AE^{2} + BE^{2}    ....(2)                \)</p>
+<p>We dont need AE so we can put AE  value from 2 in 1 </p>
+<p>\(  AD^{2} = AB^{2} - BE^{2} + DE^{2}                            \)</p>
+<p>Now we can write BE and DE in terms of BC and since triangle is equilateral,
+we can reqrite BC as AB </p>
+<p>Now DE = BE - BD = \( \frac{BC}{2} - \frac{BC}{3} = \frac{BC}{6} \) </p>
+<p>\(  AD^{2} = AB^{2} - BE^{2} + DE^{2}                            \)</p>
+<p>\(  AD^{2} = AB^{2} - (\frac{BC}{2})^{2} + (\frac{BC}{6})^{2}                            \)</p>
+<p>\(  AD^{2} = AB^{2} - {BC^{2}}{4} + {BC^{2}}{36}                            \)</p>
+<p>\(  AD^{2} = AB^{2} - {AB^{2}}{4} + {AB^{2}}{36}                            \)</p>
+<p>\(  9AD^{2} = 7AB^{2}                          \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 16:<br/>
+In an equilateral triangle,prove that three times the square of one side is equal to four
+times the square of one of its altitudes.
+</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>This is simple from previous question we know BE = EC for AE as altitide on side BC</p>
+<p>so, \(  AB^{2} = AD^{2} + (\frac{BC}{2})^{2}                            \)</p>
+<p>\(  AB^{2} = AD^{2} + \frac{BC^{2}}{4}                            \)</p>
+<p>Since triangle is equilateral AB = BC </p>
+<p>\(  AB^{2} = AD^{2} + \frac{AB^{2}}{4}                            \)</p>
+<p>\( 3AB^{2} = 4AD^{2} \)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 17:<br/>
+Tick the correct answer and justify : In Δ ABC, AB = \(6\times \sqrt{3} \) cm, AC = 12 cm and BC = 6 cm.
+The angle B is :
+(A) 120° (B) 60°
+(C) 90° (D) 45°.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>\(  AB^{2} = (6\times \sqrt{3})^{2} =  108 ,AC^{2} = 144,BC^{2} = 36,AB^{2} + BC^{2} = AC^{2}                     \)
+<p>\(  Since AB^{2} + BC^{2} = AC^{2}, angle B = 90               \)</p>
+
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
