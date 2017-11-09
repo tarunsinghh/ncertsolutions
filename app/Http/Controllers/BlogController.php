@@ -155,12 +155,15 @@ return;
        array('Arithematic Progressions','arithematic-progressions'),
        array('Triangles','triangles-10'),
        array('Coordinate Geomtery','coordinate-geometry'),
+       array('Triginometry','trigonometry'),
        array('Some Applications of Triginometry','some-applications-of-triginometry'),
        array('Circles','circles'),
        array('Areas related to Circles','areas-related-to-circles'),
        array('Surface Areas and Volumes','surface-areas-and-volumes'),
        array('Probability','probability')
-       ),
+       
+      
+      ),
       '9'=>array (
 
         array('Triangles','triangles'),

@@ -90,7 +90,9 @@
 
            
 
-              
+               <a href="/solutions/trigonometry">
+              <h4 class="post-title">Trigonometry</h4>
+          </a>
                
           
                     
@@ -134,9 +136,10 @@
 
            
 
+
+         
               
-               
-          
+         
                     
           
           <a href="/solutions/probability">

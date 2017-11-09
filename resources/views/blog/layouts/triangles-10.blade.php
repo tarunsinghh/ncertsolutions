@@ -1160,6 +1160,8 @@ their tops.?.</strong></p>
 <p>&nbsp;</p>
 
 
+
+
 <p><strong>Question 13:<br/>
 D and E are points on the sides CA and CB
 respectively of a triangle ABC right angled at C.
@@ -1277,6 +1279,198 @@ The angle B is :
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+
+
+<p><strong>Question 1:<br/>
+1. In Fig. 6.56, PS is the bisector of ∠ QPR of Δ PQR. Prove that
+Fig. 6.56
+QS PQ
+
+
+SR
+PR</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 2:<br/>
+2. In Fig. 6.57, D is a point on hypotenuse AC of Δ ABC, such that BD ⊥ AC, DM ⊥ BC and
+DN ⊥ AB. Prove that :
+(i) DM 2 = DN . MC
+(ii) DN 2 = DM . AN</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 3:<br/>
+3. In Fig. 6.58, ABC is a triangle in which ∠ ABC > 90° and AD ⊥ CB produced. Prove that
+AC 2 = AB 2 + BC 2 + 2 BC . BD.
+Fig. 6.58
+Fig. 6.59</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 4:<br/>
+In Fig. 6.59, ABC is a triangle in which ∠ ABC < 90° and AD ⊥ BC. Prove that
+AC 2 = AB 2 + BC 2 – 2 BC . BD.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 5:<br/>
+ In Fig. 6.60, AD is a median of a triangle ABC and
+AM ⊥ BC. Prove that :
+ BC 
+(i) AC 2 = AD 2 + BC . DM + 
+
+ 2  BC 
+(ii) AB 2 = AD 2 – BC . DM + 
+
+ 2 
+2
+(iii) AC 2 + AB 2 = 2 AD 2 +
+1
+BC 22</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 6:<br/>
+Prove that the sum of the squares of the diagonals of parallelogram is equal to the sum
+of the squares of its sides.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 7:<br/>
+In Fig. 6.61, two chords AB and CD intersect each other at the point P. Prove that :
+(i) Δ APC ~ Δ DPB
+(ii) AP . PB = CP . DP
+Fig. 6.61
+Fig. 6.62</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 8:<br/>
+In Fig. 6.62, two chords AB and CD of a circle intersect each other at the point P
+(when produced) outside the circle. Prove that
+(i) Δ PAC ~ Δ PDB
+(ii) PA . PB = PC . PD</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 9:<br/>
+In Fig. 6.62, two chords AB and CD of a circle intersect each other at the point P
+(when produced) outside the circle. Prove that
+(i) Δ PAC ~ Δ PDB
+(ii) PA . PB = PC . PD</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 10:<br/>
+In Fig. 6.63, D is a point on side BC of Δ ABC
+BD AB
+
+ Prove that AD is the
+CD AC
+bisector of ∠ BAC.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+
+
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 10:<br/>
+In Fig. 6.63, D is a point on side BC of Δ ABC
+BD AB
+
+ Prove that AD is the
+CD AC
+bisector of ∠ BAC.</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 10:<br/>
+Nazima is fly fishing in a stream. The tip of
+her fishing rod is 1.8 m above the surface
+of the water and the fly at the end of the
+string rests on the water 3.6 m away and
+2.4 m from a point directly under the tip of
+the rod. Assuming that her string
+(from the tip of her rod to the fly) is taut,
+how much string does she have out
+(see Fig. 6.64)? If she pulls in the string at
+the rate of 5 cm per second, what will be
+the horizontal distance of the fly from her
+after 12 seconds?
+Fig. 6.63
+Fig..</strong></p>
+<p><img class="alignnone wp-image-2112" src="/images/10/0/triangles/10-0-6-5-16.png" alt="8" width="300" height="300" /></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 @stop
