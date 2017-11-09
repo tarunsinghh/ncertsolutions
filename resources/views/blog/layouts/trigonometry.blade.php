@@ -180,5 +180,177 @@ ii)cos A cos C - sin A sin C        <br/>
 <p>&nbsp;</p>
 
 
+<p><strong><em>Exercise 7.2</em></strong></p>
+
+
+<p><strong>Question 1:Evaluate the following :
+(i) sin 60° cos 30° + sin 30° cos 60°
+(ii) 2 tan 2 45° + cos 2 30° – sin 2 60°
+cos 45°
+(iii) sec 30° + cosec 30°
+(iv)
+sin 30° + tan 45° – cosec 60°
+sec 30° + cos 60° + cot 45°
+(v) sin 60° cos 30° + sin 30° cos 60°
+5 cos 2 60 ° + 4 sec 2 30 ° − tan 2 45 °
+sin 2 30 ° + cos 2 30 °?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+
+
+<p><strong>Ans.- </strong>(i) <strong>\(sin60^{\circ}cos30^{\circ}+sin30^{\circ}cos60^{\circ}\)</strong></p>
+<p>= \(\left ( \frac{\sqrt{3}}{2} \times \frac{\sqrt{3}}{2}\right )+\left ( \frac{1}{2}\times \frac{1}{2} \right )=\frac{3}{4}+\frac{1}{4}=\frac{4}{4}=1\)</p>
+<p>&nbsp;</p>
+<p>(ii) <strong>\(2tan^{2}45^{\circ}+co^{2}30^{\circ}-sin^{2}60^{\circ}\)</strong></p>
+<p>=\(2\times \left ( 1 \right )^{2}+\left ( \frac{\sqrt{3}}{2} \right )^{2}-\left( \frac{\sqrt{3}}{2} \right )^{2}=2\)</p>
+<p>&nbsp;</p>
+<p>(iii) <strong>\(\frac{cos45^{\circ}}{\left ( sec30^{\circ}+cosec30^{\circ} \right )}\)</strong></p>
+<p>= \(\frac{1}{\frac{\sqrt{2}}{2\sqrt{3}+2}}=\frac{1}{\frac{\sqrt{2}}{\frac{\left ( 2+2\sqrt{3} \right )}{\sqrt{3}}}}\)</p>
+<p>= \(\frac{\sqrt{3}}{\sqrt{2}\times \left ( 2+2\sqrt{3} \right )}=\frac{\sqrt{3}}{2\sqrt{2}+2\sqrt{6}}\)</p>
+<p>&nbsp;</p>
+<p>= \(\frac{\sqrt{} 3\left ( 2\sqrt{6} -2\sqrt{2}\right )}{\left ( 2\sqrt{6}+2\sqrt{2} \right )\left ( 2\sqrt{6} -2\sqrt{2}\right )}\)</p>
+<p>&nbsp;</p>
+<p>= \(\frac{2\sqrt{3}\left ( \sqrt{6}-\sqrt{2} \right )}{\left ( 2\sqrt{6}^{2}\ -\left ( 2\sqrt{2} \right )^{2}\right )}\)</p>
+<p>&nbsp;</p>
+\(\frac{2\sqrt{3}\left ( \sqrt{6} -\sqrt{2}\right )}{24-8}=\frac{2\sqrt{3}\left ( \sqrt{6}-\sqrt{2} \right )}{16}\)
+<p>&nbsp;</p>
+\(\frac{\sqrt{3}\left ( \sqrt{6}-\sqrt{2} \right )}{8}=\frac{\left ( \sqrt{18}-\sqrt{6} \right )}{8}=\frac{\left ( 3\sqrt{2}-\sqrt{6} \right )}{8}\)
+<p>&nbsp;</p>
+<p>(iv)  <strong>(sin 30° + tan 45° – cosec 60°)/(sec 30° + cos 60° + cot 45°)</strong></p>
+<p>= \(\left (\frac{ \frac{1}{2} + 1 &#8211; \frac{2}{\sqrt{3}}}{2\sqrt{3} + \frac{1}{2} + 1} \right )\)</p>
+<p>= \(\left ( \frac{\frac{3}{2} &#8211; \frac{2}{\sqrt{3}}}{\frac{3}{2} + \frac{2}{\sqrt{3}}} \right )\)</p>
+<p>= \(\frac{\left ( 3\sqrt{3} &#8211; 4 \right )^{2}}{\left ( 3\sqrt{3} \right )^{2} &#8211; 4^{2}}\)</p>
+<p>= \(\frac{\left ( 27 + 16 &#8211; 24\sqrt{3} \right )}{\left ( 27 &#8211; 16 \right )}\)</p>
+<p>= \(\frac{\left ( 43 &#8211; 24\sqrt{3} \right )}{11}\)</p>
+<p>&nbsp;</p>
+<p><strong>(v) (5cos260° + 4sec230° &#8211; tan245°)/(sin230° + cos230°)</strong></p>
+<p>= \(5\left ( \frac{1}{2} \right )^{2} + 4 \left ( \frac{2}{\sqrt{3}} \right )^{2} &#8211; \frac{1^{2}}{\left ( \frac{1}{2} \right )^{2} + \left ( \frac{\sqrt{3}}{2} \right )^{2} }\)</p>
+<p>= \(\frac{\left ( \frac{5}{4} + \frac{16}{3 &#8211; 1} \right )}{\left ( \frac{1}{4} + \frac{3}{4} \right )}\)</p>
+<p>= \(\frac{\frac{\left ( 15 + 64 &#8211; 12 \right )}{12}}{\frac{4}{4}}\)</p>
+<p>=\(\frac{67}{12}\)</p>
+</div>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 1:
+Choose the correct answer?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i)  (A) is correct.</p>
+<p>\(\frac{2tan30^{\circ}}{1+tan^{2}30^{\circ}}\) = \(2\frac{\left ( 1 \right )}{\frac{\sqrt{3}}{1}}+\left ( \frac{1}{\sqrt{3}} \right )^{2}\)</p>
+\(\frac{\left ( 2\sqrt{3} \right )}{1+\frac{1}{3}} = \frac{\left (\frac{2}{\sqrt{3}}\right )}{\frac{4}{3}}\)
+\(= \frac{6}{4\sqrt{3}} = \frac{\sqrt{3}}{2} = sin 60^{\circ}\)
+<p>&nbsp;</p>
+<p>(ii)(D) is correct</p>
+\(\frac{1-tan^{2}45^{\circ}}{1+tan^{2}30^{\circ}}\)
+<p>= \(\frac{\left ( 1 &#8211; 1^{2} \right )}{\left ( 1 + 1^{2} \right )} = \frac{0}{2} = 0\)</p>
+<p>&nbsp;</p>
+<p>(iii) (A) is correct</p>
+<p>sin 2A = 2 sin A is true when</p>
+<p>sin 2A = sin 0° = 0<br />
+
+<p>&nbsp;</p>
+<p>(iv) (C) is correct</p>
+\(\frac{2tan30^{\circ}}{ 1 &#8211; tan^{2}30^{\circ}} = 2\left ( \frac{\frac{1}{\sqrt{3}}}{1 &#8211; \left ( \frac{1}{\sqrt{3}} \right )^{2}} \right )\)
+<p>&nbsp;</p>
+\(\frac{\left ( 2\sqrt{3} \right )}{ 1 &#8211; \frac{1}{3}} = \frac{2\sqrt{3}}{\frac{2}{3}} = \sqrt{3} = tan 60^{\circ}\)
+<p>&nbsp;</p>
+
+
+
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<p><strong>3) If tan (A + B) = \(\sqrt{3}\) and tan ( A &#8211; B) = \(\frac{1}{\sqrt{3} }\);\(0^{0} &lt; A + B &lt;= 90^{\circ}; P&gt;Q\)<br />
+, calculate P and Q</strong></p><h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i)  (A) is correct.</p>
+
+<p><strong>                Ans:-     </strong>tan (A + B) = \(\sqrt{3}\)</p>
+<p>=&gt;tan (A + B) = tan 60°</p>
+<p>=&gt; (A + B) =  60°     … (i)</p>
+<p>=&gt;tan (A &#8211; B) = \(\frac{1}{\sqrt{3}}\)</p>
+<p>=&gt;tan (A &#8211; B) = 30°</p>
+<p>=&gt; (A &#8211; B) = 30°     … (ii)</p>
+<p>Adding (i) and (ii), we get</p>
+<p>A + B + A – B = 60° + 30°</p>
+<p>2A = 90°</p>
+<p>=&gt; A = 45°</p>
+<p>Putting the value of A in equation (i)</p>
+<p>45° + Q = 60°</p>
+<p>=&gt; B = 60° &#8211; 45° = 15°</p>
+<p>Hence, A = 45° and B = 15°</p>
+</div>
+<p>&nbsp;</p>
+
+<p><strong>4)State whether the given statements are true or false,Justify your answer:</strong></p>
+<p><strong>(i) sin (P + Q) = sin P + sin Q.</strong></p>
+<p><strong>(ii) The value of sin θ increases as θ increases.</strong></p>
+<p><strong>(iii) The value of cos θ increases as θ increases.</strong></p>
+<p><strong>(iv) sin θ = cos θ for all values of θ.</strong></p>
+<p><strong>(v) cotP is not defined for P = 0°.</strong></p>
+
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i) False</p>
+<p>Let P = 30° and Q = 60°, then<br />
+sin (P + Q) = sin (30° + 60°) = sin 90° = 1 and,<br />
+sin P + sin Q = sin 30° + sin 60°</p>
+<p>= \(\frac{1}{2} + \frac{\sqrt{3}}{2} = 1 + \frac{\sqrt{3}}{2}\)</p>
+<p>&nbsp;</p>
+<p>(ii) True</p>
+<p>Sin 0° = 0</p>
+<p>Sin 30° = \(\frac{1}{2}\)</p>
+<p>Sin 45° = \(\frac{1}{\sqrt{2}}\)</p>
+<p>Sin 60° = \(\frac{\sqrt{3}}{2}\)</p>
+<p>Sin 90° = 1</p>
+<p>Thus, the value of \(sin \theta\) increases as \(\theta\) increases</p>
+<p>&nbsp;</p>
+<p>(iii) False</p>
+<p>Cos 0° = 1</p>
+<p>Cos 30° = \(\frac{\sqrt{3}}{2}\)</p>
+<p>Cos 45° = \(\frac{1}{\sqrt{2}}\)</p>
+<p>Cos 60° = \(\frac{1}{2}\)</p>
+<p>Cos 90° = 0</p>
+<p>Thus, the value of \(Cos \theta\) decreases as \(\theta\) increases.</p>
+<p>iv)False.
+<p>(v) True</p>
+<p>cot P = \( \frac{cos P}{ sin P}\) </p>
+<p>\(cot 0^{\circ} = \frac{cos 0^{\circ}}{ Sin 0^{\circ}} = \frac{1}{0} = not \: defined\)</p>
+</div>
+<p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @stop
 
