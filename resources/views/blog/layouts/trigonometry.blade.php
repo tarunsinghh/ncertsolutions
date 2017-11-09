@@ -266,7 +266,7 @@ Choose the correct answer?</strong></p>
 
 
 
-<p><strong>3) If tan (A + B) = \(\sqrt{3}\) and tan ( A &#8211; B) = \(\frac{1}{\sqrt{3} }\);\(0^{0} &lt; A + B &lt;= 90^{\circ}; P&gt;Q\)<br />
+<p><strong>3) If tan (A + B) = \(\sqrt{3}\) and tan ( A &#8211; B) = \(\frac{1}{\sqrt{3} }\);\(0^{0} &lt; A + B &lt;= 90^{\circ}; A&gt;B\)<br />
 , calculate P and Q</strong></p><h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
 <p>(i)  (A) is correct.</p>
