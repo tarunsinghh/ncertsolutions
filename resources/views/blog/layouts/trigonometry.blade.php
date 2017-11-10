@@ -233,7 +233,7 @@ sin 2 30 ° + cos 2 30 °?</strong></p>
 
 
 
-<p><strong>Question 1:
+<p><strong>Question 2:
 Choose the correct answer?</strong></p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
@@ -326,10 +326,113 @@ sin P + sin Q = sin 30° + sin 60°</p>
 <p>&nbsp;</p>
 
 
+<p><strong><em>Exercise 7.3</p>
+<p>Question 1:Calculate:</em></strong></p>
+<p><strong>(i) \(\frac{sin 18 ^{\circ}}{cos 72 ^{\circ}}\)</strong></p>
+<p><strong>(ii) \(\frac{tan 26 ^{\circ}}{cot 64 ^{\circ}}\)</strong></p>
+<p><strong>(iii) cos 48° &#8211; sin 42°</strong></p>
+<p><strong>(iv) cosec 31° &#8211; sec 59°</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>\( i)  \frac{sin(90 - 72)}{cos 72} = \frac{cos 72}{cos 72} = 1                                \)</p>
+<p>\( ii) \frac{tan 26}{cot 64} = \frac{tan(90 - 64)}{cot 64} = \frac{cot 64}{cot 64} = 1  \)</p>
+<p> iii) cos(90 - 42) - sin 42 = sin 42 - sin 42 = 0  </p>
+<p> iv) cosec 31 - sec 59 = cosec(90 - 59) - sec 59 =  sec 59 - sec 59 = 0     </p>                                              
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 2: Show that :</strong></p>
+<p><strong> (i) tan 48° tan 23° tan 42° tan 67° = 1</strong></p>
+<p><strong>(ii) cos 38° cos 52° – sin 38° sin 52° = 0</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i)tan 48° tan 23° tan 42° tan 67°<br />
+= tan (90° &#8211; 42°) tan (90° &#8211; 67°) tan 42° tan 67°<br />
+= cot 42° cot 67° tan 42° tan 67°<br />
+= (cot 42° tan 42°) (cot 67° tan 67°) = 1×1 = 1</p>
+<p>(ii) cos 38° cos 52° &#8211; sin 38° sin 52°<br />
+= cos (90° &#8211; 52°) cos (90°-38°) &#8211; sin 38° sin 52°<br />
+= sin 52° sin 38° &#8211; sin 38° sin 52° = 0</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 3: We have tan 2A = cot ( A – 18 ° ), where 2A is an acute angle, calculate the value of A.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>According to question,<br />
+tan 2A = cot (A- 18°)<br />
+=&gt;cot (90° &#8211; 2A) = cot (A -18°)<br />
+Equating angles,<br />
+=&gt;90° &#8211; 2A = A- 18°</p>
+<p>=&gt;108° = 3A<br />
+=&gt; A = 36</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
 
+<p><strong>Question 4: If tan A = cot B, prove that A + B = 90°.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>According to question,</p>
+<p>tanA = cot B<br />
+=&gt;tan A = tan (90° &#8211; B)<br />
+=&gt;A = 90° &#8211; B<br />
+=&gt;A + B = 90°</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 5: If the value of sec 4A = cosec (A – 20°), in which 4A is an acute angle, find the value of A.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>According to question</p>
+<p>sec 4A = cosec (A &#8211; 20°)</p>
+<p>=&gt; cosec (90° &#8211; 4A) = cosec (A &#8211; 20°)</p>
+<p>Equating angles,<br />
+=&gt; 90° &#8211; 4A= A- 20°<br />
+=&gt; 110° = 5A<br />
+=&gt; A = 22°</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+<p><strong>Question 6 :If A,B and C are interior angles of a triangle ABC, then show that</strong></p>
+<p><strong>    sin (B+C/2) = cos \(\frac{A}{2}\)</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>In a triangle, sum of all the interior angles</p>
+<p>A + B + C = \(180^{\circ}\)</p>
+<p>\(\Rightarrow\) B + C = \(180^{\circ}\) &#8211; A</p>
+<p>\(\Rightarrow\) \(\frac{B+C}{2}\) = \(\frac{(180^{\circ}-A)}{2}\)</p>
+<p>\(\Rightarrow\) \(\frac{B+C}{2}\) = \(\left ( 90^{\circ}-\frac{A}{2} \right )\)</p>
+<p>\(\Rightarrow\) sin \(\left ( \frac{B+C}{2} \right )\) = sin \(\left ( 90^{\circ}-\frac{A}{2} \right )\)</p>
+<p>\(\Rightarrow\) sin \(\left ( \frac{B+C}{2} \right )\) = cos\(\frac{A}{2}\)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 7: Express sin \(67^{\circ}\) + cos \(75^{\circ}\) in terms of trigonometric ratios of angles between \(0^{\circ}\) and \(45^{\circ}\).</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>sin \(67^{\circ}\) + cos \(75^{\circ}\)</p>
+<p>= sin (\(90^{\circ}\) &#8211; \(23^{\circ}\)) + cos (\(90^{\circ}\) &#8211; \(15^{\circ}\))<br />
+= cos \(23^{\circ}\) + sin \(15^{\circ}\)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
