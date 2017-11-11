@@ -6,6 +6,9 @@
 
 @section('content')
 
+
+<p><strong>EXERCISE – 1.1</strong></p>
+
 <p><strong>Question 1:<br/>
 Is zero a rational number? Can you write it in the form
 \(   \frac{p}{q}  \) where p and q are integers
@@ -60,6 +63,50 @@ State whether the following statements are true or false. Give reasons for your 
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+
+<p><strong>EXERCISE – 1.2</strong></p>
+
+<p><strong>Question 1:<br/>
+State whether the following statements are true or false. Justify your answers.
+(i) Every irrational number is a real number.
+(ii) Every point on the number line is of the form
+m , where m is a natural number.
+(iii) Every real number is an irrational number.
+?</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>i)Real numbers consists of rational number and irrational numbers ,so every irrational number is a real number.</p>
+<p>ii)Since square root will not give negative numbers we cant represent negative numbers,so not possible.</p>
+<p>iii)Rational numbers are also irrational numbers which are not irrational,so false             </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p><strong>Question 2:<br/>
+Are the square roots of all positive integers irrational? If not, give an example of the
+square root of a number that is a rational number.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Sqaure root of 9 = 3 can be written as \( \frac{3}{1}        \),so the denominator is 1 which is not zero,so its a rational number 
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+<p><strong>Question 3:<br/>
+Show that \(  \sqrt{5}    \) can be represented on number line.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>Draw a line segment of 2 units AB,then draw a line segment AC perpendicular to AB of 1 unit,then by pythagoras
+AC = \( \sqrt{5} \) .Now with A as centre and legnth radius as AC cut a arc on number line which intersects
+number line at P,then P represents \( \sqrt{5}     \) on number line </p> 
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 
 <div id="disqus_thread"></div>
 <script>
