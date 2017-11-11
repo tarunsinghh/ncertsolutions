@@ -160,7 +160,7 @@ return;
        array('Circles','circles'),
        array('Areas related to Circles','areas-related-to-circles'),
        array('Surface Areas and Volumes','surface-areas-and-volumes'),
-       array('Statistics','Statistics'),
+       array('Statistics','statistics'),
        array('Probability','probability')
        
       
