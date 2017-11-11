@@ -437,21 +437,248 @@ Equating angles,<br />
 
 
 
+<p><strong><em>Exercise 7.4</p>
+
+
+<p><strong>Q1) Express the trigonometric ratios sin A, sec A and tan A in terms of cot A.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>\(cosec^{2}A-cot^{2}A=1\)<br />
+\(\Rightarrow\) \(cosec^{2}A\) = 1 + \(cot^{2}A\)<br />
+\(\Rightarrow\) \(\frac{1}{sin^{2}A}\) = 1 + \(cot^{2}A\)<br />
+\(\Rightarrow\) \(sin^{2}A\) = 1/(1+\(cot^{2}A\))<br />
+\(\Rightarrow\) sin A= \(\frac{\pm 1}{\sqrt{1+cot^{2}A}}\)<br />
+Now,<br />
+\(sin^{2}A=\frac{1}{1+cot^{2}A}\)<br />
+\(\Rightarrow\)\(1-cos^{2}A=\frac{1}{1+cot^{2}A}\)<br />
+\(\Rightarrow\) \(cos^{2}A\) = \(1-\frac{1}{1+cot^{2}A}\)<br />
+\(\Rightarrow\)cos<sup>2</sup>A = \(\frac{(1-1+cot^{2}A)}{(1+cot^{2}A)}\)<br />
+\(\Rightarrow\)\(\frac{1}{sec^{2}A}\) = \(\frac{(cot^{2}A)}{(1+cot^{A})}\)<br />
+\(\Rightarrow\)secA = \(\frac{(1+cot^{A})}{(cot^{2}A)}\)</p>
+<p>&nbsp;</p>
+<p>\(\Rightarrow\)secA=\(\frac{\pm \sqrt{1+cot^{2}A}}{cotA}\)</p>
+<p>&nbsp;</p>
+<p>also,<br />
+tan A = \(\frac{sin A}{cos A}\)and cot A = \(\frac{cos A}{sin A}\)</p>
+<p>\(\Rightarrow\) tan A = \(\frac{1}{cot A}\)</p>
+</div>
+<p>&nbsp;</p>
+
+
+
+<p><strong>Question 2:Write all the other trigonometric ratios of \(\angle A\) in terms of sec A.</strong></p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>We know that,<br />
+sec A = \(\frac{1}{cos A}\)<br />
+\(\Rightarrow\)cos A = \(\frac{1}{sec A}\)<br />
+also,<br />
+\(cos^{2}A\) + \(sin^{2}A\) = 1<br />
+\(\Rightarrow\)  \(sin^{2}A\) = 1 &#8211; \(cos^{2}A\)<br />
+\(\Rightarrow\)  \(sin^{2}A\) = 1 &#8211; (\(\frac{1}{sec^{2}A}\))<br />
+\(\Rightarrow\)  \(sin^{2}A\) = \(\frac{\left ( sec^{2}A-1 \right )}{sec^{2}A}\)</p>
+<p>\(\Rightarrow\)  sin A=\(\frac{\pm \sqrt{sec^{2}A-1}}{sec A}\)</p>
+<p>also,<br />
+sin A = \(\frac{1}{cosec A}\)<br />
+\(\Rightarrow\) cosec A = \(\frac{1}{sin A}\)</p>
+<p>\(\Rightarrow\)cosec A=\(\frac{\pm sec A}{\sqrt{sec^{2}A-1}}\)<br />
+Now,<br />
+\(sec^{2}A\) &#8211; \(tan^{2}A\) = 1<br />
+\(\Rightarrow\) \(tan^{2}A\) = \(sec^{2}A\) + 1</p>
+<p>\(\Rightarrow\) tan A=\(\sqrt{sec^{2}A+1}\)<br />
+also,<br />
+tan A = \(\frac{1}{cot A}\)<br />
+\(\Rightarrow\) cot A = \(\frac{1}{tan A}\)</p>
+<p>\(\Rightarrow\)  cot A=\(\frac{\pm 1}{\sqrt{sec^{2}A+1}}\)</p>
+</div>
+<p>&nbsp;</p>
 
 
 
 
+<p><strong>Question 3: Evaluate :</strong></p>
+<p><strong><br />
+</strong>(i) \(\frac{\left ( sin^{2}63^{\circ}+sin^{2}27^{\circ} \right )}{\left ( cos^{2}17^{\circ}+cos^{2}73^{\circ} \right )}\)<br />
+(ii)  \(sin 25^{\circ} cos 65+^{\circ}+cos 25^{\circ}sin 65^{\circ}\)</p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i) \(\frac{\left ( sin^{2}63^{\circ}+sin^{2}27^{\circ} \right )}{\left ( cos^{2}17^{\circ}+cos^{2}73^{\circ} \right )}\)</p>
+<p>&nbsp;</p>
+<p>= \(\frac{[sin^{2}\left ( 90^{\circ} &#8211; 27^{\circ}\right )+sin^{2}27^{\circ}]}{[cos^{2}\left ( 90^{\circ} &#8211; 73^{\circ}\right )+cos^{2}73^{\circ}]}\)<br />
+=\(\frac{(cos^{2}27^{\circ}+sin^{2}27^{\circ})}{(sin^{2}27^{\circ}+cos^{2}73^{\circ})}\)<br />
+= \(\frac{1}{1}\) =1          \(\left ( \ because sin^{2}A+cos^{2}A=1 \right )\)</p>
+<p>(ii) \(sin 25^{\circ} cos 65+^{\circ}+cos 25^{\circ}sin 65^{\circ}\)<br />
+=\(sin(90^{\circ}-25^{\circ})cos 65^{\circ}+cos(90^{\circ}-65^{\circ})sin65^{\circ}\)</p>
+<p>=\(cos 65^{\circ}cos 65^{\circ}+sin 65^{\circ}sin 65^{\circ}\)</p>
+<p>&nbsp;</p>
+<p>= \(cos 65^{\circ}+sin 65^{\circ}\)=1</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
+<p><strong>Question 4: Choose the correct option. Justify your choice.</strong><br />
+(i) 9 \(sec^{2}A\) &#8211; 9 \(tan^{2}A\) =<br />
+(A) 1                 (B) 9              (C) 8                (D) 0<br />
+(ii) (1 + tan \(\Theta\) + sec \(\Theta\)) (1 + cot \(\Theta\) &#8211; cosec \(\Theta\))<br />
+(A) 0                 (B) 1              (C) 2                (D) &#8211; 1<br />
+(iii) (secA + tanA) (1 &#8211; sinA) =<br />
+(A) secA           (B) sinA        (C) cosecA      (D) cosA</p>
+<p>&nbsp;</p>
+<p>(iv) \(\frac{1+tan^{2}A}{1+cot^{2}A}\)=</p>
+<p>(A) \(sec^{2}A\)</p>
+<p>(B) -1</p>
+<p>(C) \(cot^{2}A\)</p>
+<p>(D) \(tan^{2}A\)</p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i) <strong>(B) is correct.</strong></p>
+<p>9 \(sec^{2}A\)&#8211; 9 \(tan^{2}A\)</p>
+<p>= 9 (\(sec^{2}A\)&#8211; \(tan^{2}A\)                 )<br />
+= 9×1 = 9             (\(\ because\)  \(sec^{2}A\)&#8211; \(tan^{2}A\) = 1)</p>
+<p>&nbsp;</p>
+<p>(ii) <strong>(C) is correct</strong></p>
+<p>(1 + tan θ + sec θ) (1 + cot θ &#8211; cosec θ)</p>
+<p>= (1 + sin θ/cos θ + 1/cos θ) (1 + cos θ/sin θ &#8211; 1/sin θ)</p>
+<p>= (cosθ+sin θ+1)/cos θ × (sin θ+cos θ-1)/sin θ</p>
+<p>= (cosθ+sin θ)<sup>2</sup>-1<sup>2</sup>/(cos θ sin θ)</p>
+<p>= (cos<sup>2</sup>θ + sin<sup>2</sup>θ + 2cos θ sin θ -1)/(cos θ sin θ)</p>
+<p>= (1+ 2cos θ sin θ -1)/(cos θ sin θ)</p>
+<p>= (2cos θ sin θ)/(cos θ sin θ) = 2</p>
+<p>&nbsp;</p>
+<p>(iii) <strong>(D) is correct.</strong></p>
+<p>(secA + tanA) (1 – sinA)</p>
+<p>= (1/cos A + sin A/cos A) (1 &#8211; sinA)</p>
+<p>= (1+sin A/cos A) (1 &#8211; sinA)</p>
+<p>= (1 &#8211; sin<sup>2</sup>A)/cos A</p>
+<p>= cos<sup>2</sup>A/cos A = cos A</p>
+<p>&nbsp;</p>
+<p>(iv) <strong>(D) is correct.</strong></p>
+<p>1+tan<sup>2</sup>A/1+cot<sup>2</sup>A</p>
+<p>= (1+1/cot<sup>2</sup>A)/1+cot<sup>2</sup>A</p>
+<p>= (cot<sup>2</sup>A+1/cot<sup>2</sup>A)×(1/1+cot<sup>2</sup>A)</p>
+<p>= 1/cot<sup>2</sup>A = tan<sup>2</sup>A</p>
+</div>
+<p>&nbsp;</p>
 
 
 
-
-
-
-
-
+<p><strong>Q5) Prove the following identities, where the angles involved are acute angles for which theexpressions are defined.</strong></p>
+<p>(i) (cosec θ &#8211; cot θ)<sup>2 </sup>= (1-cos θ)/(1+cos θ)</p>
+<p>(ii) cos A/(1+sin A) + (1+sin A)/cos A = 2 sec A</p>
+<p>(iii) tan θ/(1-cot θ) + cot θ/(1-tan θ) = 1 + sec θ cosec θ</p>
+<p>[Hint : Write the expression in terms of sin θ and cos θ]</p>
+<p>(iv) (1 + sec A)/sec A = sin<sup>2</sup>A/(1-cos A)</p>
+<p>[Hint : Simplify LHS and RHS separately]</p>
+<p>(v) (cos A–sin A+1)/(cosA+sin A–1) = cosec A + cot A,using the identity cosec<sup>2</sup>A = 1+cot<sup>2</sup>A.</p>
+<p>(vi)\(\sqrt{\frac{1+sin A}{1-sin A}}=sec A+tan A\)</p>
+<p>(vii) (sin θ &#8211; 2sin<sup>3</sup>θ)/(2cos<sup>3</sup>θ-cos θ) = tan θ<br />
+(viii) (sin A + cosec A)<sup>2 </sup>+ (cos A + sec A)<sup>2</sup> = 7+tan<sup>2</sup>A+cot<sup>2</sup>A<br />
+(ix) (cosec A – sin A)(sec A – cos A) = 1/(tan A+cotA)<br />
+[Hint : Simplify LHS and RHS separately]<br />
+(x) (1+tan<sup>2</sup>A/1+cot<sup>2</sup>A) = (1-tan A/1-cot A)<sup>2</sup> =<sup> </sup>tan<sup>2</sup>A</p>
+<h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
+<div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>(i) \(\left ( cosec\Theta -cot\Theta \right )^{2}\)<sup> </sup>= (1-cos θ)/(1+cos θ)<br />
+L.H.S. =  \(\left ( cosec\Theta -cot\Theta \right )^{2}\)</p>
+<p>=\(\left ( cosec^{2}\Theta +cot^{2}\Theta-2cosec\Theta cot\Theta \right )\)</p>
+<p>=\(\left ( \frac{1}{sin^{2}\Theta }+\frac{cos^{2}\Theta }{sin^{2}\Theta }-2 \frac{cos\Theta }{sin^{2}\Theta } \right )\)</p>
+<p>= (1 + \(cos^{2}\Theta\) &#8211; 2cos θ)/(1 &#8211; \(cos^{2}\Theta\))<br />
+= \(\left ( 1-cos \Theta\right )^{2}\) /(1 &#8211; cosθ)(1+cos θ)<br />
+= (1-cos θ)/(1+cos θ) = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(ii)  cos A/(1+sin A) + (1+sin A)/cos A = 2 sec A<br />
+L.H.S. = cos A/(1+sin A) + (1+sin A)/cos A<br />
+= [\(cos^{2}A\) +\(\left ( 1+sin A\right )^{2}\)]/(1+sin A)cos A<br />
+= (\(cos^{2}A\) + \(sin^{2}A\) + 1 + 2sin A)/(1+sin A)cos A<br />
+= (1 + 1 + 2sin A)/(1+sin A)cos A<br />
+= (2+ 2sin A)/(1+sin A)cos A<br />
+= 2(1+sin A)/(1+sin A)cos A<br />
+= 2/cos A = 2 sec A = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(iii) tan θ/(1-cot θ) + cot θ/(1-tan θ) = 1 + sec θ cosec θ<br />
+L.H.S. = tan θ/(1-cot θ) + cot θ/(1-tan θ)<br />
+= [(sin θ/cos θ)/1-(cos θ/sin θ)] + [(cos θ/sin θ)/1-(sin θ/cos θ)]<br />
+= [(sin θ/cos θ)/(sin θ-cos θ)/sin θ] + [(cos θ/sin θ)/(cosθ-sin θ)/cos θ]<br />
+= \(sin^{2}\Theta\) /[cos θ(sin θ-cos θ)] + \(cos^{2}\Theta\) /[sin θ(cos θ-sin θ)]<br />
+= \(sin^{2}\Theta\) /[cos θ(sin θ-cos θ)] &#8211; \(cos^{2}\Theta\) /[sin θ(sin θ-cos θ)]<br />
+= 1/(sin θ-cos θ) [(\(sin^{2}\Theta\) /cos θ) &#8211; (\(cos^{2}\Theta\) /sin θ)]<br />
+= 1/(sin θ-cos θ) × [(\(sin^{3}\Theta\) &#8211; \(cos^{3}\Theta\))/sin θ cos θ]<br />
+= [(sin θ-cos θ)(\(sin^{2}\Theta\) +\(cos^{2}\Theta\) +sin θ cos θ)]/[(sin θ-cos θ)sin θ cos θ]<br />
+= (1 + sin θ cos θ)/sin θ cos θ)<br />
+= 1/sin θ cos θ + 1<br />
+= 1 + sec θ cosec θ = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(iv)  (1 + sec A)/sec A = \(sin^{2}\Theta\) /(1-cos A)<br />
+L.H.S. = (1 + sec A)/sec A<br />
+= (1 + 1/cos A)/1/cos A<br />
+= (cos A + 1)/cos A/1/cos A<br />
+= cos A + 1<br />
+R.H.S. = \(sin^{2}\Theta\) /(1-cos A)<br />
+= (1 &#8211;\(cos^{2}\Theta\))/(1-cos A)<br />
+= (1-cos A)(1+cos A)/(1-cos A)<br />
+= cos A + 1<br />
+L.H.S. = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(v) (cos A–sin A+1)/(cosA+sin A–1) = cosec A + cot A,using the identity \(cosec^{2}A\) = 1+\(cot^{2}A\).<br />
+L.H.S. = (cos A–sin A+1)/(cosA+sin A–1)<br />
+Dividing Numerator and Denominator by sin A,<br />
+= (cos A–sin A+1)/sin A/(cosA+sin A–1)/sin A<br />
+= (cot A &#8211; 1 + cosec A)/(cot A+ 1 – cosec A)<br />
+= (cot A &#8211; \(cosec^{2}A\) + \(cot^{2}A\) + cosec A)/(cot A+ 1 – cosec A) (using \(cosec^{2}A\) &#8211; \(cot^{2}A\) = 1)<br />
+= [(cot A + cosec A) &#8211; (\(cosec^{2}A\) &#8211; \(cot^{2}A\))]/(cot A+ 1 – cosec A)<br />
+= [(cot A + cosec A) &#8211; (cosec A + cot A)(cosec A &#8211; cot A)]/(1 – cosec A + cot A)<br />
+=  (cot A + cosec A)(1 – cosec A + cot A)/(1 – cosec A + cot A)<br />
+=  cot A + cosec A = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(vi)\(\sqrt{\frac{1+sin A}{1-sin A}}=sec A+tan A\)</p>
+<p>Dividing Numerator and Denominator of L.H.S. by cos A,</p>
+<p>= \(\frac{\sqrt{\frac{1}{cos A}+\frac{sin A}{cos A}}}{\sqrt{\frac{1}{cos A}-\frac{sin A}{cos A}}}\)</p>
+<p>&nbsp;</p>
+<p>= \(\frac{\sqrt{sec A+tan A}}{\sqrt{sec A- tan A}}\)</p>
+<p>&nbsp;</p>
+<p>= \(\frac{\sqrt{sec A+tan A}}{\sqrt{sec A- tan A}}X\frac{\sqrt{sec A+tan A}}{\sqrt{sec A+ tan A}}\)</p>
+<p>&nbsp;</p>
+<p>=\(\frac{\sqrt{\left ( sec A+tan A \right )^{2}}}{\sqrt{sec^{2}A-tan^{2}A} }\)</p>
+<p>&nbsp;</p>
+<p>=\(\frac{sec A+tan A}{1}\)</p>
+<p>= sec A + tan A = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(vii) (sin θ &#8211; 2\(sin^{3}\Theta\))/(2\(cos^{3}\Theta\) -cos θ) = tan θ<br />
+L.H.S. = (sin θ &#8211; 2\(sin^{3}\Theta\))/(2\(cos^{3}\Theta\) &#8211; cos θ)<br />
+= [sin θ(1 &#8211; 2\(sin^{2}\Theta\))]/[cos θ(2\(cos^{2}\Theta\) &#8211; 1)]<br />
+= sin θ[1 &#8211; 2(1-\(cos^{2}\Theta\))]/[cosθ(2\(cos^{2}\Theta\)-1)]<br />
+= [sin θ(2\(cos^{2}\Theta\) -1)]/[cos θ(2\(cos^{2}\Theta\) -1)]<br />
+= tan θ = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(viii) \(\left ( sin A+cosec A \right )^{2}\)<sup> </sup>+ \(\left (cosA+sec A \right )^{2}\) = 7+\(tan^{2}A\) +\(cot^{2}A\)<br />
+L.H.S. =  \(\left ( sin A+cosec A \right )^{2}\)<sup> </sup>+ \(\left (cosA+sec A \right )^{2}\)<br />
+<sup>               </sup>= (\(sin^{2}A\) + \(cosec^{2}A\) + 2 sin A cosec A) + (\(tcos^{2}A\) + \(sec^{2}A\) + 2 cos A sec A)<br />
+= (\(sin^{2}A\) + \(cos^{2}A\)) + 2 sin A(1/sin A) + 2 cos A(1/cos A) + 1 + \(tan^{2}A\) + 1 + \(cot^{2}A\)<br />
+= 1 + 2 + 2 + 2 + \(tan^{2}A\) + \(cot^{2}A\)<br />
+= 7+\(tan^{2}A\)+\(cot^{2}A\) = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(ix) (cosec A – sin A)(sec A – cos A) = 1/(tan A+cotA)<br />
+L.H.S. = (cosec A – sin A)(sec A – cos A)<br />
+= (1/sin A &#8211; sin A)(1/cos A &#8211; cos A)<br />
+= [(1-\(sin^{2}A\))/sin A][(1-\(cos^{2}A\))/cos A]<br />
+= (\(cos^{2}A\)/sin A)×(\(sin^{2}A\)/cos A)<br />
+= cos A sin A<br />
+R.H.S. = 1/(tan A+cotA)<br />
+= 1/(sin A/cos A +cos A/sin A)<br />
+= 1/[(\(sin^{2}A\)+\(cos^{2}A\))/sin A cos A]<br />
+= cos A sin A<br />
+L.H.S. = R.H.S.</p>
+<p>&nbsp;</p>
+<p>(x)  (1+\(tan^{2}A\)/1+\(cot^{2}A\)) = \(\left ( \frac{1-tan A}{1-cot A} \right )^{2}\) =\(tan^{2}A\)<br />
+L.H.S. = (1+\(tan^{2}A\)/1+\(cot^{2}A\))<br />
+= (1+\(tan^{2}A\)/1+1/\(tan^{2}A\))<br />
+= 1+\(tan^{2}A\)/[(1+\(tan^{2}A\))/\(tan^{2}A\)]<br />
+= \(tan^{2}A\)</p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 
