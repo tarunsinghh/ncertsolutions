@@ -136,7 +136,9 @@
 
            
 
-
+             <a href="/solutions/statistics">
+              <h4 class="post-title">Statistics</h4>
+          </a>
          
               
          
