@@ -61,10 +61,6 @@ State whether the following statements are true or false. Give reasons for your 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
-
-
-
 <div id="disqus_thread"></div>
 <script>
    
