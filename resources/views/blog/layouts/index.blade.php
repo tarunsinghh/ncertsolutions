@@ -167,6 +167,10 @@
  <a href="/solutions/number-system">
               <h4 class="post-title">Number System</h4>
           </a>
+
+           <a href="/solutions/polynomial-9">
+              <h4 class="post-title">Polynomials</h4>
+          </a>
                     
           
           <a href="/solutions/triangles">

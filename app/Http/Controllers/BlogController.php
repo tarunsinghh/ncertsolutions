@@ -169,7 +169,8 @@ return;
 
         array('Triangles','triangles'),
         array('Surface Areas and Volumes','surface-areas-and-volumes-9'),
-        array('Number System','number-system')
+        array('Number System','number-system'),
+        array('Polynomials','polynomial-9')
 
       ),
       '11'=>array (
