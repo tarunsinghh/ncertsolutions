@@ -421,6 +421,7 @@ Factorise :
 <p>&nbsp;</p>
 
 
+
 <p><strong>Question 5:<br/>
 Factorise :
 (i)\( x^{3} – 2x^{2} – x + 2 \)
@@ -429,7 +430,28 @@ Factorise :
 (iv)\( 2y^{3} + y^{2} – 2y – 1 \) </p>
 <h3 class="azc_tsh_toggle" style="border: 1px solid #cccccc; background-color: #f2f2f2; background-image: none !important; padding-left: 10px; "><a href="#" style="font-size: 14px; 14px">Show Answer</a></h3>
 <div class="azc_tsh_toggle_container" style="border: 1px solid rgb(204, 204, 204); font-size: 14px;margin-left:14px"><br>
+<p>i)By trial p(-1) = 0,so x+1 is a factor </p>
+<p><img class="alignnone wp-image-2112" src="/polynomial12.gif" alt="8" width="400" height="300" /></p>
+<p>Now, Dividend = Divisor × Quotient + Remainder</p>
+<p><em>\((x+1) (x^{2} &#8211; 3x + 2)\\ = (x+1) (x^{2} &#8211; x &#8211; 2x + 2)\\ = (x+1) (x(x-1) -2(x-1))\\ = (x+1) (x-1) (x+2)\)</em></p>
 
+<p>ii)By trial p(5) = 0,so x+1 is a factor </p>
+<p><img class="alignnone wp-image-2112" src="/polynomial13.gif" alt="8" width="400" height="300" /></p>
+Now, Dividend = Divisor × Quotient + Remainder</p>
+\((x-5) (x^{2} + 2x + 1)\\ = (x-5) (x^{2} + x + x + 1)\\ = (x-5) (x(x+1) +1(x+1))\\ = (x-5) (x+1) (x+1)\)
+
+
+<p>iii)By trial p(-1) = 0,so x+1 is a factor </p>
+<p><img class="alignnone wp-image-2112" src="/polynomial14.gif" alt="8" width="400" height="300" /></p>
+<p>Now, Dividend = Divisor × Quotient + Remainder</p>
+<p><em>\((x+1) (x^{2} + 12x + 20)\\ = (x+1) (x^{2} + 2x + 10x + 20)\\ = (x-5) {x(x+2) +10(x+2)}\\ = (x-5) (x+2) (x+10)\)</em></p>
+
+
+
+<p>iv)By trial p(1) = 0,so y+1 is a factor </p>
+<p><img class="alignnone wp-image-2112" src="/polynomial15.gif" alt="8" width="400" height="300" /></p>
+<p>Now, Dividend = Divisor × Quotient + Remainder</p>
+<p><em>\((y-1) (2y^{2} + 3y + 1)\\ = (y-1) (2y^{2} + 2y + y + 1)\\ = (y-1) (2y(y+1) +1(y+1))\\ = (y-1) (2y+1) (y+1)\)</em></p>
 
 
 </div>
@@ -438,7 +460,7 @@ Factorise :
 
 
 
-
+<p><strong>EXERCISE – 2.5</strong></p>
 
 <p><strong>Question 1:<br/>
 Use suitable identities to find the following products:
